@@ -1,0 +1,126 @@
+{
+  "part": 1,
+  "title": "Part 1 - Essentials of Internal Auditing",
+  "questions": [
+    {
+      "id": "p1-q-001",
+      "question": "다음 중 IIA가 정의하는 내부감사의 핵심 요소가 아닌 것은?",
+      "options": [
+        "독립적·객관적 보증 및 컨설팅 활동",
+        "조직의 운영 개선 및 가치 부가",
+        "외부 재무제표에 대한 의견 인증",
+        "위험관리·통제·거버넌스 프로세스의 효과성 평가"
+      ],
+      "answer": 2,
+      "explanation": "외부 재무제표에 대한 의견 인증은 외부감사인(CPA)의 영역. 내부감사는 독립적·객관적 보증 및 컨설팅을 통해 조직의 가치 부가와 운영 개선을 목표로 한다."
+    },
+    {
+      "id": "p1-q-002",
+      "question": "최고감사책임자(CAE)의 보고체계 중 독립성을 가장 잘 보장하는 구조는?",
+      "options": [
+        "기능적·행정적 모두 CEO에게 보고",
+        "기능적으로 이사회/감사위원회, 행정적으로 CEO에게 보고",
+        "기능적·행정적 모두 CFO에게 보고",
+        "기능적·행정적 모두 외부감사인에게 보고"
+      ],
+      "answer": 1,
+      "explanation": "IIA 권고: 기능적(functional)으로는 이사회/감사위원회에, 행정적(administrative)으로는 CEO에게 보고하는 이중 보고체계가 독립성을 가장 잘 보장한다."
+    },
+    {
+      "id": "p1-q-003",
+      "question": "IIA Code of Ethics의 4대 원칙에 포함되지 않는 것은?",
+      "options": [
+        "Integrity(고결성)",
+        "Objectivity(객관성)",
+        "Confidentiality(기밀성)",
+        "Profitability(수익성)"
+      ],
+      "answer": 3,
+      "explanation": "IIA 윤리강령 4대 원칙: Integrity, Objectivity, Confidentiality, Competency. 수익성은 윤리 원칙이 아니다."
+    },
+    {
+      "id": "p1-q-004",
+      "question": "Three Lines Model(2020 개정)에서 내부감사의 위치는?",
+      "options": [
+        "1선 — 운영 관리",
+        "2선 — 위험·컴플라이언스 기능",
+        "3선 — 독립적 보증",
+        "거버닝 바디 직속의 별도 선"
+      ],
+      "answer": 2,
+      "explanation": "내부감사는 3선(Third Line)에 위치하며 독립적 보증을 제공한다. 1선은 운영 관리, 2선은 위험관리·컴플라이언스 등 지원 기능."
+    },
+    {
+      "id": "p1-q-005",
+      "question": "내부감사인이 6개월 전까지 구매부서장으로 근무했다. 즉시 구매부서에 대한 보증 감사 약속을 수행할 수 있는가?",
+      "options": [
+        "가능 — 현재는 감사부서 소속이므로 무방",
+        "가능 — CAE의 승인만 있으면 됨",
+        "불가능 — 통상 12개월 이상 경과해야 객관성 보장",
+        "불가능 — 영구히 해당 부서 감사 불가"
+      ],
+      "answer": 2,
+      "explanation": "IIA Standard 1130.A1: 자신이 책임졌던 활동에 대한 보증 약속은 객관성이 손상된 것으로 간주되며, 통상 최소 12개월 이상 경과해야 한다."
+    },
+    {
+      "id": "p1-q-006",
+      "question": "COSO 내부통제 통합프레임워크의 5대 구성요소가 아닌 것은?",
+      "options": [
+        "통제환경 (Control Environment)",
+        "위험평가 (Risk Assessment)",
+        "외부감사 (External Audit)",
+        "모니터링 활동 (Monitoring Activities)"
+      ],
+      "answer": 2,
+      "explanation": "COSO 5대 요소: 통제환경, 위험평가, 통제활동, 정보 및 의사소통, 모니터링 활동. 외부감사는 포함되지 않는다."
+    },
+    {
+      "id": "p1-q-007",
+      "question": "예방통제(Preventive Control)에 해당하는 것은?",
+      "options": [
+        "월말 은행 잔액 대사",
+        "이상거래 자동 알림 보고서",
+        "직무분리(Segregation of Duties)",
+        "내부감사 약속 수행"
+      ],
+      "answer": 2,
+      "explanation": "직무분리는 부정·오류 발생 자체를 사전에 방지하는 예방통제. 대사·예외 보고서·내부감사는 발견통제."
+    },
+    {
+      "id": "p1-q-008",
+      "question": "IIA QAIP에서 요구하는 외부 평가의 최소 주기는?",
+      "options": [
+        "3년에 1회",
+        "5년에 1회",
+        "7년에 1회",
+        "10년에 1회"
+      ],
+      "answer": 1,
+      "explanation": "Standard 1312: 최소 5년에 1회 이상 외부 평가가 필요하다."
+    },
+    {
+      "id": "p1-q-009",
+      "question": "부정 트라이앵글(Fraud Triangle)의 3요소 중 내부통제 설계로 가장 직접 줄일 수 있는 것은?",
+      "options": [
+        "Pressure(압박)",
+        "Opportunity(기회)",
+        "Rationalization(합리화)",
+        "Personality(성격)"
+      ],
+      "answer": 1,
+      "explanation": "통제 설계는 주로 '기회(Opportunity)'를 축소하는 데 효과적이다. 압박과 합리화는 개인적·환경적 요인으로 통제로 직접 다루기 어렵다."
+    },
+    {
+      "id": "p1-q-010",
+      "question": "고유위험(Inherent Risk)과 잔여위험(Residual Risk)의 관계는?",
+      "options": [
+        "잔여위험 = 고유위험 + 통제효과",
+        "잔여위험 = 고유위험 − 통제효과",
+        "잔여위험 = 고유위험 × 발생빈도",
+        "잔여위험과 고유위험은 같은 개념"
+      ],
+      "answer": 1,
+      "explanation": "잔여위험은 고유위험에 통제를 적용한 후 남는 위험. 감사인은 잔여위험이 조직의 위험 수용도(risk appetite) 내에 있는지 평가한다."
+    }
+  ]
+}

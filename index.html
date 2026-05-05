@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="공인내부감사사(CIA) 학습 사이트 - 플래시카드와 퀴즈로 효과적 학습">
+  <meta name="theme-color" content="#2b6cb0">
+  <title>CIA Level Study - 공인내부감사사 학습</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <a href="index.html">
+        <span class="brand-icon">CIA</span>
+        <span>Level Study</span>
+      </a>
+    </div>
+    <div class="header-actions">
+      <button id="themeToggle" class="icon-btn" aria-label="테마 변경">🌙</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h1>공인내부감사사 학습</h1>
+      <p>Certified Internal Auditor — Part 1·2·3 플래시카드 / 퀴즈 학습</p>
+    </section>
+
+    <section id="parts" class="parts-grid"></section>
+  </main>
+
+  <footer>
+    <p>학습 진도는 이 기기의 브라우저에 저장됩니다.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+  <script>
+    CIA.setupHeader();
+
+    async function renderParts() {
+      const grid = document.getElementById("parts");
+      try {
+        const manifest = await CIA.loadManifest();
+        grid.innerHTML = "";
+        for (const part of manifest.parts) {
+          const cardCount = await getCount(part, "flashcards");
+          const quizCount = await getCount(part, "quiz");
+          const progress = CIA.Progress.loadFlashcards(part.id);
+          const studiedCount = progress.studied.length;
+          const pct = cardCount > 0 ? Math.round((studiedCount / cardCount) * 100) : 0;
+
+          const hasContent = cardCount > 0 || quizCount > 0;
+
+          const div = document.createElement("div");
+          div.className = "part-card";
+          div.innerHTML = `
+            <div class="part-number">Part ${part.number}</div>
+            <div class="part-title">${escapeHTML(part.title)}</div>
+            <div class="part-title-ko">${escapeHTML(part.titleKo)}</div>
+            <div class="part-desc">${escapeHTML(part.description)}</div>
+            ${hasContent ? `
+              <div>
+                <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+                <div class="progress-text">학습 ${studiedCount} / ${cardCount} 장 · 퀴즈 ${quizCount}문</div>
+              </div>
+            ` : `<div class="progress-text">아직 콘텐츠가 없습니다 — data/${part.id}/ 폴더에 추가하세요</div>`}
+            <div class="part-actions">
+              <a class="btn btn-primary" href="flashcards.html?part=${part.id}" ${cardCount === 0 ? "aria-disabled='true' style='pointer-events:none;opacity:.5'" : ""}>📇 카드</a>
+              <a class="btn" href="quiz.html?part=${part.id}" ${quizCount === 0 ? "aria-disabled='true' style='pointer-events:none;opacity:.5'" : ""}>📝 퀴즈</a>
+            </div>
+          `;
+          grid.appendChild(div);
+        }
+      } catch (e) {
+        grid.innerHTML = `<div class="empty-state"><h2>로딩 오류</h2><p>${escapeHTML(e.message)}</p></div>`;
+      }
+    }
+
+    async function getCount(part, type) {
+      const data = await CIA.loadPartData(part, type);
+      if (!data) return 0;
+      return type === "flashcards" ? (data.cards || []).length : (data.questions || []).length;
+    }
+
+    function escapeHTML(s) {
+      return String(s).replace(/[&<>"']/g, (c) => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+      }[c]));
+    }
+
+    renderParts();
+  </script>
+</body>
+</html>

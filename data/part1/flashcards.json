@@ -1,0 +1,111 @@
+{
+  "part": 1,
+  "title": "Part 1 - Essentials of Internal Auditing",
+  "cards": [
+    {
+      "id": "p1-001",
+      "category": "내부감사 정의",
+      "front": "IIA가 정의하는 내부감사(Internal Auditing)란?",
+      "back": "조직의 운영을 개선하고 가치를 부가하기 위해 설계된 독립적·객관적 보증 및 컨설팅 활동. 체계적이고 훈련된 접근방법으로 위험관리·통제·거버넌스 프로세스의 효과성을 평가·개선하여 조직의 목표 달성을 돕는다.",
+      "tags": ["정의", "기초"]
+    },
+    {
+      "id": "p1-002",
+      "category": "독립성과 객관성",
+      "front": "내부감사의 '독립성(Independence)'과 '객관성(Objectivity)'의 차이는?",
+      "back": "독립성은 조직(부서/기능) 차원의 속성 — 감사기능이 편향 없이 책무를 수행할 수 있는 보고체계와 위상. 객관성은 개인(감사인) 차원의 속성 — 공정한 정신적 태도, 이해상충 회피.",
+      "tags": ["독립성", "객관성"]
+    },
+    {
+      "id": "p1-003",
+      "category": "독립성과 객관성",
+      "front": "최고감사책임자(CAE)의 보고체계로서 독립성을 보장하는 가장 적절한 구조는?",
+      "back": "기능적(functional)으로는 이사회/감사위원회에 보고하고, 행정적(administrative)으로는 CEO에게 보고하는 이중 보고체계. CAE 임면·보수에 대한 이사회의 승인이 권고됨.",
+      "tags": ["독립성", "지배구조", "CAE"]
+    },
+    {
+      "id": "p1-004",
+      "category": "IIA 표준",
+      "front": "IIA의 'International Professional Practices Framework(IPPF)' 핵심 요소는?",
+      "back": "Mission, 의무 가이드(Core Principles, Definition, Code of Ethics, Standards), 권고 가이드(Implementation Guidance, Supplemental Guidance).",
+      "tags": ["IPPF", "표준"]
+    },
+    {
+      "id": "p1-005",
+      "category": "직업윤리",
+      "front": "IIA Code of Ethics의 4대 원칙은?",
+      "back": "Integrity(고결성), Objectivity(객관성), Confidentiality(기밀성), Competency(역량).",
+      "tags": ["윤리", "원칙"]
+    },
+    {
+      "id": "p1-006",
+      "category": "위험관리",
+      "front": "위험관리 3선 모델(Three Lines Model, 2020 개정판)에서 각 선의 역할은?",
+      "back": "1선: 운영 관리(위험을 직접 보유·관리). 2선: 위험·컴플라이언스 기능(전문성 제공·모니터링). 3선: 내부감사(독립적 보증). 거버닝 바디는 책무, 경영진은 행동.",
+      "tags": ["3선모델", "위험관리"]
+    },
+    {
+      "id": "p1-007",
+      "category": "위험관리",
+      "front": "잔여위험(Residual Risk)과 고유위험(Inherent Risk)의 차이는?",
+      "back": "고유위험: 통제가 적용되기 전의 위험 수준. 잔여위험: 경영진의 통제 적용 후 남는 위험 수준. 감사인은 잔여위험이 위험 수용도(risk appetite) 내에 있는지 평가.",
+      "tags": ["위험", "통제"]
+    },
+    {
+      "id": "p1-008",
+      "category": "통제",
+      "front": "COSO 내부통제 통합프레임워크의 5대 구성요소는?",
+      "back": "통제환경(Control Environment), 위험평가(Risk Assessment), 통제활동(Control Activities), 정보 및 의사소통(Information & Communication), 모니터링 활동(Monitoring Activities).",
+      "tags": ["COSO", "내부통제"]
+    },
+    {
+      "id": "p1-009",
+      "category": "통제",
+      "front": "예방통제(Preventive)와 발견통제(Detective)의 예시 차이는?",
+      "back": "예방통제: 오류·부정 발생 자체를 막음 (예: 직무분리, 접근권한 제한, 승인 절차). 발견통제: 발생한 사건을 사후 식별 (예: 정기 대사, 예외 보고서, 내부감사).",
+      "tags": ["통제유형"]
+    },
+    {
+      "id": "p1-010",
+      "category": "감사 약속",
+      "front": "보증(Assurance) 약속과 컨설팅(Consulting) 약속의 차이는?",
+      "back": "보증: 3자 관계(감사인-피감사자-이용자), 감사인이 독립적 평가를 제공. 컨설팅: 2자 관계(감사인-고객), 자문·조언 성격, 약속 범위가 고객과 합의.",
+      "tags": ["감사유형"]
+    },
+    {
+      "id": "p1-011",
+      "category": "독립성과 객관성",
+      "front": "내부감사인이 과거 1년 이내에 운영했던 부서를 즉시 감사할 수 있는가?",
+      "back": "원칙적으로 불가. IIA Standard 1130.A1에 따라 자신이 책임졌던 활동에 대한 보증 약속은 객관성이 손상된 것으로 간주 — 통상 12개월 이상 경과해야 함.",
+      "tags": ["객관성", "이해상충"]
+    },
+    {
+      "id": "p1-012",
+      "category": "직업적 주의",
+      "front": "'Due Professional Care(적절한 직업적 주의)'가 요구하는 것은?",
+      "back": "합리적으로 신중한 감사인이 같은 상황에서 발휘할 기술과 주의. 절대적 보증이 아닌 합리적 보증을 의미. 약속 범위, 복잡성, 비용·편익을 고려해야 함.",
+      "tags": ["직업적주의", "표준"]
+    },
+    {
+      "id": "p1-013",
+      "category": "품질보증",
+      "front": "IIA가 요구하는 품질보증 및 개선 프로그램(QAIP)의 외부평가 주기는?",
+      "back": "최소 5년에 1회 이상 외부 평가(External Assessment) 필수. 자기평가 + 독립적 검증 또는 완전한 외부 평가 형태 가능.",
+      "tags": ["QAIP", "품질"]
+    },
+    {
+      "id": "p1-014",
+      "category": "부정",
+      "front": "부정 트라이앵글(Fraud Triangle)의 3요소는?",
+      "back": "Pressure(압박/동기), Opportunity(기회), Rationalization(합리화). 내부감사인은 통제 설계 시 특히 '기회'를 줄이는 데 초점.",
+      "tags": ["부정", "사기"]
+    },
+    {
+      "id": "p1-015",
+      "category": "거버넌스",
+      "front": "내부감사가 조직 거버넌스에 기여하는 핵심 방식은?",
+      "back": "윤리·가치 증진, 효과적 성과관리·책무성 확보, 위험·통제 정보의 적절한 부서 간 전달, 거버닝 바디·경영진·내·외부감사인 간 활동 조율 평가.",
+      "tags": ["거버넌스"]
+    }
+  ]
+}

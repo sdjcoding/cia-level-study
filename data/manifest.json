@@ -1,0 +1,33 @@
+{
+  "title": "CIA Level Study",
+  "subtitle": "공인내부감사사(Certified Internal Auditor) 학습",
+  "parts": [
+    {
+      "id": "part1",
+      "number": 1,
+      "title": "Essentials of Internal Auditing",
+      "titleKo": "내부감사 기초",
+      "description": "IIA 표준, 독립성과 객관성, 거버넌스, 위험관리, 직업적 주의 등",
+      "flashcards": "data/part1/flashcards.json",
+      "quiz": "data/part1/quiz.json"
+    },
+    {
+      "id": "part2",
+      "number": 2,
+      "title": "Practice of Internal Auditing",
+      "titleKo": "감사 실무",
+      "description": "감사 계획, 수행, 보고, 후속조치 — 감사 약속(Engagement) 전반",
+      "flashcards": "data/part2/flashcards.json",
+      "quiz": "data/part2/quiz.json"
+    },
+    {
+      "id": "part3",
+      "number": 3,
+      "title": "Business Knowledge for Internal Auditing",
+      "titleKo": "비즈니스 지식",
+      "description": "지배구조, IT, 재무관리, 비즈니스 환경 등 일반 경영지식",
+      "flashcards": "data/part3/flashcards.json",
+      "quiz": "data/part3/quiz.json"
+    }
+  ]
+}
