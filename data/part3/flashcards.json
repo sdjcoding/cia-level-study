@@ -1,286 +1,406 @@
 {
   "part": 3,
   "title": "Part 3 - Business Knowledge for Internal Auditing",
-  "source": "Gleim 2014 / 第三章 组织结构与流程",
+  "source": "Gleim 2014 / Ch.3 Organizational Structure & Processes",
   "cards": [
     {
       "id": "p3-ch03-001",
       "category": "3.1 조직설계 - 기본방법",
+      "category_en": "3.1 Organizational Design - Basic Approaches",
       "front": "조직설계의 3가지 기본 방법은? (Classical / Behavioral / Contingency)",
+      "front_en": "What are the 3 basic approaches to organizational design?",
       "back": "① Classical(전통/고전적): 권력·책임·명령통일·임무·등급·좁은 통제범위 강조. 직무가 먼저 규정되고 사람이 배정됨.\n② Behavioral(행위적): 인간의 한계·신념·효능·흥미를 강조. 직무는 사람을 위해 설계.\n③ Contingency(임의제의/상황적): 조직 고유 상황에 맞춰 설계. 전통+행위 결합, 사람과 직무가 서로 적응.",
+      "back_en": "① Classical (traditional): emphasizes authority, responsibility, unity of command, tasks, hierarchy, and narrow span of control. Jobs are defined first, then people fit into jobs.\n② Behavioral: emphasizes human limits, beliefs, abilities, and interests. Jobs are designed for people.\n③ Contingency: designs the organization based on its unique situation. Combines classical and behavioral; people and jobs must fit each other.",
       "tags": ["조직설계", "Classical", "Behavioral", "Contingency"]
     },
     {
       "id": "p3-ch03-002",
       "category": "3.1 목표 통일",
+      "category_en": "3.1 Goal Congruence",
       "front": "Goal Congruence(목표통일)에서 효과성과 효율성의 차이는?",
+      "front_en": "Effectiveness vs. Efficiency in Goal Congruence?",
       "back": "조직 구조가 목표 달성에 기여하면 → '효과적(Effective)'. 자원 낭비를 최소화하면 → '효율적(Efficient)'. 두 속성은 모두 조직설계의 기본 원칙.",
+      "back_en": "If a structure helps the organization achieve its goals, it is effective. If it minimizes the waste of resources, it is efficient. Both are basic principles of organizational design.",
       "tags": ["효과성", "효율성", "목표통일"]
     },
     {
       "id": "p3-ch03-003",
       "category": "3.1 통제범위 (Span of Control)",
+      "category_en": "3.1 Span of Control",
       "front": "통제범위(Span of Control)란 무엇이며, 공식은?",
+      "front_en": "What is Span of Control, and what is its formula?",
       "back": "한 경영자에게 직접 보고하는 부하의 수. 공식: S = M / m\n(S = 통제범위, M = 경영자의 총 소통시간, m = 부하 1인당 평균 소통시간). 효과적 감독이 가능한 인원수에는 한계가 있다.",
+      "back_en": "The number of subordinates directly reporting to a manager. Formula: S = M / m, where S = span of control, M = total time available for communication, and m = average time per subordinate. The number a manager can effectively supervise is limited.",
       "tags": ["통제범위", "Span of Control"]
     },
     {
       "id": "p3-ch03-004",
       "category": "3.1 통제범위",
+      "category_en": "3.1 Span of Control",
       "front": "이상적인 통제범위가 '넓어지는' 조건 5가지는?",
+      "front_en": "5 conditions under which a wider span of control is ideal?",
       "back": "① 경영자-부하 접촉이 빈번\n② 경영자가 위임 의지가 강함\n③ 경영자가 잘 훈련되었고 의사소통 효과적\n④ 부하 직무가 유사하고 작업절차가 표준화됨\n⑤ 경영자와 부하가 같은 장소에서 근무.",
+      "back_en": "① Frequent manager-subordinate contact\n② Manager is willing to delegate\n③ Manager is well-trained and communicates effectively\n④ Subordinate jobs are similar and procedures standardized\n⑤ Manager and subordinates work at the same location.",
       "tags": ["통제범위", "넓은범위"]
     },
     {
       "id": "p3-ch03-005",
       "category": "3.1 통제범위",
+      "category_en": "3.1 Span of Control",
       "front": "이상적인 통제범위가 '좁아지는' 조건은?",
+      "front_en": "Conditions under which a narrower span of control is ideal?",
       "back": "① 업무가 점점 복잡해짐\n② 감독 빈도·강도가 증가\n③ 다른 감독자와 협조에 시간이 더 듦\n④ 계획 업무에 시간이 더 필요.",
+      "back_en": "① Work becomes more complex\n② Frequency and intensity of supervision increase\n③ More time is required to coordinate with other supervisors\n④ More time is needed for planning.",
       "tags": ["통제범위", "좁은범위"]
     },
     {
       "id": "p3-ch03-006",
       "category": "3.1 평탄/고탑 구조",
-      "front": "Flat structure(평탄)과 Tall structure(고탑)의 장단점 비교",
+      "category_en": "3.1 Flat vs. Tall Structures",
+      "front": "Flat structure(평탄)와 Tall structure(고탑)의 장단점 비교",
+      "front_en": "Compare advantages and disadvantages of Flat vs. Tall structures",
       "back": "Flat: 통제범위 넓음·관리계층 적음. 장점=정보 흐름 빠름, 직원 만족도↑. 단점=감독↓로 훈련 부족·협조 부족·행동문제.\nTall: 통제범위 좁음·관리계층 많음. 장점=문제해결 빠르고 효과적, 경영자-직원 상호작용·명령 강제↑. 단점=의사결정 느림, 과잉감독, 관리비↑, 자율성↓.\n조사상 어느 쪽이 더 우세한지는 결론 없음.",
+      "back_en": "Flat: wide span of control, fewer management layers. Pros: faster information flow, higher employee satisfaction. Cons: less supervision can lead to insufficient training, poor coordination, and behavioral issues.\nTall: narrow span, many layers. Pros: faster and more effective problem-solving, more manager-subordinate interaction, stronger command enforcement. Cons: slower decision-making, over-supervision, higher management costs, less initiative.\nResearch is inconclusive on which is superior.",
       "tags": ["Flat", "Tall", "구조비교"]
     },
     {
       "id": "p3-ch03-007",
       "category": "3.1 명령통일",
+      "category_en": "3.1 Unity of Command",
       "front": "Unity of Command(명령통일) 원칙이란?",
+      "front_en": "What is the Unity of Command principle?",
       "back": "전통적 조직(예: 군대)이 강조하는 원칙. 권력과 책임이 명확히 구분되고, **각 부하는 단 한 명의 상사에게만 보고**한다. 조직이 커질수록 더 중요해짐.",
+      "back_en": "A principle stressed by traditional organizations (e.g., the military). Authority and responsibility are clearly defined, and each subordinate reports to only one supervisor. The principle becomes more important as the organization grows.",
       "tags": ["명령통일", "Unity of Command"]
     },
     {
       "id": "p3-ch03-008",
       "category": "3.1 Line vs Staff",
+      "category_en": "3.1 Line vs. Staff",
       "front": "Line(실선) 활동과 Staff(직원) 활동의 차이는?",
+      "front_en": "What is the difference between Line and Staff activities?",
       "back": "Line: 조직의 핵심 기능·제품·서비스에 직접 책임지는 활동(생산, 그리고 목표에 따라 영업·재무도 가능).\nStaff: Line에 자문·전문지원을 제공. 필수적이지만 Line에 종속됨.\nPersonal staff(보좌): 특정 경영자에게 배속. Specialized staff(전문): 조직 전체에 서비스 제공.",
+      "back_en": "Line activities are directly responsible for the organization's core functions, products, or services (production; sales and finance may also be line, depending on the organization's goals).\nStaff activities provide advice and specialized support to line. They are essential but subordinate to line.\nPersonal staff are assigned to a specific manager. Specialized staff serve the whole organization.",
       "tags": ["Line", "Staff", "권한"]
     },
     {
       "id": "p3-ch03-009",
       "category": "3.1 Staff 권한 4유형",
+      "category_en": "3.1 Four Types of Staff Authority",
       "front": "Staff group이 가질 수 있는 권한 4단계는?",
+      "front_en": "What are the 4 levels of authority a staff group can have?",
       "back": "① Advisory(조언) – 건의·계획안만 제공, 채택은 Line 결정\n② Concurrent(동등) – Line 결정에 staff 동의 필요(예: 법무 부서 사인)\n③ Complete in a specialty(특정영역 완전권한) – 해당 영역은 staff가 결정 (정보시스템·구매·인사 등)\n④ Control(통제) – staff가 직접 통제(품질검사관). 명령통일과 충돌 가능.",
+      "back_en": "① Advisory – staff only provides recommendations and plans; line decides whether to adopt.\n② Concurrent – line decisions require staff agreement (e.g., legal department sign-off).\n③ Complete in a specialty – staff has full authority in that area (e.g., information systems, purchasing, HR).\n④ Control – staff directly controls (e.g., quality inspectors). May conflict with unity of command.",
       "tags": ["Staff권한", "Advisory", "Concurrent", "Complete", "Control"]
     },
     {
       "id": "p3-ch03-010",
       "category": "3.1 Functional Authority",
+      "category_en": "3.1 Functional Authority",
       "front": "Functional Authority(직능권력)이란?",
+      "front_en": "What is Functional Authority?",
       "back": "Line-Staff 통제관계의 결합체로, 유기식(Organic) 구조에서 흔함. 명령체계 외부의 누군가가 특정 활동에 대해 권한을 행사 — 그 사람은 해당 영역의 전문가(Line·Staff 무관). 예: 영업담당 부사장이 주문계획·포장·수리부품 공급에 대해 직능 관리권을 가짐.",
+      "back_en": "A combination of line and staff control relationships, often found in organic structures. Someone outside the chain of command exercises authority over a specific activity — that person is an expert in the area (could be line or staff). Example: a VP of Sales is granted functional authority over order planning, packaging, and repair parts supply.",
       "tags": ["Functional Authority", "직능권력"]
     },
     {
       "id": "p3-ch03-011",
       "category": "3.1 Mechanistic vs Organic",
+      "category_en": "3.1 Mechanistic vs. Organic",
       "front": "Mechanistic(기계식) 구조의 4가지 특징과 적합 환경은?",
+      "front_en": "What are the 4 features of a Mechanistic structure and its suitable environment?",
       "back": "특징: ① 엄격한 통제 ② 고도의 분업 ③ 고도의 정규화 ④ 집권화. 정보망 제한·직원 의사결정 참여 적음.\n적합 환경: 안정적·확정적 환경. '죽은 관료제'라고도 불림. 임무·권리·의무는 명확하지만 개인 노력과 조직목표의 연결은 불분명.",
+      "back_en": "Features: ① rigid controls, ② high division of labor, ③ high formalization, ④ centralization. Limited information networks; little employee participation in decisions.\nFits stable and certain environments. Also called 'dead bureaucracy.' Tasks, rights, and duties are clearly defined, but the link between individual effort and organizational goals is unclear.",
       "tags": ["Mechanistic", "기계식"]
     },
     {
       "id": "p3-ch03-012",
       "category": "3.1 Mechanistic vs Organic",
+      "category_en": "3.1 Mechanistic vs. Organic",
       "front": "Organic(유기식) 구조의 특징과 적합 환경은?",
+      "front_en": "Features of an Organic structure and its suitable environment?",
       "back": "권력 분산, 복잡성·정규화 낮음, 강한 정보시스템, 직원이 의사결정에 참여, 유연·적응적.\n적합 환경: 불안정·불확정 환경. 임무는 거칠고 유연, 자기통제 위주, 상사는 정보·자문 제공, 의사소통은 공동참여·횡적.",
+      "back_en": "Decentralized authority; low complexity and formalization; strong information systems; employee participation in decision-making; flexible and adaptive.\nFits unstable and uncertain environments. Tasks are loosely defined, self-control predominates, supervisors provide information and advice, and communication is participative and lateral.",
       "tags": ["Organic", "유기식"]
     },
     {
       "id": "p3-ch03-013",
       "category": "3.1 구조 선택과 전략",
+      "category_en": "3.1 Structure Choice & Strategy",
       "front": "전략에 따른 조직구조 선택 가이드라인은?",
+      "front_en": "How should organizational structure align with strategy?",
       "back": "① Innovation(혁신) 전략 → Organic 구조 (유연성)\n② Cost minimization(비용 최소화) → Mechanistic 구조 (엄격 통제)\n③ Imitation(모방) — 검증된 시장 진입 → Mechanistic + Organic 결합 구조.",
+      "back_en": "① Innovation strategy → Organic structure (flexibility).\n② Cost minimization strategy → Mechanistic structure (tight control).\n③ Imitation — entering markets others have already proven → a hybrid combining Mechanistic and Organic elements.",
       "tags": ["전략", "구조선택"]
     },
     {
       "id": "p3-ch03-014",
       "category": "3.1 구조 영향 요인",
+      "category_en": "3.1 Drivers of Structure",
       "front": "조직구조에 영향을 주는 요인 3가지(Size, Technology, Environment)와 일반 경향은?",
+      "front_en": "Three drivers of organizational structure (Size, Technology, Environment) and general tendencies?",
       "back": "Size: 큰 조직 → Mechanistic 경향(정규화 필요). 100명→200명은 큰 변화, 10000명→10100명은 거의 영향 없음.\nTechnology: 비표준 기술 문제는 Organic이 더 적합 (정규화 ↓).\nEnvironment: 안정적일수록 Mechanistic. 동태/복잡 환경 → Organic. 환경 불확정성은 Capacity·Volatility·Complexity에 의해 결정.",
+      "back_en": "Size: larger organizations tend toward Mechanistic structures (formalization is necessary). Going from 100 to 200 employees is significant; 10,000 to 10,100 has almost no effect.\nTechnology: Organic structures handle non-routine technology problems better (lower formalization needed).\nEnvironment: more stable → more Mechanistic. Dynamic / complex environments → Organic. Environmental uncertainty depends on capacity, volatility, and complexity.",
       "tags": ["Size", "Technology", "Environment"]
     },
     {
       "id": "p3-ch03-015",
       "category": "3.1 Mintzberg 조직",
+      "category_en": "3.1 Mintzberg's Organization",
       "front": "Mintzberg가 제시한 조직의 5가지 기본 부분은?",
+      "front_en": "What are Mintzberg's 5 basic parts of an organization?",
       "back": "① Operating core(핵심운영층) – 생산 관련 기본업무 수행\n② Strategic apex(전략최고결정층) – 고위 경영자\n③ Middle line(중층실선) – 핵심운영층과 전략층 연결\n④ Technostructure(기술형 인원) – 표준화 분석가\n⑤ Support staff(협동인원) – 간접지원 서비스.",
+      "back_en": "① Operating core – workers performing the basic production-related tasks.\n② Strategic apex – top management.\n③ Middle line – managers connecting the operating core to the strategic apex.\n④ Technostructure – analysts who design standardization processes.\n⑤ Support staff – provides indirect support services.",
       "tags": ["Mintzberg", "5부분"]
     },
     {
       "id": "p3-ch03-016",
       "category": "3.1 Mintzberg 5구조",
+      "category_en": "3.1 Mintzberg's 5 Structures",
       "front": "Mintzberg의 5가지 조직구조 유형은?",
+      "front_en": "What are Mintzberg's 5 structural configurations?",
       "back": "① Simple structure(단순) – 소형소매상; 복잡성·정규성 낮고 집권화. 전략층 주도.\n② Machine bureaucracy(기계관료) – 군대; 표준임무, 직능부문화, 엄격 명령. Technostructure 주도.\n③ Professional bureaucracy(전문관료) – 대학·도서관; 권력분산, 전문가 자주성. 핵심운영층 주도.\n④ Divisional(사업부) – 대형 복합기업; 사업부=독립기업, 직능 중복. 중층실선 주도.\n⑤ Adhocracy(임시위원회) – 소형 소프트웨어 개발사; Organic, 유연·반응 빠름. 협동인원 주도.",
+      "back_en": "① Simple structure – e.g., a small retailer; low complexity and formalization, centralized. Dominated by the strategic apex.\n② Machine bureaucracy – e.g., the military; standardized tasks, functional departmentalization, strict command. Dominated by the technostructure.\n③ Professional bureaucracy – e.g., a university or library; decentralized, expert autonomy. Dominated by the operating core.\n④ Divisional – e.g., a large conglomerate; each division is essentially an independent firm with duplicated functions. Dominated by the middle line.\n⑤ Adhocracy – e.g., a small software developer; organic, flexible, fast-responding. Dominated by support staff.",
       "tags": ["Mintzberg", "5구조", "Adhocracy", "Bureaucracy"]
     },
     {
       "id": "p3-ch03-017",
       "category": "3.1 신구조",
+      "category_en": "3.1 New Structures",
       "front": "Hourglass(모래시계) 조직의 3계층은?",
+      "front_en": "What are the 3 layers of an Hourglass organization?",
       "back": "① 전략결정층 — 사명 확정·조직 성공 보장\n② (얇은 허리) 중간 경영자 — 다양한 저층 부문을 조정. 단순 정보 전달은 컴퓨터가 대체.\n③ 권한 위임된 기술 전문가 — 자기감독. 승진 기회 적은 대신 횡적 이동·도전적 업무·신기술 훈련·성과보수로 동기부여.",
+      "back_en": "① Strategic decision layer — sets the mission and ensures success.\n② (Thin waist) Middle managers — coordinate various lower-level cross-functional units; computers replace routine information passing.\n③ Empowered technical experts — self-supervised. With fewer promotion paths, they are motivated by lateral mobility, challenging work, new-skill training, and performance pay.",
       "tags": ["Hourglass", "신구조"]
     },
     {
       "id": "p3-ch03-018",
       "category": "3.1 신구조",
+      "category_en": "3.1 New Structures",
       "front": "Network(네트워크) 조직의 본질과 거래비용 조건은?",
+      "front_en": "What is a Network organization, and what is its transaction-cost condition?",
       "back": "여러 독립 기업이 상호적응·공동협력으로 구성. 암묵적 계약 기반의 장기 전략관계.\n네트워크 기술 한계: **외부원가 + 거래비용 < 내부원가**. 즉 거래비용을 낮춰야 네트워크가 시장에 비해 우위.\n거래비용 = 정보탐색·협상·계약·이행감독·법적조치 비용.",
+      "back_en": "A network is composed of relatively independent firms that mutually adapt and cooperate. It is a long-term strategic relationship based on an implicit contract.\nThe technical limit of a network is: **external cost + transaction cost < internal cost**. Network firms must drive down transaction costs to outperform the market.\nTransaction costs include: searching for information, negotiating, contracting, monitoring performance, and taking legal action.",
       "tags": ["Network", "거래비용"]
     },
     {
       "id": "p3-ch03-019",
       "category": "3.2 부문화",
+      "category_en": "3.2 Departmentalization",
       "front": "부문화(Departmentalization)의 6가지 유형과 각 핵심은?",
+      "front_en": "What are the 6 types of Departmentalization and the key trait of each?",
       "back": "① 직능별(Function): 가장 보편. 마케팅·생산·재무. 전문화 ↑, 협조 부족.\n② 지역별(Geography): 분산된 자원. 현지 반응 빠름, 시설 중복.\n③ 제품/서비스별: 고도 자주권 단위, 자본 효율적 배분. 관리인력 多.\n④ 고객별: 특정 고객 전담, 통상 영업부서 안에서 발생.\n⑤ 프로젝트별: 일회성·실험성 활동(대형 건축).\n⑥ 작업흐름별(BPR 후): 횡적·평탄, 외부 고객 만족도 초점.",
+      "back_en": "① By function: most common — marketing, production, finance. Pros: specialization. Cons: poor cross-function coordination.\n② By geography: dispersed resources; faster local response; duplicated facilities.\n③ By product/service: highly autonomous units; efficient capital allocation; needs many managers.\n④ By customer: dedicated to specific customers, usually within the sales function.\n⑤ By project: one-time or experimental activities (e.g., constructing a ship).\n⑥ By work flow (post-BPR): horizontal, flat; focus on external customer satisfaction.",
       "tags": ["부문화", "Departmentalization"]
     },
     {
       "id": "p3-ch03-020",
       "category": "3.3 집권화/분권화",
+      "category_en": "3.3 Centralization vs. Decentralization",
       "front": "Centralization vs Decentralization을 결정하는 현대(Contingency)적 관점은?",
+      "front_en": "What is the modern (Contingency) view on Centralization vs. Decentralization?",
       "back": "둘 자체는 좋고 나쁨이 없음 — 환경에 따라 적합도가 다름.\n• 안정·확정 환경 → 집권화 우세\n• 불안정·불확정 환경 → 분권화 우세\n분권화 금지: 조직 생존·발전에 중대한 결정 / 정보·훈련·경험·능력 부족자에게 위임 / 협조가 필수인 결정.\n분권화 우호: 활동에 가까운 사람의 빠른 결정 필요 시.",
+      "back_en": "Neither is inherently good or bad — fit depends on the environment.\n• Stable, certain environment → centralization tends to succeed.\n• Unstable, uncertain environment → decentralization tends to succeed.\nDo NOT decentralize: decisions vital to the firm's survival; decisions requiring information/training/experience/competence the subordinate lacks; decisions requiring coordination across units.\nDO decentralize: fast decisions that should be made close to the activity.",
       "tags": ["집권화", "분권화", "Contingency"]
     },
     {
       "id": "p3-ch03-021",
       "category": "3.3 분권화 정도",
+      "category_en": "3.3 Degree of Decentralization",
       "front": "조직의 분권화 정도가 높다고 판단하는 4가지 신호는?",
+      "front_en": "4 signs that an organization is highly decentralized?",
       "back": "① 더 많은 의사결정이 더 낮은 계층에서 이뤄짐\n② 더 중요한 의사결정이 더 낮은 계층에서 이뤄짐\n③ 더 많은 직능이 더 낮은 계층의 결정 영향을 받음\n④ 낮은 계층의 결정이 고위 감독을 더 적게 받음.",
+      "back_en": "① More decisions are made at lower levels.\n② More important decisions are made at lower levels.\n③ More functions are affected by decisions made at lower levels.\n④ Lower-level decisions face less review by upper management.",
       "tags": ["분권화 정도"]
     },
     {
       "id": "p3-ch03-022",
       "category": "3.3 SBU",
+      "category_en": "3.3 Strategic Business Unit",
       "front": "Strategic Business Unit(SBU, 전략적 사업단위)의 4가지 본질적 특징은?",
+      "front_en": "4 essential traits of a Strategic Business Unit (SBU)?",
       "back": "① 모회사의 공급자가 아니라 자체 시장을 가짐\n② 외부 경쟁에 직면\n③ 이익센터(Profit center)\n④ 자체 사업의 모든 중대 결정을 스스로 내림(자원은 모회사와 공유 가능).\n→ 대형 조직이 소기업의 관리 우위를 얻기 위해 채용하는 분권화 방법.",
+      "back_en": "① Has its own market — it is not merely a supplier to the parent.\n② Faces external competition.\n③ Is a profit center.\n④ Makes all significant decisions about its own business (though it may share resources with the parent).\n→ A decentralization method used by large organizations to gain the management advantages of a small firm.",
       "tags": ["SBU", "이익센터"]
     },
     {
       "id": "p3-ch03-023",
       "category": "3.3 위임",
+      "category_en": "3.3 Delegation",
       "front": "Delegation(하향 위임)의 6단계 절차는?",
+      "front_en": "What are the 6 steps of the Delegation process?",
       "back": "① 기대 결과 확정 → ② 임무·책임 분배 → ③ 임무 완수에 필요한 권한 위임 → ④ 책임지는 인원 모집 → ⑤ 객관적 언어로 기대 결과 명확 소통 → ⑥ 후속관리(Follow-up). 위임자도 여전히 최종 책임을 진다.",
+      "back_en": "① Determine the expected results → ② Assign tasks and responsibilities → ③ Delegate the authority needed to complete the tasks → ④ Recruit the people who will be accountable → ⑤ Clearly communicate the expected results in objective language → ⑥ Follow up. The delegator still bears the ultimate responsibility.",
       "tags": ["위임", "Delegation"]
     },
     {
       "id": "p3-ch03-024",
       "category": "3.3 위임 장애",
+      "category_en": "3.3 Barriers to Delegation",
       "front": "위임의 일반적 장애 4가지는?",
+      "front_en": "4 common barriers to Delegation?",
       "back": "① 위임자가 완벽주의·자기인정 낮음·비판/경쟁 두려움·부하 신뢰 부족·위험허용 낮음\n② 직무 경계 모호\n③ 통제 실패\n④ 상급자가 위임 모범을 보이지 않음.",
+      "back_en": "① The delegator is a perfectionist, has low self-confidence, fears criticism/competition, lacks trust in subordinates, or has low risk tolerance.\n② Job boundaries are ambiguous.\n③ Controls fail.\n④ Higher-ups do not model delegation.",
       "tags": ["위임장애"]
     },
     {
       "id": "p3-ch03-025",
       "category": "3.3 위임 정도",
+      "category_en": "3.3 Degree of Delegation",
       "front": "위임의 정도(낮음→높음) 5단계는?",
+      "front_en": "5 levels of delegation (lowest to highest)?",
       "back": "① 조사하고 상사에게 보고만\n② 조사 + 행동 건의\n③ 조사 + 행동방안 건의\n④ 조사 + 행동 후 어떤 행동을 했는지 보고\n⑤ 조사하고 행동 (보고 없음).",
+      "back_en": "① Investigate and report to the supervisor only.\n② Investigate and recommend action.\n③ Investigate and recommend a course of action.\n④ Investigate, take action, and report what action was taken.\n⑤ Investigate and take action (no reporting required).",
       "tags": ["위임정도"]
     },
     {
       "id": "p3-ch03-026",
       "category": "3.4 공급망",
+      "category_en": "3.4 Supply Chain",
       "front": "Supply Chain(공급망)의 정의는?",
+      "front_en": "What is the definition of a Supply Chain?",
       "back": "① 원료, ② 부품, ③ 완제품, ④ 서비스, ⑤ 정보가 공급원에서 중간상을 거쳐 최종소비자까지 흐르는 과정. 이 흐름은 동일 조직의 가치사슬 직능(연구·설계·생산·영업·분배·고객서비스)을 거치거나 여러 조직에 걸쳐 발생할 수 있다. 어디서 발생하든 비용 최적화를 위해 통합·조정되어야 함.",
+      "back_en": "The flow of (1) raw materials, (2) components, (3) finished goods, (4) services, or (5) information from their source through intermediaries to the final consumer. This flow can occur within an organization's value-chain functions (R&D, design, production, sales, distribution, customer service) or across multiple organizations. Wherever it occurs, it must be integrated and coordinated to optimize cost.",
       "tags": ["공급망", "Supply Chain"]
     },
     {
       "id": "p3-ch03-027",
       "category": "3.4 채찍효과",
+      "category_en": "3.4 Bullwhip Effect",
       "front": "Bullwhip Effect(채찍효과)란? 발생 원인 4가지는?",
+      "front_en": "What is the Bullwhip Effect, and what are its 4 causes?",
       "back": "공급망을 거슬러 올라갈수록 수요변동이 점점 증폭되는 현상. 소매상의 수요 불확실성 → 제조사 주문 변동 → 공급사 주문 더 큰 변동.\n원인: ① 각 단계 수요·파생수요 예측 곤란 ② 비용효율 원칙에 따른 일괄 구매·생산 ③ 가격 상승 예상 시 매점 ④ 부족 시 할당으로 인한 매점/공급 부족.",
+      "back_en": "The phenomenon where demand variability is amplified as it moves up the supply chain. Retailer demand uncertainty → larger variability in manufacturer orders → even larger variability in supplier orders.\nCauses: ① Difficulty forecasting demand and derived demand at each stage. ② Batch purchasing/production driven by cost efficiency. ③ Stockpiling when price increases are anticipated. ④ Hoarding caused by allocation during shortages.",
       "tags": ["Bullwhip", "채찍효과"]
     },
     {
       "id": "p3-ch03-028",
       "category": "3.4 정보공유 결과",
+      "category_en": "3.4 Information Sharing",
       "front": "공급망 전체에서 정보(영업·재고·가격·홍보·예측)를 공유했을 때 이상적 결과 4가지는?",
+      "front_en": "4 ideal outcomes when sharing information (sales, inventory, pricing, promotions, forecasts) across the supply chain?",
       "back": "① 공급사·제조사·소매상의 재고 최소화\n② 결품 회피\n③ 긴급주문 감소\n④ 소매상 수요량에 맞춘 생산.\n어려움: 정보시스템 비호환, 보안 우려로 공유 거부, 자원 투입 부족, 상대방 의무 불이행 우려.",
+      "back_en": "① Minimized inventories for suppliers, manufacturers, and retailers.\n② Avoided stock-outs.\n③ Fewer rush orders.\n④ Production matched to retailer demand.\nDifficulties: incompatible information systems, refusal to share due to security concerns, insufficient resource investment, and concerns that partners may not fulfill obligations.",
       "tags": ["정보공유", "공급망"]
     },
     {
       "id": "p3-ch03-029",
       "category": "3.4 분배경로 중간상",
+      "category_en": "3.4 Distribution Intermediaries",
       "front": "분배경로의 5종 중간상(Intermediaries)은?",
+      "front_en": "What are the 5 types of distribution Intermediaries?",
       "back": "① Merchant middlemen(무역중간상): 상품 직접 매입·소유권 획득. 도매상·소매상.\n② Agent(대리인): 위탁자 대신 협상, 소유권 없음.\n③ Broker(경기인): 매도-매수 연결. 안정적 관계 없음, 소유권 위험 없음. 예: 여행사.\n④ Consignee(대판인): 위탁자 상품을 팔고 수수료. 소유권은 판매 시까지 위탁자.\n⑤ Facilitating intermediary(서비스성중간상): 채널 외부, 재고통제·금융·위험관리·정보·홍보 서비스 제공.",
+      "back_en": "① Merchant middlemen – directly buy goods and take title (wholesalers, retailers).\n② Agents – negotiate on the principal's behalf without taking title.\n③ Brokers – connect buyers and sellers; no stable relationship and no ownership risk (e.g., travel agencies).\n④ Consignees – sell the principal's goods on commission; title remains with the principal until sale.\n⑤ Facilitating intermediaries – outside the channel; provide services such as inventory control, financing, risk management, information, and promotion.",
       "tags": ["중간상", "Distribution"]
     },
     {
       "id": "p3-ch03-030",
       "category": "3.4 채널구조",
+      "category_en": "3.4 Channel Structures",
       "front": "분배 채널의 4가지 시스템 유형은?",
+      "front_en": "What are the 4 types of distribution channel systems?",
       "back": "① Conventional(전통): 독립적 생산자·도매·소매가 각자 이익만 추구, 시스템 전체 최적화 안 됨.\n② Vertical(수직): 생산-도매-소매가 공동소유·계약·주도 1사로 통합. 충돌은 단계 간 발생.\n③ Horizontal(수평): 같은 수준의 둘 이상 실체가 횡적으로 연합(예: 슈퍼마켓에 ATM 도입). 충돌은 동일 단계에서.\n④ Multi-channel(다채널): 1개 기업이 2개 이상 채널 운영. 충돌은 채널 간 발생.",
+      "back_en": "① Conventional – independent producers, wholesalers, and retailers each pursue their own profit; the system is not optimized as a whole.\n② Vertical – producer/wholesaler/retailer integrated through common ownership, contracts, or one dominant member. Conflicts arise between levels.\n③ Horizontal – two or more entities at the same level join (e.g., placing ATMs in supermarkets). Conflicts arise within the same level.\n④ Multi-channel – one firm operates two or more channels. Conflicts arise between channels.",
       "tags": ["채널구조", "Vertical", "Horizontal"]
     },
     {
       "id": "p3-ch03-031",
       "category": "3.4 재고배치",
+      "category_en": "3.4 Inventory Placement",
       "front": "Inventory Placement(재고배치) — Forward vs Backward의 적용 상황은?",
+      "front_en": "Inventory Placement — when to use Forward vs. Backward placement?",
       "back": "Forward placement(향전 배치): 재고를 최종고객 가까이(분배센터·도매·소매)에 둠 → 운송비·거래시간 최소화. 저가·널리 보급된 일용소비재(비누·신문)에 적합. 밀집 분배경로 활용.\nBackward placement(향후 배치): 재고를 공장에 두거나 무재고(주문생산). 맞춤형 제품 / 수요 변동이 격렬해 예측 불가능한 경우 적합.",
+      "back_en": "Forward placement: keep inventory close to the end customer (distribution center, wholesaler, retailer) → minimizes shipping cost and transaction time. Best for low-priced, ubiquitous consumer goods (soap, newspapers) using intensive distribution channels.\nBackward placement: keep inventory at the factory, or hold zero inventory (build-to-order). Best for customized products or when demand is so volatile that it cannot be forecast.",
       "tags": ["재고배치", "Forward", "Backward"]
     },
     {
       "id": "p3-ch03-032",
       "category": "3.5 대기열 이론",
+      "category_en": "3.5 Queueing Theory",
       "front": "Queueing Theory(대기열 이론)의 4가지 시스템 구조는?",
+      "front_en": "What are the 4 system structures in Queueing Theory?",
       "back": "① 단통도·단단계: 모든 사용자 단일 대기열, 한 지점에서 서비스(ATM)\n② 단통도·다단계: 단일 대기열, 여러 서비스 지점 순차 통과(드라이브스루: 주문→결제→픽업)\n③ 다통도·단단계: 다수 서비스 지점, 각자 자기 대기열(대형 슈퍼 계산대)\n④ 다통도·다단계: 다수 대기열·각각 여러 서비스 지점(병원의 각 진료과).\n부하 사용량↑ → 대기시간↑. 무작위 도착은 Poisson 분포를 따름.",
+      "back_en": "① Single-channel, single-phase: all users form one queue served at one point (ATM).\n② Single-channel, multi-phase: one queue, multiple sequential service points (drive-thru: order → pay → pick up).\n③ Multi-channel, single-phase: multiple service points each with its own queue (supermarket checkouts).\n④ Multi-channel, multi-phase: multiple queues, each with several service points (hospital departments).\nUtilization ↑ → waiting time ↑. Random arrivals follow a Poisson distribution.",
       "tags": ["Queueing", "대기열"]
     },
     {
       "id": "p3-ch03-033",
       "category": "3.5 선형계획",
+      "category_en": "3.5 Linear Programming",
       "front": "Linear Programming(LP)이 해결하는 문제 유형과 핵심 요소는?",
+      "front_en": "What problems does Linear Programming (LP) solve, and what are its core elements?",
       "back": "선형 제약조건 하에서 선형 목적함수의 극값(최대/최소) 해. 자원 한정 시 수익·이익 최대화 또는 비용 최소화 해를 찾음.\n구성: 목적함수 + 제약조건 + 비음제약. 그래프법(가능영역의 꼭짓점)과 대수법(연립방정식)으로 해결.\n장점: 다양한 문제 적용 가능, 민감도 분석에 유용.\n단점: 모든 비용이 변동/고정 등 선형 가정의 한계.",
+      "back_en": "LP finds the optimal (max/min) value of a linear objective function under linear constraints. Used to maximize revenue/profit or minimize cost when resources are limited.\nElements: objective function + constraints + non-negativity. Solved by graphical method (corners of the feasible region) or algebraic method (simultaneous equations).\nStrengths: applies to many problem types; useful for sensitivity analysis.\nWeakness: linearity assumptions (e.g., all costs purely variable or fixed).",
       "tags": ["LP", "Linear Programming", "선형계획"]
     },
     {
       "id": "p3-ch03-034",
       "category": "3.5 그림자 가격",
+      "category_en": "3.5 Shadow Price",
       "front": "Shadow Price(그림자 가격)란?",
+      "front_en": "What is a Shadow Price?",
       "back": "LP에서 **긴제약(binding constraint)**이 1단위 변화할 때 목적함수의 최적해가 변화하는 값. 비긴제약(non-binding)은 여유 생산능력이 있으므로 그림자 가격 = 0(추가 1단위가 최적해를 바꾸지 않음). 민감도 분석의 간단한 예.",
+      "back_en": "In an LP problem, the change in the optimal value of the objective function from a one-unit change in a **binding constraint**. A non-binding constraint has a shadow price of zero — there is excess capacity, so adding one more unit does not improve the solution. A simple example of sensitivity analysis.",
       "tags": ["Shadow Price", "민감도"]
     },
     {
       "id": "p3-ch03-035",
       "category": "3.5 제약이론(TOC)",
+      "category_en": "3.5 Theory of Constraints",
       "front": "Theory of Constraints(제약이론, TOC)의 기본 가정과 5단계 분석은?",
+      "front_en": "What is the core assumption of the Theory of Constraints (TOC), and what are its 5 analysis steps?",
       "back": "기본 가정: 흐름 개선의 최적안은 모든 부분의 효율을 최대화하는 것이 아니라 **가장 느린 부분(제약·병목)에 집중**하는 것. 비제약 공정의 효율을 높이면 시스템에 재고만 쌓일 뿐.\n분석 5단계: ① 제약 식별 ② 제약 하 가장 수익성 있는 제품조합 결정 ③ 제약을 통과하는 흐름 최대화 ④ 제약의 부하 증대(예: 직원 추가 채용) ⑤ 유연성·속도 향상을 위해 생산 프로세스 재설계.",
+      "back_en": "Core assumption: improving a process is not about maximizing every part's efficiency but **focusing on the slowest part (the constraint or bottleneck)**. Improving non-constraint stages only piles up WIP inventory.\nFive analysis steps: ① Identify the constraint. ② Determine the most profitable product mix given the constraint. ③ Maximize flow through the constraint. ④ Increase the constraint's capacity (e.g., hire more staff). ⑤ Redesign the production process to improve flexibility and speed.",
       "tags": ["TOC", "제약이론", "병목"]
     },
     {
       "id": "p3-ch03-036",
       "category": "3.5 산출이익",
+      "category_en": "3.5 Throughput Margin",
       "front": "Throughput Margin(산출이익) 계산법과 TOC의 의사결정 기준은?",
+      "front_en": "How is Throughput Margin calculated, and what is the TOC decision rule?",
       "back": "**산출이익 = 판매수익 − 직접원료비** (다른 제조원가는 단기 고정으로 무시).\n제약(병목)에서의 단위시간당 산출이익이 가장 높은 제품을 우선 생산해야 이익이 최대화된다.\n주의: 단위 산출이익이 가장 높은 제품이 아니라, **제약 단위시간당 산출이익**이 가장 높은 제품을 선택.",
+      "back_en": "**Throughput margin = Sales revenue − Direct material cost** (other manufacturing costs are fixed in the short run and ignored).\nProfit is maximized by producing the product with the highest throughput margin **per unit of constraint time**.\nKey point: it is NOT the product with the highest throughput per unit, but the highest throughput **per constraint hour**.",
       "tags": ["Throughput", "TOC", "산출이익"]
     },
     {
       "id": "p3-ch03-037",
       "category": "3.5 BPR",
+      "category_en": "3.5 Business Process Reengineering",
       "front": "Business Process Reengineering(BPR, 흐름재공정)의 핵심 차이점은?",
+      "front_en": "What distinguishes Business Process Reengineering (BPR)?",
       "back": "기존 시스템의 점진적 개선이 아닌 **핵심 흐름을 처음부터 새로 설계**. 단순화·비부가가치 활동 제거에 초점. 점진개선·정밀개선이 아닌 가장 중요한 흐름에 전용. 통상 부서 간(Cross-functional) 흐름 혁신, IT·재훈련에 대규모 투자 필요. 성공 시 고객서비스·신제품 출시 속도에서 현저한 개선.",
+      "back_en": "BPR is **redesigning core processes from scratch**, not incrementally improving existing systems. It focuses on simplification and eliminating non-value-added activities — reserved for the most important processes, not continuous or fine-tuning improvements. It typically drives cross-functional process innovation requiring substantial investment in IT and retraining. Successful BPR brings significant improvements in customer service and time-to-market for new products.",
       "tags": ["BPR", "흐름재공정"]
     },
     {
       "id": "p3-ch03-038",
       "category": "3.5 Value Engineering",
+      "category_en": "3.5 Value Engineering",
       "front": "Value Engineering(가치공학)이란?",
+      "front_en": "What is Value Engineering?",
       "back": "체계적으로 제품·서비스의 기능을 검토해 **기능과 원가의 균형**을 통해 가치를 개선. 가치 = 기능 / 원가. 기본 기능을 유지·완벽화하면서 불필요한 기능을 줄이거나 원가를 낮춰 가치를 최대화. BPR에서 매우 유용 — 제품 원가와 고객의 잠재적 수요(제품 기능)를 명확하게 균형 잡음.",
+      "back_en": "A systematic review of a product/service's functions to improve value by **balancing function against cost**. Value = Function / Cost. Maximize value by retaining and perfecting essential functions while removing unnecessary functions or reducing cost. Particularly useful in BPR — it explicitly balances product cost against the customer's latent need (product function).",
       "tags": ["Value Engineering", "가치공학"]
     },
     {
       "id": "p3-ch03-039",
       "category": "3.5 BPR/TQM과 통제",
+      "category_en": "3.5 BPR/TQM and Controls",
       "front": "BPR과 TQM이 전통적 통제에 가져온 변화는?",
+      "front_en": "How have BPR and TQM changed traditional controls?",
       "back": "현대 기술로 생산성↑·문서량↓을 달성하므로 통제는 **자동화·자기수정** 방식으로 전환되며, 인적 개입은 최소화. 감사인은 새 기술을 충분히 이해해야 함.\n통제 초점은 **감독(Monitoring)**으로 이동 — 경영진이 운영의 통제 상실 시점과 시정조치 필요시점을 판단할 수 있도록 함.\n지속적 감독 = 정기평가 또는 일상운영의 일부.",
+      "back_en": "Modern technology raises productivity and cuts paperwork, so controls shift toward **automation and self-correction** with minimal human intervention. Auditors must understand the new technologies.\nThe focus of control shifts to **monitoring** — enabling management to determine when operations may have lost control and when corrective action is needed.\nContinuous monitoring takes the form of periodic evaluations or part of daily operations.",
       "tags": ["BPR", "TQM", "감독", "자동화통제"]
     },
     {
       "id": "p3-ch03-040",
       "category": "3.5 변화 저항",
+      "category_en": "3.5 Resistance to Change",
       "front": "BPR/TQM 도입 시 직원 저항의 주요 원인은?",
+      "front_en": "Main causes of employee resistance during BPR/TQM adoption?",
       "back": "전면 참여가 동기부여로 이어지나, 일부 불안감 있는 직원은 저항할 수 있음. 원인: ① 기능 부족 ② 실패에 대한 두려움 ③ 작업 동료가 흩어지는 것을 원치 않음 ④ 기타 개인적 사유. 변화관리·재훈련·소통이 핵심.",
+      "back_en": "Full participation tends to motivate, but insecure employees may resist. Causes: ① lack of skills, ② fear of failure, ③ unwillingness to be separated from current coworkers, ④ other personal reasons. Change management, retraining, and clear communication are essential.",
       "tags": ["변화관리", "저항"]
     }
   ]

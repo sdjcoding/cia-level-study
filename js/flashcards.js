@@ -36,6 +36,19 @@
   render();
   setupSwipe();
 
+  // Re-render current card when language toggles (preserves flip state).
+  window.addEventListener("cia:lang-changed", () => {
+    if (idx < order.length) {
+      const wasFlipped = flipped;
+      render();
+      if (wasFlipped) {
+        flipped = true;
+        const fc = document.getElementById("flashcard");
+        if (fc) fc.classList.add("flipped");
+      }
+    }
+  });
+
   function buildOrder(cards, partId) {
     const progress = CIA.Progress.loadFlashcards(partId);
     const known = new Set(progress.known);
@@ -64,13 +77,13 @@
       <div class="flashcard-container">
         <div class="flashcard" id="flashcard">
           <div class="card-face card-front">
-            <div class="card-category">${escapeHTML(c.category || "")}</div>
-            <div class="card-content">${escapeHTML(c.front)}</div>
-            <div class="flip-hint">탭하여 답 보기</div>
+            <div class="card-category">${CIA.Lang.render(c.category, c.category_en)}</div>
+            <div class="card-content">${CIA.Lang.render(c.front, c.front_en)}</div>
+            <div class="flip-hint">탭하여 답 보기 / Tap to reveal</div>
           </div>
           <div class="card-face card-back">
-            <div class="card-category">정답</div>
-            <div class="card-content">${escapeHTML(c.back)}</div>
+            <div class="card-category">정답 / Answer</div>
+            <div class="card-content">${CIA.Lang.render(c.back, c.back_en)}</div>
             <div class="card-tags">
               ${(c.tags || []).map((t) => `<span class="tag">${escapeHTML(t)}</span>`).join("")}
             </div>

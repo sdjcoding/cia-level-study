@@ -17,6 +17,7 @@
       </a>
     </div>
     <div class="header-actions">
+      <button id="langToggle" class="icon-btn lang-toggle" aria-label="언어 전환" title="언어 전환 (한 / EN / 한+EN)">한+EN</button>
       <button id="themeToggle" class="icon-btn" aria-label="테마 변경">🌙</button>
     </div>
   </header>
@@ -43,6 +44,9 @@
       try {
         const manifest = await CIA.loadManifest();
         grid.innerHTML = "";
+        const lang = CIA.Lang.current();
+        const showKo = lang !== "en";
+        const showEn = lang !== "ko";
         for (const part of manifest.parts) {
           const cardCount = await getCount(part, "flashcards");
           const quizCount = await getCount(part, "quiz");
@@ -56,8 +60,8 @@
           div.className = "part-card";
           div.innerHTML = `
             <div class="part-number">Part ${part.number}</div>
-            <div class="part-title">${escapeHTML(part.title)}</div>
-            <div class="part-title-ko">${escapeHTML(part.titleKo)}</div>
+            ${showKo ? `<div class="part-title">${escapeHTML(part.titleKo)}</div>` : ""}
+            ${showEn ? `<div class="${showKo ? "part-title-ko" : "part-title"}">${escapeHTML(part.title)}</div>` : ""}
             <div class="part-desc">${escapeHTML(part.description)}</div>
             ${hasContent ? `
               <div>
@@ -76,6 +80,8 @@
         grid.innerHTML = `<div class="empty-state"><h2>로딩 오류</h2><p>${escapeHTML(e.message)}</p></div>`;
       }
     }
+
+    window.addEventListener("cia:lang-changed", renderParts);
 
     async function getCount(part, type) {
       const data = await CIA.loadPartData(part, type);

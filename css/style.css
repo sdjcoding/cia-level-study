@@ -416,6 +416,38 @@ header {
   border-radius: 12px;
 }
 
+/* Bilingual rendering */
+.lang-ko {
+  /* primary language - inherits font-size */
+}
+.lang-en {
+  color: var(--text-muted);
+  font-size: 0.9em;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--border);
+  font-style: italic;
+  line-height: 1.55;
+}
+.card-back .lang-en {
+  font-style: normal;
+}
+.option .lang-en {
+  display: block;
+  font-size: 0.85em;
+  margin-top: 4px;
+  padding-top: 4px;
+  border-top: 1px dashed var(--border);
+}
+.lang-toggle {
+  min-width: 56px;
+  width: auto;
+  padding: 0 10px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
 .flip-hint {
   text-align: center;
   font-size: 13px;

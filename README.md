@@ -4,6 +4,7 @@
 
 - 데스크톱에서 작성, **모바일 브라우저에서 학습**
 - 플래시카드 / 4지선다 퀴즈 / 진도 추적
+- **한국어 ↔ 영어 토글** (한 / EN / 한+EN) — 헤더의 `한+EN` 버튼으로 전환
 - 빌드 도구 없음 — Vanilla HTML / CSS / JS
 - GitHub Pages 무료 호스팅
 
@@ -60,8 +61,11 @@ CIA LEVEL STUDY/
     {
       "id": "p1-001",
       "category": "독립성과 객관성",
+      "category_en": "Independence and Objectivity",
       "front": "질문 또는 용어",
+      "front_en": "Question or term (English)",
       "back": "답변 또는 정의",
+      "back_en": "Answer or definition (English)",
       "tags": ["독립성", "지배구조"]
     }
   ]
@@ -71,10 +75,18 @@ CIA LEVEL STUDY/
 | 필드 | 필수 | 설명 |
 |---|---|---|
 | `id` | ✓ | 카드 고유 ID (진도 추적용 — 변경 금지 권장) |
-| `category` |   | 화면 상단 카테고리 표시 |
-| `front` | ✓ | 카드 앞면 (질문) |
-| `back` | ✓ | 카드 뒷면 (답) |
+| `category` |   | 화면 상단 카테고리 표시 (한국어) |
+| `category_en` |   | 카테고리 영어 표시 |
+| `front` | ✓ | 카드 앞면 한국어 |
+| `front_en` |   | 카드 앞면 영어 (없으면 한국어만 표시) |
+| `back` | ✓ | 카드 뒷면 한국어 |
+| `back_en` |   | 카드 뒷면 영어 |
 | `tags` |   | 태그 배열 (뒷면 하단 표시) |
+
+**언어 토글 동작**
+- `한` 모드: 한국어 필드만 표시
+- `EN` 모드: 영어 필드만 표시 (없으면 한국어로 폴백)
+- `한+EN` 모드 (기본): 한국어 위, 영어 아래에 점선으로 구분되어 함께 표시
 
 ### 퀴즈 스키마
 
@@ -88,9 +100,12 @@ CIA LEVEL STUDY/
     {
       "id": "p1-q-001",
       "question": "문제 본문",
+      "question_en": "Question text (English)",
       "options": ["보기 1", "보기 2", "보기 3", "보기 4"],
+      "options_en": ["Option 1", "Option 2", "Option 3", "Option 4"],
       "answer": 2,
-      "explanation": "정답 해설"
+      "explanation": "정답 해설",
+      "explanation_en": "Answer explanation (English)"
     }
   ]
 }
@@ -99,10 +114,13 @@ CIA LEVEL STUDY/
 | 필드 | 필수 | 설명 |
 |---|---|---|
 | `id` | ✓ | 문제 고유 ID (오답 추적용) |
-| `question` | ✓ | 문제 본문 |
-| `options` | ✓ | 보기 배열 (보통 4개) |
+| `question` | ✓ | 문제 본문 (한국어) |
+| `question_en` |   | 문제 본문 영어 |
+| `options` | ✓ | 보기 배열 (보통 4개, 한국어) |
+| `options_en` |   | 보기 영어 배열 (인덱스가 `options`와 일치해야 함) |
 | `answer` | ✓ | 정답 인덱스 (0부터 시작) |
-| `explanation` |   | 해설 (정답 클릭 후 표시) |
+| `explanation` |   | 해설 한국어 |
+| `explanation_en` |   | 해설 영어 |
 
 ### 추가 후 반영
 1. JSON 저장 → `git commit && git push`
@@ -115,7 +133,7 @@ CIA LEVEL STUDY/
 |---|---|
 | `cia:progress:partN` | `{ studied: [...], known: [...] }` |
 | `cia:quiz:partN:wrong` | 오답 문제 ID 배열 |
-| `cia:settings` | `{ theme: "dark"|"light" }` |
+| `cia:settings` | `{ theme: "dark"\|"light", lang: "ko"\|"en"\|"both" }` |
 
 홈 카드의 "진도 초기화" 또는 플래시카드 화면 하단의 "진도 초기화" 버튼으로 리셋 가능.
 

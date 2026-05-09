@@ -12,6 +12,8 @@
   let idx = 0;
   let correctCount = 0;
   let answeredThis = false;
+  // Track current question's user pick so we can re-render on lang change.
+  let currentPick = null;
 
   const manifest = await CIA.loadManifest();
   const part = manifest.parts.find((p) => p.id === partId);
@@ -50,22 +52,29 @@
   order = shuffle(questions);
   renderQuestion();
 
-  function renderQuestion() {
+  // Re-render current question (preserving answered state) on language change.
+  window.addEventListener("cia:lang-changed", () => {
+    if (idx < order.length) renderQuestion(answeredThis ? currentPick : null);
+  });
+
+  function renderQuestion(replayPick = null) {
     if (idx >= order.length) {
       renderResult();
       return;
     }
     const q = order[idx];
     answeredThis = false;
+    currentPick = null;
     quizArea.innerHTML = `
       <div class="quiz-question">
-        <div class="question-text">Q${idx + 1}. ${escapeHTML(q.question)}</div>
+        <div class="question-text">Q${idx + 1}. ${CIA.Lang.render(q.question, q.question_en)}</div>
         <div class="options">
           ${q.options
-            .map(
-              (opt, i) =>
-                `<button class="option" data-i="${i}"><span class="option-letter">${String.fromCharCode(65 + i)}.</span>${escapeHTML(stripLetter(opt))}</button>`
-            )
+            .map((opt, i) => {
+              const ko = stripLetter(opt);
+              const en = q.options_en && q.options_en[i] ? stripLetter(q.options_en[i]) : "";
+              return `<button class="option" data-i="${i}"><span class="option-letter">${String.fromCharCode(65 + i)}.</span>${CIA.Lang.render(ko, en)}</button>`;
+            })
             .join("")}
         </div>
         <div id="feedback"></div>
@@ -75,18 +84,26 @@
       btn.addEventListener("click", () => answer(parseInt(btn.dataset.i, 10), q));
     });
     progressInfo.textContent = `${idx + 1} / ${order.length} · 정답 ${correctCount}`;
+
+    if (replayPick !== null) {
+      // Restore answered state visually (without double-counting score).
+      answer(replayPick, q, /*replay=*/ true);
+    }
   }
 
   function stripLetter(opt) {
-    return opt.replace(/^[A-D]\.\s*/, "");
+    return String(opt || "").replace(/^[A-D]\.\s*/, "");
   }
 
-  function answer(picked, q) {
-    if (answeredThis) return;
+  function answer(picked, q, replay = false) {
+    if (answeredThis && !replay) return;
     answeredThis = true;
+    currentPick = picked;
     const correct = picked === q.answer;
-    if (correct) correctCount++;
-    CIA.Progress.recordQuiz(partId, q.id, correct);
+    if (!replay) {
+      if (correct) correctCount++;
+      CIA.Progress.recordQuiz(partId, q.id, correct);
+    }
 
     quizArea.querySelectorAll(".option").forEach((btn, i) => {
       btn.disabled = true;
@@ -97,8 +114,8 @@
     const feedback = document.getElementById("feedback");
     feedback.innerHTML = `
       <div class="feedback ${correct ? "correct" : "wrong"}">
-        <div class="feedback-title">${correct ? "✓ 정답!" : "✗ 오답"}</div>
-        <div>${escapeHTML(q.explanation || "")}</div>
+        <div class="feedback-title">${correct ? "✓ 정답! / Correct!" : "✗ 오답 / Incorrect"}</div>
+        <div>${CIA.Lang.render(q.explanation || "", q.explanation_en || "")}</div>
       </div>
       <div class="action-bar-bottom">
         <button class="btn btn-primary btn-block" id="nextBtn">${idx + 1 === order.length ? "결과 보기" : "다음 문제 →"}</button>

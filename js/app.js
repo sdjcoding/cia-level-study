@@ -82,6 +82,39 @@ const Theme = {
   },
 };
 
+const Lang = {
+  ORDER: ["both", "ko", "en"],
+  LABEL: { both: "한+EN", ko: "한", en: "EN" },
+  current() {
+    const s = Storage.get("cia:settings", {});
+    return s.lang || "both";
+  },
+  set(v) {
+    const s = Storage.get("cia:settings", {});
+    s.lang = v;
+    Storage.set("cia:settings", s);
+  },
+  cycle() {
+    const cur = this.current();
+    const next = this.ORDER[(this.ORDER.indexOf(cur) + 1) % this.ORDER.length];
+    this.set(next);
+    return next;
+  },
+  // Render a (ko, en) pair according to current preference.
+  // Returns safe HTML. If 'en' is missing, falls back gracefully.
+  render(ko, en) {
+    const esc = (s) =>
+      String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+      }[c]));
+    const lang = this.current();
+    const hasEn = en && String(en).trim().length > 0;
+    if (lang === "ko" || !hasEn) return `<span class="lang-ko">${esc(ko)}</span>`;
+    if (lang === "en") return `<span class="lang-en-only">${esc(en)}</span>`;
+    return `<div class="lang-ko">${esc(ko)}</div><div class="lang-en">${esc(en)}</div>`;
+  },
+};
+
 async function loadJSON(path) {
   const res = await fetch(path, { cache: "no-cache" });
   if (!res.ok) throw new Error(`Failed to load ${path}: ${res.status}`);
@@ -111,8 +144,18 @@ function setupHeader() {
     btn.textContent = Theme.current() === "dark" ? "☀️" : "🌙";
     btn.addEventListener("click", () => Theme.toggle());
   }
+  const lbtn = document.getElementById("langToggle");
+  if (lbtn) {
+    lbtn.textContent = Lang.LABEL[Lang.current()];
+    lbtn.addEventListener("click", () => {
+      const next = Lang.cycle();
+      lbtn.textContent = Lang.LABEL[next];
+      // Trigger re-render via custom event; pages listen for this.
+      window.dispatchEvent(new CustomEvent("cia:lang-changed", { detail: next }));
+    });
+  }
 }
 
 Theme.init();
 
-window.CIA = { Storage, Progress, Theme, loadJSON, loadManifest, loadPartData, getQueryParam, setupHeader };
+window.CIA = { Storage, Progress, Theme, Lang, loadJSON, loadManifest, loadPartData, getQueryParam, setupHeader };
