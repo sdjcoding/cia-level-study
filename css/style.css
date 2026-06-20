@@ -623,3 +623,100 @@ footer {
   gap: 8px;
   margin-top: 16px;
 }
+
+/* Language multi-select dropdown */
+.lang-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  min-width: 160px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+  padding: 6px;
+  z-index: 50;
+  display: none;
+}
+.lang-menu.open {
+  display: block;
+}
+.lang-menu label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  padding: 0 10px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  font-size: 15px;
+  color: var(--text);
+}
+.lang-menu label:hover {
+  background: var(--surface-2);
+}
+.lang-menu input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--primary);
+}
+
+/* Text-to-speech speaker buttons */
+.speak-btn {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.speak-btn:hover {
+  background: var(--surface-2);
+}
+.speak-btn:active {
+  transform: scale(0.94);
+}
+.card-face .speak-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+}
+.speak-inline {
+  width: 32px;
+  height: 32px;
+  font-size: 15px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+/* Hands-free auto-play (driving mode) controls */
+.autoplay-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+}
+.autoplay-bar #autoBtn {
+  flex: 1;
+}
+.speed-group {
+  display: flex;
+  gap: 4px;
+}
+.btn-sm {
+  min-height: 40px;
+  padding: 0 10px;
+  font-size: 13px;
+  flex: 0 0 auto;
+}
+.speed-btn.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #fff;
+}

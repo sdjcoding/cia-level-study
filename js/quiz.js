@@ -54,8 +54,27 @@
 
   // Re-render current question (preserving answered state) on language change.
   window.addEventListener("cia:lang-changed", () => {
+    CIA.Speech.cancel();
     if (idx < order.length) renderQuestion(answeredThis ? currentPick : null);
   });
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) CIA.Speech.cancel();
+  });
+
+  // Segments for reading the question followed by its options.
+  function questionSegments(q) {
+    const segs = CIA.Lang.segments(q.question, q.question_en);
+    q.options.forEach((opt, i) => {
+      const letter = String.fromCharCode(65 + i) + ". ";
+      const ko = stripLetter(opt);
+      const en = q.options_en && q.options_en[i] ? stripLetter(q.options_en[i]) : "";
+      CIA.Lang.segments(ko, en).forEach((s, j) => {
+        segs.push({ ...s, text: (j === 0 ? letter : "") + s.text });
+      });
+    });
+    return segs;
+  }
 
   function renderQuestion(replayPick = null) {
     if (idx >= order.length) {
@@ -65,9 +84,12 @@
     const q = order[idx];
     answeredThis = false;
     currentPick = null;
+    const speakBtn = CIA.Speech.supported
+      ? `<button class="speak-btn speak-inline" id="qSpeak" aria-label="문제 읽어주기" title="문제 읽어주기">🔊</button>`
+      : "";
     quizArea.innerHTML = `
       <div class="quiz-question">
-        <div class="question-text">Q${idx + 1}. ${CIA.Lang.render(q.question, q.question_en)}</div>
+        <div class="question-text">${speakBtn}Q${idx + 1}. ${CIA.Lang.render(q.question, q.question_en)}</div>
         <div class="options">
           ${q.options
             .map((opt, i) => {
@@ -83,6 +105,8 @@
     quizArea.querySelectorAll(".option").forEach((btn) => {
       btn.addEventListener("click", () => answer(parseInt(btn.dataset.i, 10), q));
     });
+    const qSpeak = document.getElementById("qSpeak");
+    if (qSpeak) qSpeak.addEventListener("click", () => CIA.Speech.speakSegments(questionSegments(q)));
     progressInfo.textContent = `${idx + 1} / ${order.length} · 정답 ${correctCount}`;
 
     if (replayPick !== null) {
@@ -111,16 +135,26 @@
       else if (i === picked) btn.classList.add("wrong");
     });
 
+    const hasExpl = (q.explanation && q.explanation.trim()) || (q.explanation_en && q.explanation_en.trim());
+    const explSpeak =
+      CIA.Speech.supported && hasExpl
+        ? `<button class="speak-btn speak-inline" id="explSpeak" aria-label="해설 읽어주기" title="해설 읽어주기">🔊</button>`
+        : "";
     const feedback = document.getElementById("feedback");
     feedback.innerHTML = `
       <div class="feedback ${correct ? "correct" : "wrong"}">
-        <div class="feedback-title">${correct ? "✓ 정답! / Correct!" : "✗ 오답 / Incorrect"}</div>
+        <div class="feedback-title">${explSpeak}${correct ? "✓ 정답! / Correct!" : "✗ 오답 / Incorrect"}</div>
         <div>${CIA.Lang.render(q.explanation || "", q.explanation_en || "")}</div>
       </div>
       <div class="action-bar-bottom">
         <button class="btn btn-primary btn-block" id="nextBtn">${idx + 1 === order.length ? "결과 보기" : "다음 문제 →"}</button>
       </div>
     `;
+    const explSpeakBtn = document.getElementById("explSpeak");
+    if (explSpeakBtn)
+      explSpeakBtn.addEventListener("click", () =>
+        CIA.Speech.speakSegments(CIA.Lang.segments(q.explanation || "", q.explanation_en || ""))
+      );
     document.getElementById("nextBtn").addEventListener("click", () => {
       idx++;
       renderQuestion();
