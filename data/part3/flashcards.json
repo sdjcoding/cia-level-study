@@ -1376,6 +1376,520 @@
         "내부개발 전략",
         "성장 전략"
       ]
+    },
+    {
+      "id": "p3-bk-049",
+      "src": "c99f45dad32e45dd9d6a0ceebae9d02c",
+      "category": "전략경영 — 다각화",
+      "category_en": "Strategy — Diversification",
+      "category_zh": "战略管理 — 多元化",
+      "front": "한 스킨케어 회사가 기존 시장에서 고객에게 여러 전혀 새로운 스킨케어 제품을 출시하기로 했다. 이 회사가 채택한 발전 전략은?\n\nA. 복합(집단) 다각화\nB. 수평적 다각화\nC. 수평적 통합\nD. 수직적 통합",
+      "front_en": "A skincare firm launches several entirely new skincare products to customers in its existing market. Which development strategy is this?\n\nA. Conglomerate diversification\nB. Horizontal diversification\nC. Horizontal integration\nD. Vertical integration",
+      "front_zh": "一家护肤产品公司决定在现有市场为客户推出多种全新护肤产品。该公司采用的发展战略是？\n\nA.集团多元化\nB.横向多元化\nC.横向一体化\nD.纵向一体化",
+      "back": "정답: B\n\n수평적 다각화는 기존 시장을 활용하되 다른 기술로 신제품을 개발해 종류를 늘리는 것이다. 신제품과 기존 제품의 기본 용도는 다르나 시장 관련성이 강해 기존 유통 경로를 이용할 수 있다.",
+      "back_en": "Answer: B\n\nHorizontal diversification uses the existing market but develops new products with different technology to add variety. The new and existing products differ in basic use but have strong market relevance, allowing reuse of existing distribution channels.",
+      "back_zh": "答案：B\n\n横向（水平）多元化指利用现有市场，采用不同技术发展新产品、增加品种。新产品与现有产品基本用途不同，但市场关联性强，可利用原有分销渠道。",
+      "tags": [
+        "수평적 다각화",
+        "전략경영"
+      ]
+    },
+    {
+      "id": "p3-bk-050",
+      "src": "2ca1b589a423406497a1bd4ebc211839",
+      "category": "전략경영 — 진입장벽",
+      "category_en": "Strategy — Entry Barriers",
+      "category_zh": "战略管理 — 进入壁垒",
+      "front": "정부가 현존·잠재 신규 조직의 신시장 진입을 장려하기 위해 보조금을 검토 중이다. 보조금이 산업 전체에 미칠 잠재적 영향은?\n\nA. 강한 퇴출장벽으로 높은 산업 수익\nB. 약한 진입장벽으로 높고 위험이 큰 산업 수익\nC. 약한 진입장벽으로 낮은 산업 수익\nD. 산업 수익·장벽에 영향 없음",
+      "front_en": "A government considers subsidies to encourage existing and potential new firms to enter a new market. The potential effect on the whole industry is:\n\nA. Higher returns due to strong exit barriers\nB. Higher, riskier returns due to weaker entry barriers\nC. Lower returns due to weaker entry barriers\nD. No effect on returns or barriers",
+      "front_zh": "政府正考虑通过货币补贴鼓励现有及潜在新组织进入新市场。补贴对整个行业的潜在影响是？\n\nA.由于较强的退出壁垒而产生较高的行业回报\nB.由于较弱的进入壁垒而产生较高且风险较大的行业回报\nC.由于较弱的进入壁垒而产生较低的行业回报\nD.行业回报或壁垒不会受到任何影响",
+      "back": "정답: C\n\n진입장벽 높이를 결정하는 요인에는 규모의 경제·고객 충성도·자본 투입·전환비용·유통경로 접근·정부정책·기존 제품 원가우위가 있다. 보조금은 정부정책 요인으로 진입장벽을 직접 낮추나(퇴출장벽엔 영향 없음), 신규 진입이 쉬울수록 현 산업의 수익성은 약화된다.",
+      "back_en": "Answer: C\n\nEntry-barrier height depends on economies of scale, customer loyalty, capital, switching cost, channel access, government policy, and incumbents' cost advantage. A subsidy (government policy) directly lowers entry barriers (not exit barriers); easier entry erodes the current industry's profitability.",
+      "back_zh": "答案：C\n\n决定进入壁垒高度的因素有规模经济、客户忠诚度、资本投入、转换成本、销售渠道使用权、政府政策、现有产品成本优势。货币补贴属政府政策，直接降低进入壁垒（不影响退出壁垒）；新进入越容易，当前行业获利能力越易被削弱。",
+      "tags": [
+        "진입장벽",
+        "정부정책"
+      ]
+    },
+    {
+      "id": "p3-bk-051",
+      "src": "57e0d7c80d184b6eaf6501dc9084a712",
+      "category": "전략경영 — 수평적 통합",
+      "category_en": "Strategy — Horizontal Integration",
+      "category_zh": "战略管理 — 横向一体化",
+      "front": "다음 중 수평적 통합 전략의 장점이 아닌 것은?\n\nA. 경쟁자 감소\nB. 규모의 경제\nC. 기술·관리 경험 획득\nD. 원자재 공급 보장",
+      "front_en": "Which is NOT an advantage of horizontal integration?\n\nA. Fewer competitors\nB. Economies of scale\nC. Gaining technical/managerial experience\nD. Securing raw-material supply",
+      "front_zh": "以下不属于横向一体化战略优势的是：\n\nA.减少竞争对手\nB.规模经济\nC.获取技术及管理方面的经验\nD.保证原材料的供应",
+      "back": "정답: D\n\n원자재 공급 보장은 수직적 통합의 장점이다. 수평적 통합은 경쟁자를 합병하는 것으로 양측 업무 성격이 같고 필요한 원자재도 유사하므로, 공급 보장 효과는 없다.",
+      "back_en": "Answer: D\n\nSecuring raw-material supply is an advantage of VERTICAL integration. Horizontal integration merges competitors doing the same business with similar inputs, so it does not secure supply.",
+      "back_zh": "答案：D\n\n保证原材料供应是纵向一体化的优势。横向一体化合并的是竞争对手，双方业务性质相同、所需原材料相似，故不起保证供应的作用。",
+      "tags": [
+        "수평적 통합",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-052",
+      "src": "d6b6533ffda24e46aed23450734822e3",
+      "category": "전략경영 — 다각화",
+      "category_en": "Strategy — Diversification",
+      "category_zh": "战略管理 — 多元化",
+      "front": "신제품과 기존 제품의 기본 용도는 다르나 시장 관련성이 강해 기존 유통 경로로 신제품을 팔 수 있는 전략은?\n\nA. 동심원적(집중적) 다각화\nB. 수평적 다각화\nC. 복합 다각화\nD. 비관련 다각화",
+      "front_en": "Which strategy applies when new products differ in basic use from existing ones but have strong market relevance, allowing the existing distribution channel to sell them?\n\nA. Concentric diversification\nB. Horizontal diversification\nC. Conglomerate diversification\nD. Unrelated diversification",
+      "front_zh": "新产品与现有产品基本用途不同，但市场关联性强，可利用原有分销渠道销售新产品，这种战略属于：\n\nA.同心多元化战略\nB.水平多元化战略\nC.复合多元化战略\nD.非相关多元化战略",
+      "back": "정답: B\n\n수평적 다각화의 특징은 신제품과 기존 제품의 기본 용도가 다르되 시장 관련성이 강해 기존 유통 경로를 활용할 수 있다는 점이다.",
+      "back_en": "Answer: B\n\nHorizontal diversification is characterized by new products differing in basic use from existing ones but with strong market relevance, allowing reuse of existing channels.",
+      "back_zh": "答案：B\n\n水平多元化的特点是新产品与现有产品基本用途不同，但市场关联性强，可利用原有分销渠道销售新产品。",
+      "tags": [
+        "수평적 다각화"
+      ]
+    },
+    {
+      "id": "p3-bk-053",
+      "src": "f03984cf6b9c40abb6e5ef9997f318ba",
+      "category": "조직행동 — 집단 유형",
+      "category_en": "OB — Group Types",
+      "category_zh": "组织行为 — 群体类型",
+      "front": "조직의 한 지역에 대한 원가 분석을 위해 소조(팀)를 구성하고, 분석 완료 후 해산했다. 이는 어떤 집단인가?\n\nA. 기능형\nB. 구조형\nC. 과업형(task)\nD. 비공식",
+      "front_en": "A team is formed to do a cost analysis of one region and disbands when done. What type of group is this?\n\nA. Functional\nB. Structural\nC. Task group\nD. Informal",
+      "front_zh": "为对组织的一个地区进行成本分析成立了一个小组，分析完成后该小组解散。这是什么群体？\n\nA.功能型\nB.结构型\nC.任务型\nD.非正式的",
+      "back": "정답: C\n\n과업형 소조는 한 과업 완수를 위해 공식 임명되며 과업이 끝나면 해산한다. 비공식 집단도 과업이 있을 수 있으나 공식 임명되지 않는다. 구조·기능형은 보통 조직구조에 내재해 운영된다.",
+      "back_en": "Answer: C\n\nA task group is formally appointed to complete a task and disbands once done. Informal groups may have a task but aren't formally appointed. Structural/functional groups usually operate embedded in the structure.",
+      "back_zh": "答案：C\n\n任务型工作小组被正式任命完成一个任务，任务完成则解散。非正式群体也可能有任务，但不会被正式任命。结构型和功能型小组通常嵌入组织结构中运行。",
+      "tags": [
+        "과업형 집단",
+        "집단 유형"
+      ]
+    },
+    {
+      "id": "p3-bk-054",
+      "src": "38ae9fa7e40a4c41819cff7e6b48ceb9",
+      "category": "변화관리 — 변화 동인",
+      "category_en": "Change Mgmt — Drivers",
+      "category_zh": "变革管理 — 变革诱因",
+      "front": "다음 중 기업이 변화관리를 하게 만드는 문제는? Ⅰ.내부 사람 문제 Ⅱ.조직구조 문제 Ⅲ.내부 관리 문제 Ⅳ.외부 환경 변화\n\nA. Ⅰ과 Ⅱ\nB. Ⅰ·Ⅱ·Ⅳ\nC. Ⅰ·Ⅱ·Ⅲ\nD. Ⅰ·Ⅱ·Ⅲ·Ⅳ",
+      "front_en": "Which problems can lead a firm to undertake change management? Ⅰ.Internal people Ⅱ.Org structure Ⅲ.Internal management Ⅳ.External environment changes\n\nA. Ⅰ and Ⅱ\nB. Ⅰ, Ⅱ, Ⅳ\nC. Ⅰ, Ⅱ, Ⅲ\nD. Ⅰ, Ⅱ, Ⅲ, Ⅳ",
+      "front_zh": "以下哪些问题可能导致企业进行变革管理？Ⅰ.内部人的问题 Ⅱ.组织结构问题 Ⅲ.内部管理问题 Ⅳ.外部环境变化\n\nA.Ⅰ和Ⅱ\nB.Ⅰ、Ⅱ和Ⅳ\nC.Ⅰ、Ⅱ和Ⅲ\nD.Ⅰ、Ⅱ、Ⅲ和Ⅳ",
+      "back": "정답: D\n\n전략 실행 시 저항은 내부 사람·조직구조·내부 관리 시스템 문제, 외부 환경 변화 등 여러 측면에서 발생할 수 있다. 이를 줄이기 위해 변화관리를 도입하는 것은 전략관리의 필수 단계로, 네 가지 모두 변화관리의 동인이 된다.",
+      "back_en": "Answer: D\n\nResistance in strategy execution can arise from internal people, org structure, internal management systems, and external environmental change. Introducing change management to reduce it is an essential step — all four are drivers.",
+      "back_zh": "答案：D\n\n实施战略时阻力来自内部人的问题、组织结构问题、内部管理系统问题及外部环境变化等多方面。导入变革管理以化减阻力是战略管理不可缺少的步骤，四项都是变革诱因。",
+      "tags": [
+        "변화관리",
+        "변화 동인"
+      ]
+    },
+    {
+      "id": "p3-bk-055",
+      "src": "eb6ed369faee44e8b8c9106a7710d8d5",
+      "category": "전략경영 — 전략목표 수립",
+      "category_en": "Strategy — Setting Objectives",
+      "category_zh": "战略管理 — 战略目标",
+      "front": "기업 전략목표 수립은 조사연구를 기초로 한다. 전략목표 확정 전 가장 우선 조사해야 할 정보는?\n\nA. 기업 수익능력\nB. 직원 이직률\nC. 기업 내부 환경\nD. 기업 외부 환경",
+      "front_en": "Setting strategic objectives is based on research. Which information should be investigated FIRST before setting them?\n\nA. Firm profitability\nB. Employee turnover\nC. Internal environment\nD. External environment",
+      "front_zh": "企业制定战略目标以调查研究为基础。确定战略目标之前最应该调查的信息是？\n\nA.企业盈利能力\nB.企业员工流动率\nC.企业内部环境\nD.企业外部环境",
+      "back": "정답: D\n\n전략 수립을 위한 조사연구는 다른 조사와 달리 기업과 외부 환경의 관계, 미래 연구·예측에 중점을 둔다. 자사 역사·현황도 유용하나, 전략목표 결정에 가장 핵심은 기업 미래에 결정적 의미를 갖는 외부 환경 정보다.",
+      "back_en": "Answer: D\n\nResearch for strategy focuses on the firm's relationship with the external environment and on future study/forecasting. The firm's own history/status is useful, but the most critical for strategic objectives is external-environment information decisive for the firm's future.",
+      "back_zh": "答案：D\n\n为确定战略而进行的调查研究侧重企业与外部环境的关系及对未来的研究和预测。企业自身历史与现状有用，但对战略目标决策最关键的是对企业未来具有决定意义的外部环境信息。",
+      "tags": [
+        "전략목표",
+        "외부환경 분석"
+      ]
+    },
+    {
+      "id": "p3-bk-056",
+      "src": "b05bf9e5578c4db390f5ca181e666f1d",
+      "category": "품질관리 — TQM 전략",
+      "category_en": "Quality — TQM Strategy",
+      "category_zh": "质量管理 — 全面质量管理",
+      "front": "전사적 품질경영(TQM) 전략에 가장 부합하는 것은?\n\nA. 출고 전 품질을 통제해 판매 제품 무결점을 도모\nB. 정기 설비 점검으로 무결점 도모\nC. 제품 설계 단계에서 무결점을 도모\nD. 이중 검토로 결함을 조기 발견",
+      "front_en": "Which best fits a TQM strategy?\n\nA. Control quality before shipment to seek zero defects in sold products\nB. Periodic equipment maintenance to seek zero defects\nC. Seek zero defects at the design stage\nD. Double-review products to find defects early",
+      "front_zh": "以下最符合全面质量管理战略的是：\n\nA.在产品销售出库前把好质量关，争取销售产品零缺陷\nB.定期检修设备，力争产品零缺陷\nC.在产品设计时就力争做到零缺陷\nD.对产品做双重复核，力争尽早发现缺陷",
+      "back": "정답: C\n\nTQM은 제품 설계 단계에서 가능한 결함을 제거하는 '사전 통제'를 지향한다.",
+      "back_en": "Answer: C\n\nTQM advocates eliminating possible defects at the design stage — prevention-based (upfront) control.",
+      "back_zh": "答案：C\n\n全面质量管理倡导在产品设计阶段消除各种可能的缺陷，形成质量的事前控制。",
+      "tags": [
+        "TQM",
+        "사전 통제",
+        "설계품질"
+      ]
+    },
+    {
+      "id": "p3-bk-057",
+      "src": "cf48b08fb36a41d589816f05c4d98e12",
+      "category": "인적자원 — 직무분석",
+      "category_en": "HR — Job Analysis",
+      "category_zh": "人力资源 — 职位描述",
+      "front": "조직이 한 직위의 임무·직책·책임을 상세히 기술하는 행위는?\n\nA. 직무설계\nB. 직무기술(직무 서술)\nC. 직무규범(명세)\nD. 직무평가",
+      "front_en": "Detailing a position's tasks, duties, and responsibilities is which activity?\n\nA. Job design\nB. Job description\nC. Job specification\nD. Job evaluation",
+      "front_zh": "组织对一个职位的任务、职责和责任进行详细说明，这属于：\n\nA.职位设计\nB.职位描述\nC.职位规范\nD.职位评估",
+      "back": "정답: B\n\nA. 오답 — 직무설계(직무분석)는 직무 수행에 필요한 기술·책임·지식을 정하는 체계적 과정.\nB. 정답 — 직무기술서(job description)는 특정 직위의 임무·직책·활동·조건 등 직무 자체를 서면 기술한 것(사람이 아닌 일 자체 대상).\nC. 오답 — 직무규범(명세)은 종사자의 자질·기술·경력 요건을 반영한 문서.\nD. 오답 — 직무평가는 직위 가치를 평가하는 방법.",
+      "back_en": "Answer: B\n\nA. Incorrect — job design/analysis systematically determines required skills, responsibilities, and knowledge.\nB. Correct — a job description is a written account of a position's tasks, duties, activities, conditions — the work itself (not the person).\nC. Incorrect — job specification states the qualifications/skills/experience required of the holder.\nD. Incorrect — job evaluation assesses a position's value.",
+      "back_zh": "答案：B\n\nA不正确，职位设计（工作分析）是确定完成工作所需技能、责任和知识的系统过程。B正确，职位描述（工作说明书）是对特定职位的任务、职责、活动、条件等职位本身的书面描述，对象是工作而非人。C不正确，职位规范反映对从业人员品质、技能、经历的要求。D不正确，职位评估是评价职位价值的方法。",
+      "tags": [
+        "직무기술서",
+        "직무분석"
+      ]
+    },
+    {
+      "id": "p3-bk-058",
+      "src": "16ab57803bc34226863d9489bf697f62",
+      "category": "전략경영 — 산업분석",
+      "category_en": "Strategy — Industry Analysis",
+      "category_zh": "战略管理 — 产业分析",
+      "front": "전기통신 공급사인 갑사가 전자상거래(EC) 진입을 위해 EC 산업분석 보고서를 요구했다. 이 보고서의 목적에 포함되지 않는 것은?\n\nA. 현재 EC 산업의 경쟁 강도 확인\nB. 현 경쟁 환경에서의 가능 수익 수준 추정\nC. 원가 예산 확정\nD. 주요 경쟁자 확인",
+      "front_en": "A telecom provider requests an e-commerce industry analysis before entering EC. Which is NOT a purpose of this report?\n\nA. Determine current competitive intensity of EC\nB. Estimate possible profitability under current competition\nC. Set the cost budget\nD. Identify main competitors",
+      "front_zh": "电信供应商甲公司拟进入电商领域，要求提交电商产业分析报告。该报告的目的不包括：\n\nA.确定目前电商行业的竞争强度\nB.估计在现有竞争环境下的可能获利水平\nC.确定成本预算\nD.确定主要的竞争对手",
+      "back": "정답: C\n\n산업분석의 목적은 먼저 산업의 기존 경쟁 강도를 확인하고, 그 강도하의 가능 수익 수준을 추정하며, 주요 경쟁자를 확인하는 것이다. 원가 예산 확정은 산업분석의 목적이 아니다.",
+      "back_en": "Answer: C\n\nIndustry analysis aims to determine existing competitive intensity, estimate possible profitability under it, and identify main competitors. Setting a cost budget is not its purpose.",
+      "back_zh": "答案：C\n\n产业分析的目的首先是确定产业已有的竞争强度，从而估计在此竞争强度下的可能获利水平，其次是确定主要竞争对手。确定成本预算不属于产业分析的目的。",
+      "tags": [
+        "산업분석",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-059",
+      "src": "95274d7d0cf34101a6c46d986e97e4c7",
+      "category": "품질관리 — 품질분임조(QCC)",
+      "category_en": "Quality — Quality Circle",
+      "category_zh": "质量管理 — 品管圈",
+      "front": "품질분임조(QCC)는 같은 작업장의 직원 약 6명이 자발적으로 구성한 품질관리 소조다. QCC의 주요 목표는?\n\nA. 직원 간 이해 증진\nB. 기업과 직원 간 정보 소통 촉진\nC. 팀 리더 선출\nD. 각 직원의 창의적 문제해결 잠재력 발굴",
+      "front_en": "A Quality Control Circle (QCC) is a voluntary ~6-person group at one workplace. Its main goal is:\n\nA. Improve mutual understanding among staff\nB. Promote info communication between firm and staff\nC. Elect a team leader\nD. Unlock each member's creative problem-solving potential",
+      "front_zh": "品管圈（QCC）由同一工作场所约6名员工自发组成。品管圈的主要目标是：\n\nA.增进员工之间的了解\nB.促进企业与员工之间的信息沟通\nC.选出团队领袖\nD.挖掘每位员工创造性解决问题的潜力",
+      "back": "정답: D\n\nQCC의 주요 목표는 작업 현장·관리·문화 등의 문제를 창의적으로 해결하고 직원의 창의성을 충분히 발휘하는 것이다.",
+      "back_en": "Answer: D\n\nThe QCC's main goal is to creatively solve problems on the shop floor, in management, and culture, fully unleashing employees' creativity.",
+      "back_zh": "答案：D\n\n品管圈的主要目标是创造性地解决工作现场、管理、文化等方面的问题，充分发挥员工的创造性。",
+      "tags": [
+        "QCC",
+        "품질분임조"
+      ]
+    },
+    {
+      "id": "p3-bk-060",
+      "src": "883e3578ef56485fb61402dd5f82aee0",
+      "category": "조직 — 권력과 직권",
+      "category_en": "Organization — Power vs Authority",
+      "category_zh": "组织 — 权力与职权",
+      "front": "권력(power)과 직권(authority)의 관계를 어떻게 설명해야 하는가?\n\nA. 권력은 '할 권리', 직권은 '할 능력'\nB. 직권은 '할 권리', 권력은 '할 능력'\nC. 권력과 직권 모두 과업 완수에 필수\nD. 권력과 직권은 표현만 다를 뿐 같은 개념",
+      "front_en": "How should the relationship between power and authority be explained?\n\nA. Power = the right to do; authority = the ability to do\nB. Authority = the right to do; power = the ability to do\nC. Both power and authority are necessary to complete any task\nD. They are merely different words for the same concept",
+      "front_zh": "权力和职权这两个概念的联系应如何解释？\n\nA.权力是指有权做某事，职权是指有能力做某事\nB.职权是指有权做某事，权力是指有能力做某事\nC.权力和职权都是完成某项任务所必需的\nD.权力和职权只是字面不同，表达的是同一个概念",
+      "back": "정답: B\n\n권력은 의사결정에 영향을 미치는 '능력'이고, 직권은 조직 내 직위에 결부된 공식 권력으로 '권리'다. 따라서 직권=할 권리, 권력=할 능력. (A는 반대, C·D는 틀림 — 모든 과업에 직권이 필요한 것은 아니며, 둘은 전혀 다른 개념이다.)",
+      "back_en": "Answer: B\n\nPower is the ABILITY to influence decisions; authority is formal power tied to one's position — the RIGHT. So authority = right to do, power = ability to do. (A is reversed; C/D wrong — not every task needs authority, and they are distinct concepts.)",
+      "back_zh": "答案：B\n\n权力是影响决策的能力；职权是与组织职位相联系的正式权力，是一种权利。故职权=有权做某事，权力=有能力做某事。A正好相反；C、D错误——并非所有任务都需职权，二者是完全不同的概念。",
+      "tags": [
+        "권력",
+        "직권",
+        "조직"
+      ]
+    },
+    {
+      "id": "p3-bk-061",
+      "src": "4a653b4016024705a8e3c3c56967fcce",
+      "category": "인적자원 — 안전교육",
+      "category_en": "HR — Safety Education",
+      "category_zh": "人力资源 — 安全教育",
+      "front": "다음 중 안전교육 계획의 내용에 속하지 않는 것은?\n\nA. 상해 위험 식별·통보\nB. 안전 인센티브 계획\nC. 눈 손상 예방 교육\nD. 산재 보상",
+      "front_en": "Which is NOT part of a safety education program?\n\nA. Identifying and reporting injury risks\nB. Safety incentive program\nC. Eye-injury prevention training\nD. Workers' compensation",
+      "front_zh": "以下不属于安全教育计划内容的是：\n\nA.识别并通报伤害风险\nB.安全激励计划\nC.眼部损伤防范培训\nD.工伤赔偿",
+      "back": "정답: D\n\n안전교육 계획의 세 기본 요소: 상해 위험 식별·통보, 안전 실천 강화, 안전 의식 제고. 안전 인센티브(B)는 실천 강화 방법, 눈 손상 예방 교육(C)은 의식 제고 교육. 산재 보상(D)은 사고 발생 후 처리로 안전교육 계획에 속하지 않는다.",
+      "back_en": "Answer: D\n\nThe three basic elements are: identify/report injury risks, reinforce safe practices, raise safety awareness. Incentives (B) reinforce practice; eye-injury training (C) raises awareness. Workers' comp (D) is post-accident handling, not part of safety education.",
+      "back_zh": "答案：D\n\n安全教育计划包括三个基本要素：识别并通报伤害风险、强化安全实践、提高安全意识。安全激励计划是强化实践的方法，眼部损伤防范培训属于提高安全意识。工伤赔偿属于事故后处理，不属于安全教育计划。",
+      "tags": [
+        "안전교육",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-062",
+      "src": "d3b7194948dc48f689820e93bbaca3c7",
+      "category": "전략경영 — 퇴출장벽",
+      "category_en": "Strategy — Exit Barriers",
+      "category_zh": "战略管理 — 退出壁垒",
+      "front": "산업 퇴출의 경제적 장애에는 자산 전용성 과다, 사업 간 전략적 보완관계 외에 다음 중 무엇이 포함되는가?\n\nA. 기업의 기술 혁신\nB. 기업 자원의 비공유성\nC. 기업의 재무적 장애\nD. 기업 인원의 정서적 장애",
+      "front_en": "Besides over-specialized assets and strategic complementarity among businesses, which is an economic exit barrier?\n\nA. The firm's technical innovation\nB. Non-sharing of firm resources\nC. The firm's financial barriers\nD. Employees' emotional barriers",
+      "front_zh": "产业退出的经济障碍除企业资产专门性过强、业务间战略互补关系外，还包括以下哪项？\n\nA.企业的技术创新\nB.企业资源的非共享性\nC.企业财务上的障碍\nD.企业人员在情绪上的障碍",
+      "back": "정답: D\n\nA. 오답 — 기술 혁신은 오히려 원기술을 부정하고 신기술로 산업에서 원활히 퇴출하게 돕는다.\nB. 오답 — 사업 간 자원 공유관계가 있으면 퇴출이 어려워질 수 있어 비공유성은 장애가 아니다.\nC. 오답 — 재무적 장애는 퇴출 장애도, 원활한 퇴출 촉진 요인도 될 수 있어 불확정적.\nD. 정답 — 사업 퇴출은 종업원의 이익·감정에 영향을 주며, 인원의 정서적 장애가 퇴출장벽이 된다.",
+      "back_en": "Answer: D\n\nA. Incorrect — innovation actually helps a firm exit smoothly by replacing old technology.\nB. Incorrect — shared resources hinder exit, so non-sharing is not a barrier.\nC. Incorrect — financial barriers can be either an exit barrier or a factor easing exit — indeterminate.\nD. Correct — exit affects employees' interests and feelings; their emotional barriers form an exit barrier.",
+      "back_zh": "答案：D\n\nA不正确，技术创新反而否定原技术、采用新技术，有利于企业顺利退出。B不正确，业务间资源共享会使退出困难，非共享性不是障碍。C不正确，财务障碍既可成为退出障碍，也可成为促进退出的因素，不确定。D正确，业务退出影响人员利益和感情，人员情绪上的障碍构成退出壁垒。",
+      "tags": [
+        "퇴출장벽",
+        "전략경영"
+      ]
+    },
+    {
+      "id": "p3-bk-063",
+      "src": "208b847667844b80847ad0c03d0da039",
+      "category": "경영과학 — 제약/병목 이론",
+      "category_en": "Management Science — TOC/Bottleneck",
+      "category_zh": "管理科学 — 约束/瓶颈理论",
+      "front": "제약이론(TOC)·병목이론에 관한 설명 중 옳은 것은? Ⅰ.둘 다 조직의 자원 제약 분석 Ⅱ.병목 식별 방법은 CPM·PERT·6시그마 등 Ⅲ.TOC는 기존 자원·배치하에서 자원 이용효율 최대화 논의 Ⅳ.병목이론은 병목을 찾아 자원 배치로 제약을 개선해 전체 효율을 높이는 것\n\nA. Ⅰ과 Ⅱ\nB. Ⅰ·Ⅲ·Ⅳ\nC. Ⅱ·Ⅲ·Ⅳ\nD. Ⅰ·Ⅱ·Ⅲ·Ⅳ",
+      "front_en": "Which statements about TOC/bottleneck theory are correct? Ⅰ.Both analyze resource constraints Ⅱ.Bottlenecks are identified via CPM/PERT/Six Sigma Ⅲ.TOC maximizes resource utilization under given resources/allocation Ⅳ.Bottleneck theory finds bottlenecks and improves the constraint via resource allocation to raise overall efficiency\n\nA. Ⅰ and Ⅱ\nB. Ⅰ, Ⅲ, Ⅳ\nC. Ⅱ, Ⅲ, Ⅳ\nD. Ⅰ, Ⅱ, Ⅲ, Ⅳ",
+      "front_zh": "以下关于约束理论和瓶颈理论的说法正确的是？Ⅰ.两者都分析组织的资源限制 Ⅱ.确定瓶颈的方法有关键路径法、项目评审法、六西格玛 Ⅲ.约束理论讨论在既有资源及配置下使资源利用效率最大化 Ⅳ.瓶颈理论讨论找出瓶颈并通过资源配置改善限制以提高整体效率\n\nA.Ⅰ和Ⅱ\nB.Ⅰ、Ⅲ和Ⅳ\nC.Ⅱ、Ⅲ和Ⅳ\nD.Ⅰ、Ⅱ、Ⅲ和Ⅳ",
+      "back": "정답: B\n\nⅡ만 틀리다 — CPM·PERT는 프로젝트 관리 기법이고 6시그마는 품질 프로세스 개선 방법으로, 병목 식별 방법이 아니다. Ⅰ·Ⅲ·Ⅳ는 옳다.",
+      "back_en": "Answer: B\n\nOnly Ⅱ is wrong — CPM/PERT are project-management techniques and Six Sigma is a quality-improvement method, not bottleneck-identification methods. Ⅰ, Ⅲ, Ⅳ are correct.",
+      "back_zh": "答案：B\n\n仅Ⅱ不正确——关键路径法、项目评审法是项目管理技术，六西格玛是质量过程改进方法，都不是确定瓶颈的方法。Ⅰ、Ⅲ、Ⅳ正确。",
+      "tags": [
+        "제약이론",
+        "병목이론"
+      ]
+    },
+    {
+      "id": "p3-bk-064",
+      "src": "2894be9e6ee74a0b86f9845de08eb6e0",
+      "category": "경영과학 — 회귀분석",
+      "category_en": "Management Science — Regression",
+      "category_zh": "管理科学 — 回归分析",
+      "front": "조립부서 관리자가 지난 24개월 원가·생산량 정보로 총원가 중 고정비·변동비를 추정하려 한다. 사용해야 할 기법은?\n\nA. 회귀분석\nB. 게임이론\nC. 민감도 분석\nD. 대기행렬이론",
+      "front_en": "An assembly manager estimates fixed and variable costs in total cost from 24 months of cost/output data. Which technique to use?\n\nA. Regression analysis\nB. Game theory\nC. Sensitivity analysis\nD. Queuing theory",
+      "front_zh": "装配部门经理用过去24个月的成本和产量信息估计总成本中的固定和可变成本，应使用：\n\nA.回归分析\nB.博弈论\nC.敏感性分析\nD.排队论",
+      "back": "정답: A\n\n회귀분석은 한 변수(종속)와 하나 이상의 다른 변수(독립) 간 관계를 연구한다(원가-생산량 관계로 고정·변동비 추정에 적합). 게임이론은 상호작용 의사결정·균형, 민감도 분석은 원자료 변화의 최적해 영향, 대기행렬은 대기·서비스 비용 균형을 다룬다.",
+      "back_en": "Answer: A\n\nRegression studies the relationship between a (dependent) variable and one or more (independent) variables — suited to estimating fixed/variable cost from cost-output data. Game theory = interactive decisions/equilibrium; sensitivity = effect of data changes on the optimum; queuing = balancing waiting vs. service cost.",
+      "back_zh": "答案：A\n\n回归分析研究一个变量（因变量）与一个或多个变量（自变量）之间的关系，适合用成本-产量关系估计固定/可变成本。博弈论研究相互作用下的决策与均衡；敏感性分析研究原始数据变化对最优解的影响；排队论权衡等候与服务成本。",
+      "tags": [
+        "회귀분석",
+        "원가추정"
+      ]
+    },
+    {
+      "id": "p3-bk-065",
+      "src": "89ccd142ffb74d9d9b2ba45719348156",
+      "category": "의사결정 — 집단 vs 개인",
+      "category_en": "Decision — Group vs Individual",
+      "category_zh": "决策 — 群体与个体",
+      "front": "집단 의사결정과 개인 의사결정 선택에 관한 설명 중 틀린 것은?\n\nA. 창의성이 더 중요하면 개인 의사결정을 택해야 한다\nB. 결정이 널리 수용되길 원하면 집단 의사결정\nC. 가장 정확한 결정을 원하면 집단 중 판단이 가장 정확한 구성원이 결정\nD. 구성원 다양성·자유로운 소통·복잡한 과업의 세 조건을 동시에 충족할 때만 집단이 개인보다 우월",
+      "front_en": "Which statement about choosing group vs. individual decision-making is INCORRECT?\n\nA. If creativity matters more, choose individual decision-making\nB. If broad acceptance is desired, choose group decision-making\nC. For the most accurate decision, let the most accurate-judging member decide\nD. Group is superior to individual only when member diversity, free open communication, and task complexity are all met",
+      "front_zh": "关于选择群体决策还是个体决策，以下说法错误的是：\n\nA.如果认为创造力更重要，应选用个体决策\nB.如果希望决策被广泛接受，应选用群体决策\nC.如果希望决策最准确，应由群体中判断最准确的成员做决策\nD.只有同时满足群体成员多元化、能自由开放沟通、任务复杂三个条件时，群体决策才优于个体决策",
+      "back": "정답: A\n\n창의성이 더 중요하면 (개인이 아니라) 집단 의사결정을 택해야 한다. 따라서 A가 틀렸다.",
+      "back_en": "Answer: A\n\nIf creativity matters more, choose GROUP (not individual) decision-making. So A is incorrect.",
+      "back_zh": "答案：A\n\n如果认为创造力更重要，应选用群体决策（而非个体）。故A错误。",
+      "tags": [
+        "집단 의사결정",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-066",
+      "src": "be9d786b7e7847d8b0d6b2c1df31b604",
+      "category": "조직 — 권한위임",
+      "category_en": "Organization — Empowerment",
+      "category_zh": "组织 — 授权",
+      "front": "권한을 위임받은 팀이 있는 조직에서 조직 정책(policy)은?\n\nA. 팀이 자기주도를 유지하더라도 그 행동의 범위·한계를 규정해야 한다\nB. 그 어느 때보다 중요해진다. 명확한 규칙이 없으면 위임받은 팀은 반드시 실수한다\nC. 가능한 한 줄이거나 없애야 한다. 위임팀은 스스로 결정해야 한다\nD. 팀이 정기 회의에서 스스로 정해야 한다",
+      "front_en": "In an organization with an empowered team, organizational policy:\n\nA. Should define the scope and limits of its actions, even if the team stays self-directed\nB. Becomes more important than ever; without clear rules, an empowered team will surely err\nC. Should be minimized or even abolished; the team should decide on its own\nD. Should be set by the team itself at regular meetings",
+      "front_zh": "在含有已被授权团队的组织中，组织政策：\n\nA.应当规定其行动的范围和限制，即使团队保持自我指导\nB.变得比以前任何时候都重要。没有明确规则，授权团队肯定会犯错误\nC.应当尽可能减少甚至取消，授权团队应自行决策\nD.应当在团队定期会议时自己确定",
+      "back": "정답: A\n\n위임은 권력 포기가 아니며 어떤 조직의 위임도 조건부다. 정책은 조직 목표·취지와 일치하며 관리자가 특정 방향으로 사고하도록 지침을 주는 지도적 통제다. 따라서 위임받은 팀이 자기주도를 유지하더라도 정책으로 행동 범위·한계를 규정해야 한다.",
+      "back_en": "Answer: A\n\nEmpowerment is not abandoning power; any delegation is conditional. Policy aligns with organizational goals and guides managers' thinking in a direction — a guiding control. So even a self-directed empowered team should have its scope/limits defined by policy.",
+      "back_zh": "答案：A\n\n授权不是放弃权力，任何授权都是有条件的。政策与组织目标宗旨一致，为管理者沿特定方向思考提供指南，是一种指导性控制。因此即使被授权团队保持自我指导，也应由组织政策规定其行动范围与限制。",
+      "tags": [
+        "권한위임",
+        "정책"
+      ]
+    },
+    {
+      "id": "p3-bk-067",
+      "src": "87119c87bec3495797be80c96e981100",
+      "category": "조직 — 전략사업단위(SBU)",
+      "category_en": "Organization — SBU",
+      "category_zh": "组织 — 战略事业单位",
+      "front": "전략사업단위(SBU) 설립으로 조직 개편을 했다. 조직단위가 SBU 자격이 있는지 판단하는 기준이 아닌 것은?\n\nA. 모회사 외부에 명확한 시장을 가짐\nB. 이익센터가 됨\nC. 위험 회피(risk aversion)\nD. 외부 경쟁에 직면",
+      "front_en": "After reorganizing via SBUs, which is NOT a criterion for whether a unit qualifies as an SBU?\n\nA. Having a distinct market outside the parent\nB. Being a profit center\nC. Risk aversion\nD. Facing external competition",
+      "front_zh": "通过设立战略事业单位完成改组。以下哪条不是衡量组织单位是否有资格成为战略事业单位的标准？\n\nA.在母公司以外设立一个明确的市场\nB.成为一个利润中心\nC.风险厌恶\nD.面对外部竞争",
+      "back": "정답: C\n\nA·B·D는 SBU 기준이다. SBU 설립 목적은 기업 위험을 부담·분석하고 특정 세분시장·제품의 경쟁력·내(耐)위험 능력을 높이는 것이다. 따라서 '위험 회피'(C)는 기준이 아니다.",
+      "back_en": "Answer: C\n\nA, B, D are SBU criteria. An SBU exists to bear and analyze risk and strengthen competitiveness/resilience in a segment or product. So 'risk aversion' (C) is not a criterion.",
+      "back_zh": "答案：C\n\nA、B、D都是SBU标准。建立SBU的目的是承担并分析企业风险，增强在某细分市场或产品的竞争力和抗风险能力。故\"风险厌恶\"不是标准。",
+      "tags": [
+        "SBU",
+        "조직개편",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-068",
+      "src": "5cd91b3064784e088078dc4198d38faf",
+      "category": "전략경영 — 후방 통합",
+      "category_en": "Strategy — Backward Integration",
+      "category_zh": "战略管理 — 后向一体化",
+      "front": "현재 공급자가 어떤 상황일 때 기업이 후방 통합(backward integration) 전략을 취하기 적합한가?\n\nA. 매우 신뢰할 수 있음\nB. 신뢰할 수 없음\nC. 지역적으로 분산\nD. 지역적으로 집중",
+      "front_en": "When is backward integration appropriate, given the firm's current suppliers?\n\nA. Very reliable\nB. Unreliable\nC. Geographically dispersed\nD. Geographically concentrated",
+      "front_zh": "当企业当前的供应商是什么情况时，适合采取后向一体化战略？\n\nA.非常可靠\nB.不可靠\nC.区域分散\nD.区域集中",
+      "back": "정답: B\n\nA. 오답 — 공급자가 매우 신뢰할 수 있으면 후방 통합이 불필요.\nB. 정답 — 공급자를 신뢰할 수 없을 때 후방 통합이 적합하다.\nC·D. 오답 — 공급자의 지역 분산/집중은 문제의 핵심이 아니다(후방 통합은 공급자 구매와 관련된 수직 통합 형태).",
+      "back_en": "Answer: B\n\nA. Incorrect — if suppliers are very reliable, backward integration is unnecessary.\nB. Correct — backward integration suits unreliable suppliers.\nC/D. Incorrect — suppliers' geographic dispersion/concentration isn't the issue (backward integration is vertical integration related to supplier purchasing).",
+      "back_zh": "答案：B\n\nA不正确，供应商非常可靠则不必后向一体化。B正确，供应商不可靠时采取后向一体化合适。C、D不正确，供应商所处区域不是问题所在（后向一体化是与供应商购买相关的纵向一体化形式）。",
+      "tags": [
+        "후방 통합",
+        "수직적 통합"
+      ]
+    },
+    {
+      "id": "p3-bk-069",
+      "src": "badb3e724f9e43569d2a63b30f215520",
+      "category": "전략경영 — 시장 신호",
+      "category_en": "Strategy — Market Signals",
+      "category_zh": "战略管理 — 市场信号",
+      "front": "기업이 다른 기업이 자기 행동을 '추종'하길 원할 때, 보낼 가능성이 높은 시장 신호는?\n\nA. 행동의 사전 선언\nB. 행동의 사후 선언\nC. 산업 상황에 대한 공개 논평\nD. 자사 행동을 논의·설명",
+      "front_en": "To get other firms to FOLLOW its action, which market signal is a firm likely to send?\n\nA. Pre-announcing the action\nB. Post-announcing the action\nC. Public commentary on industry conditions\nD. Discussing and explaining its own action",
+      "front_zh": "如果企业希望其他企业追随其行动，则很可能释放的市场信号是：\n\nA.提前宣告行动\nB.事后宣告行动\nC.对产业情况公开评论\nD.讨论和解释自身行动",
+      "back": "정답: D\n\n기업이 기회를 활용해 자기 행동을 논의·설명하는 목적은, 다른 기업이 그 원인·결과를 이해하고 그 행동을 추종(또는 유사 행동을 자제, 최소한 이해)하게 유도하는 것이다.",
+      "back_en": "Answer: D\n\nA firm discusses/explains its action to lead others to understand its causes and results, so they follow it (or refrain from similar action, or at least understand it).",
+      "back_zh": "答案：D\n\n企业利用机会讨论或解释其行动，目的是引导其他企业了解其行动的原因和结果，追随这一行动或不采取类似行动，至少能理解其行动。",
+      "tags": [
+        "시장 신호",
+        "경쟁자 분석"
+      ]
+    },
+    {
+      "id": "p3-bk-070",
+      "src": "7a1d7fcc912446a0aa5524bbf019ce90",
+      "category": "의사결정 — 집단 의사결정",
+      "category_en": "Decision — Group Decision",
+      "category_zh": "决策 — 群体决策",
+      "front": "집단 의사결정에 관한 설명 중 보통 '틀린' 것으로 간주되는 것은?\n\nA. 집단 의사결정은 개인보다 창의성이 부족한 경향이 있다\nB. 집단 의사결정은 책임 소재가 불분명한 문제가 있다\nC. 집단 의사결정의 효율은 거의 항상 개인보다 낮다\nD. 구성원이 견해가 달라도 각자의 바람이 집단에 수용되며, 공개적 분열을 제한하기도 한다",
+      "front_en": "Which statement about group decision-making is generally considered INCORRECT?\n\nA. Group decisions tend to be less creative than individual ones\nB. There is a problem of diffused responsibility\nC. Group efficiency is almost always lower than individual\nD. Members may disagree, but each member's wish is accepted by the group, often limiting open dissent",
+      "front_zh": "下面哪一个关于群体决策的描述通常被认为是错误的？\n\nA.群体决策往往比个人决策更缺乏创造性\nB.群体决策存在责任缺乏的问题\nC.群体决策的效率几乎总是比个人低\nD.尽管成员看法不同，但每个成员的愿望都会被群体接受，也常会限制公开的分歧",
+      "back": "정답: A\n\n집단은 구성원 다양성으로 보통 개인보다 더 창의적이며 더 많은 해결책을 고려한다. 따라서 'A: 창의성이 부족하다'가 틀린 설명이다.",
+      "back_en": "Answer: A\n\nGroups are usually MORE creative than individuals due to member diversity, considering more solutions. So 'A: less creative' is the incorrect statement.",
+      "back_zh": "答案：A\n\n群体往往比个人更具创造性，因成员多样性会考虑更多解决方案。故\"A：更缺乏创造性\"是错误描述。",
+      "tags": [
+        "집단 의사결정",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-071",
+      "src": "c1773e19017242ff853843bca42a3f62",
+      "category": "리더십 — 리더십 스타일",
+      "category_en": "Leadership — Styles",
+      "category_zh": "领导 — 领导方式",
+      "front": "갑사가 적자 전환을 위해 3년 흑자전환 계획을 세웠는데, 1년차 영업 목표가 매우 과중해 영업사원별 할당이 달성하기 어렵다. 영업부장이 채택하기 적합한 리더십 방식은?\n\nA. 자유방임형\nB. 민주형\nC. 구조형\nD. 배려형(체첩형)",
+      "front_en": "A firm sets a 3-year turnaround plan; year-1 sales targets are heavy and hard for each salesperson to meet. Which leadership style suits the sales manager?\n\nA. Laissez-faire\nB. Democratic\nC. Structuring (task-oriented)\nD. Considerate (supportive)",
+      "front_zh": "甲公司制定三年扭亏计划，第一年销售任务繁重、各销售人员指标很难完成。销售部经理适宜采用的领导方式是：\n\nA.自由放任式\nB.民主化式\nC.结构化式\nD.体贴式",
+      "back": "정답: D\n\n배려형 리더십은 분업이 명확하고 환경이 복잡·불리하며 목표 달성이 어렵거나 사기가 떨어진 상황에 적합하다.",
+      "back_en": "Answer: D\n\nConsiderate leadership suits situations with clear division of labor, a complex/adverse environment, hard-to-meet goals, or low morale.",
+      "back_zh": "答案：D\n\n体贴式领导方式适用于分工明确、环境复杂不利、目标难以完成或士气不振的情况。",
+      "tags": [
+        "리더십",
+        "배려형"
+      ]
+    },
+    {
+      "id": "p3-bk-072",
+      "src": "14b655c30faf4e1e988200a730233da0",
+      "category": "품질관리 — 6시그마",
+      "category_en": "Quality — Six Sigma",
+      "category_zh": "质量管理 — 六西格玛",
+      "front": "6시그마로 품질관리 프로세스를 개선할 때, 첫 단계로 해야 할 것은?\n\nA. 기존 프로세스에 대한 명확한 인식 확보\nB. 정의(Define)\nC. 측정(Measure)\nD. 분석(Analyze)",
+      "front_en": "In improving quality with Six Sigma, the FIRST step is:\n\nA. Gain a clear understanding of the existing process\nB. Define\nC. Measure\nD. Analyze",
+      "front_zh": "运用六西格玛改进质量管理过程中，第一步应做的是：\n\nA.获得对现有流程的清晰认识\nB.定义\nC.测量\nD.分析",
+      "back": "정답: A\n\n6시그마 관리의 첫 단계는 기존 프로세스에 대한 명확한 인식 확보다(핵심 프로세스 식별, 핵심 산출물·고객 정의, 핵심 프로세스 도식화). 나머지 보기(정의·측정·분석)는 프로세스 개선 단계의 5단계 순환(DMAIC) 내용이다.",
+      "back_en": "Answer: A\n\nThe first step of Six Sigma management is gaining a clear understanding of the existing process (identify core processes, define key outputs/customers, map the core process). The others (Define/Measure/Analyze) are part of the DMAIC improvement cycle.",
+      "back_zh": "答案：A\n\n实施六西格玛的第一步是获得对现有流程的清晰认识，包括辨别核心流程、界定关键输出物和顾客、绘制核心流程图。其他三项是流程改进阶段的五步循环（DMAIC）内容。",
+      "tags": [
+        "6시그마",
+        "DMAIC"
+      ]
+    },
+    {
+      "id": "p3-bk-073",
+      "src": "ebc0636369444c6cae484f6885f658cb",
+      "category": "경영과학 — 프로젝트 일정",
+      "category_en": "Management Science — Scheduling",
+      "category_zh": "管理科学 — 项目进度",
+      "front": "재무총괄이 연말 결산을 계획 중이다. 여러 조의 분업·협업이 필요하고(예: 정산조가 기초 계정 입력을 마쳐야 보고조가 합병상계 분개 가능, 분석조는 특정 절차 완료 후 재무분석 수행) 활동 간 상호의존이 있다. 사용할 일정 기법은?\n\nA. 대기행렬이론\nB. 선형계획법\nC. 워크플로 분석\nD. PERT(프로그램 평가검토기법)",
+      "front_en": "A finance director plans year-end closing with interdependent group tasks (e.g., reporting can do consolidation entries only after accounting finishes base entries; analysis runs after a procedure completes). Which scheduling technique?\n\nA. Queuing theory\nB. Linear programming\nC. Workflow analysis\nD. PERT (program evaluation review technique)",
+      "front_zh": "财务总监规划年底结账，涉及多个小组分工协作且活动间相互依赖（如核算组完成基础账目录入后报告组才能做合并抵消分录，分析组在某程序完成后执行分析）。可使用的时间安排技术是：\n\nA.排队论\nB.线性规划\nC.工作流分析\nD.项目计划评审技术",
+      "back": "정답: D\n\n여러 활동을 포함하고 활동 간 상호의존이 있는 복잡한 프로젝트 일정에는 PERT가 적합하다. 대기행렬은 대기·서비스 비용 최소화, 선형계획은 희소자원 최적배분, 워크플로 분석은 프로세스 개선 연구다.",
+      "back_en": "Answer: D\n\nPERT suits scheduling complex projects with many interdependent activities. Queuing minimizes waiting/service cost; linear programming optimizes scarce-resource allocation; workflow analysis studies process improvement.",
+      "back_zh": "答案：D\n\n包含多种活动且活动间相互依赖的复杂项目进度，适合用项目计划评审技术（PERT）。排队论使服务与等候成本最小；线性规划解决稀缺资源优化配置；工作流分析研究业务流程改进。",
+      "tags": [
+        "PERT",
+        "프로젝트 일정"
+      ]
+    },
+    {
+      "id": "p3-bk-074",
+      "src": "52c5aefdbda649a38b6b5336ef020a47",
+      "category": "리더십 — 관리격자",
+      "category_en": "Leadership — Managerial Grid",
+      "category_zh": "领导 — 管理方格",
+      "front": "관리격자 이론에서 블레이크와 머튼이 대부분의 상황에서 가장 좋다고 본 리더십 스타일은?\n\nA. 컨트리클럽형 관리\nB. 팀형 관리\nC. 권위형 관리\nD. 중도형(중용) 관리",
+      "front_en": "In the managerial grid, which style did Blake and Mouton consider best in most situations?\n\nA. Country-club management\nB. Team management\nC. Authority management\nD. Middle-of-the-road management",
+      "front_zh": "在管理方格理论中，布莱克和莫顿认为大多数情况下最好的领导风格是：\n\nA.乡村俱乐部式管理\nB.团队管理\nC.权威管理\nD.中庸之道管理",
+      "back": "정답: B\n\n블레이크와 머튼은 사람에 대한 관심과 과업에 대한 관심이 모두 높은 '팀형 관리(9,9)'가 (모든 상황은 아니나) 이상적이라고 제안했다.",
+      "back_en": "Answer: B\n\nBlake and Mouton proposed that team management — high concern for both people and task — is ideal (though not in all situations).",
+      "back_zh": "答案：B\n\n布莱克和莫顿建议，团队管理——高度关注人和高度关注任务——是理想的（但并非所有情况）。",
+      "tags": [
+        "관리격자",
+        "팀형 관리"
+      ]
+    },
+    {
+      "id": "p3-bk-075",
+      "src": "571e2de1352d451f903097428fd91e2e",
+      "category": "전략경영 — 공급자 분석",
+      "category_en": "Strategy — Supplier Analysis",
+      "category_zh": "战略管理 — 供应商分析",
+      "front": "포터 5요인 모델에 따른 공급자 분석 설명 중 틀린 것은?\n\nA. 공급자의 산업가치 점유 능력이 강할수록 기업의 수익능력이 높다\nB. 공급량·적시성·품질 등으로 공급자의 공급능력을 분석할 수 있다\nC. 노동력 공급은 단기 이동이 어려운 특성이 있다\nD. 공급물이 기업에 중요할수록 공급자의 협상력이 강하다",
+      "front_en": "Which statement about supplier analysis (Porter) is INCORRECT?\n\nA. The stronger a supplier's ability to capture industry value, the higher the firm's profitability\nB. Supplier capacity can be analyzed via volume, timeliness, quality, etc.\nC. Labor supply is hard to move in the short term\nD. The more important the supply is to the firm, the stronger the supplier's bargaining power",
+      "front_zh": "根据波特五力模型，以下对供应商分析的说法中错误的是：\n\nA.供应商产业价值占有能力越强，企业的获利能力越高\nB.企业可从供应量、供应及时性、供应物质量等方面分析供应商供应能力\nC.劳动力供应具有短期移动困难的特征\nD.供应物对企业越重要，供应商的议价能力越强",
+      "back": "정답: A\n\n공급자의 산업가치 점유 능력이 강하다는 것은 곧 판매자(공급자)의 협상력이 강하다는 뜻으로, 기업의 수익능력은 오히려 '낮아진다'. 따라서 A가 틀렸다.",
+      "back_en": "Answer: A\n\nA supplier's strong ability to capture industry value means stronger supplier bargaining power, which LOWERS the firm's profitability. So A is incorrect.",
+      "back_zh": "答案：A\n\n供应商产业价值占有能力越强，即卖方议价能力越强，企业的获利能力反而越低。故A错误。",
+      "tags": [
+        "공급자 분석",
+        "포터 5요인",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-076",
+      "src": "8fa278ca5632442da22e9a06c103d3ae",
+      "category": "전략경영 — 해외시장 진입",
+      "category_en": "Strategy — Overseas Entry",
+      "category_zh": "战略管理 — 海外市场",
+      "front": "갑사가 해외시장 진입을 원한다. 경영진이 고려해야 할 핵심 요인은?\n\nA. 진입 국가\nB. 진입 시점\nC. 진입 정도(규모)\nD. 위 모두 옳다",
+      "front_en": "A firm wants to enter overseas markets. The key factors management should consider are:\n\nA. Which country to enter\nB. Timing of entry\nC. Scale of entry\nD. All of the above",
+      "front_zh": "甲公司希望打入海外市场，管理层应考虑的关键因素是：\n\nA.进入的国家\nB.进入的时点\nC.进入的程度\nD.以上都对",
+      "back": "정답: D\n\n해외시장 진입을 고려하는 기업은 세 가지 핵심 결정을 한다: 진입 국가, 진입 시점, 진입 정도(규모).",
+      "back_en": "Answer: D\n\nA firm considering overseas entry makes three key decisions: which country, the timing, and the scale of entry.",
+      "back_zh": "答案：D\n\n考虑进入海外市场的公司要做三个关键决策：进入的国家、进入的时点和进入的程度。",
+      "tags": [
+        "해외시장 진입",
+        "국제경영"
+      ]
+    },
+    {
+      "id": "p3-bk-077",
+      "src": "860975a6ea484e6fb4808c0a91167f67",
+      "category": "내부통제 — 저가 소모품 통제",
+      "category_en": "Control — Low-Value Supplies",
+      "category_zh": "内部控制 — 低值易耗品",
+      "front": "제조기업이 너트·볼트·와셔·장갑 등 다량의 저가 소품을 사용한다. 일괄 금액으로 재고 기록하고, 작업장 공구함에 비치해 직원이 수시 사용하며, 비용은 작업장 간접비(소모품 계정)로 처리한다. 이 환경의 통제 조치로 적절한 것은?\n\nA. 공구함을 재고 창고로 옮긴다\nB. 소모품 원가 차이 보고서 검토를 요구한다\nC. 정상 근무 시간에 공구함을 잠근다\nD. 원가·크기가 미미한 물품은 통제를 추가하지 않는다",
+      "front_en": "A manufacturer uses many cheap small items (nuts, bolts, washers, gloves), recorded in inventory at batch value, kept in shop-floor toolboxes for ready use, with cost charged to shop overhead (supplies). Which control action is appropriate?\n\nA. Move the toolboxes to the inventory warehouse\nB. Require review of the cost-variance report for supplies\nC. Lock the toolboxes during normal work hours\nD. Add no control for items trivial in cost and size",
+      "front_zh": "制造企业大量使用螺帽、螺栓、垫圈、手套等廉价小物品，按整批金额记入存货，放在车间工具箱供员工随时取用，成本计入车间间接费用（易耗供应品）。此环境下恰当的控制措施是：\n\nA.将工具箱挪到存货仓库\nB.要求对易耗供应物品的成本差异报告进行审查\nC.在正常工作时间锁好工具箱\nD.不要对成本和尺寸都微不足道的物品增加控制",
+      "back": "정답: B\n\nA. 오답 — 다량 사용되는 저가 소모품을 창고에 두면 적시 공급이 안 돼 작업 효율이 떨어진다.\nB. 정답 — 예산(원가 차이 보고서) 검토로 소비 상황을 통제할 수 있다.\nC. 오답 — 작업을 방해하고 효율을 떨어뜨린다.\nD. 오답 — 소액 물품도 티끌 모아 태산이 될 수 있어 통제가 필요하다.",
+      "back_en": "Answer: B\n\nA. Incorrect — storing heavily-used cheap supplies in the warehouse prevents timely supply and reduces efficiency.\nB. Correct — reviewing the budget (cost-variance report) controls consumption.\nC. Incorrect — it hampers work and lowers efficiency.\nD. Incorrect — small items add up, so control is needed.",
+      "back_zh": "答案：B\n\nA不正确，大量使用的低值易耗品放仓库不能保证及时供应，影响效率。B正确，通过检查预算（成本差异报告）可控制耗用。C不正确，会妨碍工作、降低效率。D不正确，小物品积少成多，必须加以控制。",
+      "tags": [
+        "내부통제",
+        "소모품",
+        "예산검토"
+      ]
+    },
+    {
+      "id": "p3-bk-078",
+      "src": "7bb207ac6f574298b8e92cc84b9d5880",
+      "category": "전략경영 — 기업 사명",
+      "category_en": "Strategy — Mission",
+      "category_zh": "战略管理 — 企业使命",
+      "front": "AT&T가 기업 존재 목적을 '전화 생산'이 아니라 '정보 소통 도구·서비스 제공'으로 규정한 것은, 기업 존재 목적의 어떤 측면을 말하는가?\n\nA. 고객의 어떤 수요 충족\nB. 기업 경영 철학 표명\nC. 전사가 쉽게 이해함\nD. 비교적 광범위하고 모험정신이 있음",
+      "front_en": "AT&T defined its purpose as providing communication tools/services, not making telephones. This illustrates which aspect of a firm's purpose?\n\nA. Satisfying a certain customer need\nB. Expressing the firm's management philosophy\nC. Being easily understood enterprise-wide\nD. Being broad and somewhat adventurous",
+      "front_zh": "AT&T将企业生存目的定位于提供信息沟通工具和服务而非生产电话，说明企业生存目的是指：\n\nA.满足顾客的某种需求\nB.表明企业的经营哲学\nC.易于为整个企业所理解\nD.比较宽泛且有一定冒险精神",
+      "back": "정답: A\n\n'정보 소통 도구·서비스 제공'은 고객의 '통신 수요' 충족을 위한 것으로, 전화·인터넷 등 다양한 수단으로 제공할 수 있다.",
+      "back_en": "Answer: A\n\nProviding communication tools/services serves customers' communication NEED, which can be met by various means (phone, internet, etc.).",
+      "back_zh": "答案：A\n\n提供信息沟通工具和服务，是为满足顾客的通讯需求，可用电话、互联网等不同手段提供。",
+      "tags": [
+        "기업 사명",
+        "시장지향"
+      ]
     }
   ]
 }
