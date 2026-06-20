@@ -894,6 +894,488 @@
         "품질관리",
         "경쟁우위"
       ]
+    },
+    {
+      "id": "p3-bk-021",
+      "src": "dbb04b24e6b1412b8a4d258325bab1b7",
+      "category": "전략경영 — 공급자 협상력",
+      "category_en": "Strategy — Supplier Power",
+      "category_zh": "战略管理 — 供应商议价",
+      "front": "원유 생산회사가 석유화학기업에 대해 갖는 협상력(흥정 능력)을 결정하는 가장 주된 영향 요인은?\n\nA. 거래량\nB. 산업 집중도\nC. 전환비용\nD. 판매자 제품의 표준화 정도",
+      "front_en": "What is the MAIN factor determining the bargaining power of a crude-oil producer over petrochemical firms?\n\nA. Transaction volume\nB. Industry concentration\nC. Switching cost\nD. Standardization of the seller's product",
+      "front_zh": "原油生产公司对石油化工企业而言，决定他们讨价还价能力的最主要的影响因素是以下哪项？\n\nA.交易量\nB.产业集中度\nC.转换成本\nD.卖方产品的标准化程度",
+      "back": "정답: A\n\nA. 정답 — 공급자인 원유 생산회사의 협상력은 주로 거래량으로 나타난다. 거래량이 적으면 협상력이 강하고, 많으면 다소 약해진다.\nB. 오답 — 산업 집중도는 동종 산업의 경쟁 정도를 나타낼 뿐 공급자 협상력과 무관하다.\nC. 오답 — 전환비용은 구매자·소비자 측 개념으로, 공급자(원유 생산회사)와는 무관하다.\nD. 오답 — 판매자 제품의 표준화 정도는 구매량에 직접 영향을 주나, 공급자 협상력에 대한 가장 주된 직접 영향은 아니다.",
+      "back_en": "Answer: A\n\nA. Correct — a crude-oil producer's (supplier's) bargaining power is mainly reflected in transaction volume: low volume = strong power, high volume = somewhat weaker.\nB. Incorrect — concentration shows the industry's competitive intensity, unrelated to supplier power.\nC. Incorrect — switching cost is a buyer/consumer concept, not the supplier's.\nD. Incorrect — product standardization affects purchase quantity but is not the main direct influence on supplier power.",
+      "back_zh": "答案：A\n\nA.正确。原油生产公司作为供应商，其谈判能力主要由交易量体现。交易量少则谈判能力强，多则稍弱。\nB.不正确。产业集中度只表明同业竞争程度，与供应商谈判能力无关。\nC.不正确。转换成本是相对于购买商或消费者，并非供应商。\nD.不正确。卖方产品标准化程度直接影响购买量，但对供应商谈判能力不是最主要的直接影响。",
+      "tags": [
+        "공급자 협상력",
+        "포터 5요인"
+      ]
+    },
+    {
+      "id": "p3-bk-022",
+      "src": "2cfff5f7da1c454899567c6c4b4faaa0",
+      "category": "품질관리 — 품질비용",
+      "category_en": "Quality — Cost of Quality",
+      "category_zh": "质量管理 — 质量成本",
+      "front": "제품이 규격에 맞지 않아 고객 발송 전에 결함이 발견되어 발생한 폐기·재작업·기계고장·재조정·재검사 등의 비용은 어떻게 분류되는가?\n\nA. 예방비용\nB. 평가(검사)비용\nC. 내부 실패비용\nD. 외부 실패비용",
+      "front_en": "Costs of scrap, rework, machine breakdown, readjustment, and re-inspection from defects found BEFORE shipment to customers are classified as:\n\nA. Prevention cost\nB. Appraisal cost\nC. Internal failure cost\nD. External failure cost",
+      "front_zh": "由于产品不符合规格，在向顾客发送前发现残缺而发生的报废、重新加工、机器故障、重新调试和重新检查等成本被分类定义为：\n\nA.防范成本\nB.评估成本\nC.内部失败成本\nD.外部失败成本",
+      "back": "정답: C\n\nA. 오답 — 예방비용은 불량 예방을 위해 발생하는 비용(감독·품질교육·품질설계·기술지도·품질개선 등).\nB. 오답 — 평가비용은 제품이 생산 표준·요건에 부합하는지 측정·평가·심사하는 비용.\nC. 정답 — 내부 실패비용은 출고 전 규정 품질 미달로 발생한 손실(폐기·재작업·작업중단·사고처리·등급하락 등).\nD. 오답 — 외부 실패비용은 출고 후 품질 미달로 발생하는 클레임·수리·리콜·교체 등 손실·신뢰 손실.",
+      "back_en": "Answer: C\n\nA. Incorrect — prevention costs are incurred to prevent defects (supervision, quality training, design, guidance, improvement).\nB. Incorrect — appraisal costs measure/evaluate whether products meet standards/requirements.\nC. Correct — internal failure costs are losses from failing quality requirements before shipment (scrap, rework, downtime, accident handling, downgrading).\nD. Incorrect — external failure costs arise after shipment (claims, repair, recall, replacement, reputational loss).",
+      "back_zh": "答案：C\n\nA.不正确，防范成本是为预防不合格产品发生的费用。\nB.不正确，评估成本是测定、评价产品是否符合标准的费用。\nC.正确，内部失败成本是产品出厂前因未满足质量要求所发生的损失，包括废品、返修、停工、事故处理、降级损失等。\nD.不正确，外部失败成本是出厂后因质量问题导致的索赔、修理、召回、更换等损失及信誉损失。",
+      "tags": [
+        "품질비용",
+        "내부 실패비용"
+      ]
+    },
+    {
+      "id": "p3-bk-023",
+      "src": "f924080f980c495cb17f14f0452d9a74",
+      "category": "협상 — 저항 대응",
+      "category_en": "Negotiation — Handling Resistance",
+      "category_zh": "谈判 — 应对阻力",
+      "front": "공급자 대표와 계약 협상 중 경영자가 예상치 못한 저항에 부딪혔다. 그가 먼저 취해야 할 행동은?\n\nA. 해당 문제에 대한 경영자의 입장을 재차 천명한다\nB. 회의를 중단하고 공급자 대표의 개인적 관심사를 처리한다\nC. 저항이 생긴 원인을 파악하려 시도한다\nD. 공급자 조사를 통해 그 대표의 관점과 요구를 확인한다",
+      "front_en": "During contract negotiation with a supplier's rep, a manager meets unexpected resistance. What should he do FIRST?\n\nA. Restate the manager's position on the issue\nB. Stop the meeting to address the rep's personal concerns\nC. Try to determine the cause of the resistance\nD. Research the supplier to identify the rep's views and demands",
+      "front_zh": "在与供应商代表谈判合同时，经理遇到意想不到的阻力。他首先应采取以下哪项行动？\n\nA.重申经理对有关问题的态度\nB.停止会议去处理供应商代表私人关注的事情\nC.尝试确定产生阻力的原因\nD.通过对供应商的研究来确定其代表的观点和要求",
+      "back": "정답: C\n\n저항의 원인을 모르면 협상자는 효과적으로 대응할 수 없다. 예컨대 상대가 전체 문제에 관심인지 특정 문제에 관심인지 알면 대응이 달라진다. 다른 보기는 협상 저항 해결의 '우선' 행동이 아니다.",
+      "back_en": "Answer: C\n\nWithout knowing the cause of resistance, a negotiator cannot respond effectively (e.g., knowing whether the other side cares about the whole issue or a specific one shapes the response). The other options are not the FIRST action to resolve resistance.",
+      "back_zh": "答案：C\n\n不知道阻力的原因，谈判者无法有效应对。例如知道对方关注整体还是某个特定问题，会影响响应方式。其他项都不是解决谈判阻力的首选行动。",
+      "tags": [
+        "협상",
+        "저항 대응"
+      ]
+    },
+    {
+      "id": "p3-bk-024",
+      "src": "229cd3a87126470a95bf72b52ef9e3df",
+      "category": "전략경영 — 수직적 통합",
+      "category_en": "Strategy — Vertical Integration",
+      "category_zh": "战略管理 — 纵向一体化",
+      "front": "수직적 통합 전략의 이해득실을 다룰 때 기업이 고려해야 할 주요 요인이 아닌 것은?\n\nA. 수직적 통합과 기업의 장기 전략 이익·구체 목표의 관계\nB. 기업이 전체 산업에서 갖는 실력\nC. 수직적 통합이 가져올 수 있는 경쟁우위\nD. 기업이 생산하는 제품의 주요 성능",
+      "front_en": "Which is NOT a major factor a firm should consider when weighing the pros and cons of vertical integration?\n\nA. The relationship of integration to the firm's long-term strategic interests and specific goals\nB. The firm's strength within the whole industry\nC. The competitive advantage integration may bring\nD. The main performance of the firm's products",
+      "front_zh": "企业处理纵向一体化战略的利弊关系，除以下哪项因素外其他都是应考虑的主要因素？\n\nA.纵向一体化与企业长期战略利益及其具体目标的关系\nB.企业在整个行业中所具有的实力\nC.纵向一体化可能带来的竞争优势\nD.企业生产的产品的主要性能",
+      "back": "정답: D\n\nA. 오답 — 통합 전략은 총체 전략의 일부로, 장기 전략 이익·구체 목표와의 관계를 반드시 고려해야 한다.\nB. 오답 — 통합의 주요 이유가 자체 실력 강화이므로 산업 내 실력을 고려해야 한다.\nC. 오답 — 경쟁우위가 있어야 수직적 통합의 이익을 얻을 수 있다.\nD. 정답 — 제품 성능은 처음부터 충분히 고려할 사항이나, 수직적 통합 실시 여부를 결정짓는 요인은 아니다.",
+      "back_en": "Answer: D\n\nA. Incorrect — integration is part of overall strategy; its relation to long-term interests/goals must be considered.\nB. Incorrect — since integration aims to strengthen the firm, its industry strength matters.\nC. Incorrect — only with competitive advantage can integration yield benefits.\nD. Correct — product performance should be considered from the start, but it does not determine whether to pursue vertical integration.",
+      "back_zh": "答案：D\n\nA.不正确。一体化是总体战略的一部分，必须考虑与长期战略利益及目标的关系。\nB.不正确。实施一体化是为增强自身实力，必须考虑在行业中的实力。\nC.不正确。只有有竞争优势，企业才可能获得纵向一体化的效益。\nD.正确。产品性能起初就应充分考虑，但它并不决定企业是否要实施纵向一体化。",
+      "tags": [
+        "수직적 통합",
+        "전략경영",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-025",
+      "src": "a9a5adbb75814df1b838e46fbb735362",
+      "category": "전략경영 — 포터 5요인",
+      "category_en": "Strategy — Porter's Five Forces",
+      "category_zh": "战略管理 — 波特五力",
+      "front": "포터 5요인 모델은 경쟁 규모·정도를 결정하는 다섯 힘이 산업 매력도에 영향을 준다고 본다. 다음 중 다섯 힘에 속하는 것은?\n\nA. 시장 유효성\nB. 대체품 위협\nC. 경쟁 전략\nD. 독점",
+      "front_en": "Porter's Five Forces affect industry attractiveness. Which belongs to the five forces?\n\nA. Market effectiveness\nB. Threat of substitutes\nC. Competitive strategy\nD. Monopoly",
+      "front_zh": "波特五力模型认为五种力量影响产业吸引力，下列属于五种力量的是：\n\nA.市场有效性\nB.替代品威胁\nC.竞争战略\nD.垄断",
+      "back": "정답: B\n\n포터 5요인은 진입 장벽(신규 진입자 위협), 대체품 위협, 구매자 협상력, 공급자 협상력, 기존 경쟁자 간 경쟁이다.",
+      "back_en": "Answer: B\n\nThe five forces are: barriers to entry (threat of new entrants), threat of substitutes, buyer bargaining power, supplier bargaining power, and rivalry among existing competitors.",
+      "back_zh": "答案：B\n\n波特五力包括进入壁垒（新进入者威胁）、替代品威胁、买方议价能力、卖方议价能力以及现存竞争者之间的竞争。",
+      "tags": [
+        "포터 5요인",
+        "대체품 위협"
+      ]
+    },
+    {
+      "id": "p3-bk-026",
+      "src": "6acc5177c32a4e328a19ec2e8fa9b8c9",
+      "category": "품질관리 — 품질도구(PDPC)",
+      "category_en": "Quality — PDPC",
+      "category_zh": "质量管理 — 过程决策法",
+      "front": "품질관리에서 보통 돌발 상황 예방 도구로 쓰이며, 문제 발생 시 그 영향을 최소화하는 기법은?\n\nA. 파레토 분석법\nB. 과정결정계획도(PDPC)\nC. 델파이법\nD. 연관도(내부관계도)",
+      "front_en": "In quality management, which technique is used as a contingency-prevention tool that minimizes the impact when an unexpected problem occurs?\n\nA. Pareto analysis\nB. Process Decision Program Chart (PDPC)\nC. Delphi method\nD. Interrelationship (relations) diagram",
+      "front_zh": "质量管理中通常作为意外防范工具，在意外问题发生时使其影响降到最低的方法是：\n\nA.帕累托分析法\nB.过程决策法\nC.德尔菲法\nD.内部关系图",
+      "back": "정답: B\n\n과정결정계획도(PDPC법)는 과정 결정을 통해 어떤 문제의 발생을 방지하고, 문제 발생 시 그 영향을 최소화한다.",
+      "back_en": "Answer: B\n\nThe PDPC method uses process decisions to prevent problems and minimize their impact if they occur.",
+      "back_zh": "答案：B\n\n过程决策法（PDPC法）通过过程决策来防止某种问题的发生，并在问题发生时使其影响降到最低。",
+      "tags": [
+        "PDPC",
+        "품질도구"
+      ]
+    },
+    {
+      "id": "p3-bk-027",
+      "src": "388e685981084990a95d6621d42939c3",
+      "category": "경영과학 — 시계열 분석",
+      "category_en": "Management Science — Time Series",
+      "category_zh": "管理科学 — 时间序列",
+      "front": "시계열 분석에 관한 설명으로 옳은 것은?\n\nA. 사용 데이터의 연한이 길수록 좋다\nB. 선택 데이터의 연도 간격이 2년을 넘으면 안 된다\nC. 추세 추정법의 예측 정확도가 가장 높다\nD. 지수평활법 사용 시 예측 시점에 가까운 데이터일수록 더 큰 가중치를 부여한다",
+      "front_en": "Which statement about time-series analysis is correct?\n\nA. The longer the data span, the better\nB. The interval between selected data years must not exceed two years\nC. Trend extrapolation has the highest forecast accuracy\nD. In exponential smoothing, data closer to the forecast period get larger weights",
+      "front_zh": "下列关于时间序列分析的说法中正确的是：\n\nA.使用的数据年限越长越好\nB.选用的数据年份间隔不能超过两年\nC.趋势推测法预测的准确率最高\nD.使用指数平滑法时，越接近预测期的数据被赋予的权重越大",
+      "back": "정답: D\n\nA. 오답 — 연한이 너무 길어 예측 시점에서 먼 데이터는 참고 의미가 적고 효율도 떨어진다.\nB. 오답 — 데이터 연도는 연속이어야 하며 건너뛰면 대표성이 없다.\nC. 오답 — 추세 추정법(평균 추정법)은 과거 데이터의 단순 평균이라 정확성이 낮다.\nD. 정답 — 지수평활법은 시점별로 다른 가중치를 주며, 예측 시점에 가까울수록 큰 가중치를 부여한다.",
+      "back_en": "Answer: D\n\nA. Incorrect — too long a span includes data too far from the forecast period, with little reference value and lower efficiency.\nB. Incorrect — data years must be continuous; skipping years loses representativeness.\nC. Incorrect — trend extrapolation (averaging) is a simple average of past data, with low accuracy.\nD. Correct — exponential smoothing assigns different weights by period, larger for periods closer to the forecast.",
+      "back_zh": "答案：D\n\nA.错误，年限过长、离预测期太远的数据参考意义不大且影响效率。\nB.错误，数据年份必须连续，否则没有代表性。\nC.错误，趋势推测法只是对过去数据简单平均，准确性较差。\nD.正确，指数平滑法对不同时期给予不同权重，越接近预测期权重越大。",
+      "tags": [
+        "시계열",
+        "지수평활법"
+      ]
+    },
+    {
+      "id": "p3-bk-028",
+      "src": "0b3ba45f64df4b9b9d40857eeb0c2243",
+      "category": "전략경영 — 분산형 산업",
+      "category_en": "Strategy — Fragmented Industry",
+      "category_zh": "战略管理 — 分散型产业",
+      "front": "분산형 산업에서 가장 효과적인 경쟁 전략은?\n\nA. 기업 합병을 통한 경쟁우위 강화\nB. 연구개발 투자 확대·혁신능력 강화\nC. 경쟁자를 분석해 하나씩 격파하고 그 시장점유율을 차지\nD. 비용 절감으로 최저 원가 달성",
+      "front_en": "In a fragmented industry, the most effective competitive strategy is:\n\nA. Strengthen advantage through mergers\nB. Increase R&D investment and innovation\nC. Analyze and defeat competitors one by one to take their share\nD. Cut costs to achieve the lowest cost",
+      "front_zh": "在分散型产业中，最有效的竞争战略是：\n\nA.通过企业合并增强竞争优势\nB.加大研发投入，加强创新能力\nC.分析竞争对手，逐个打败并占领其市场份额\nD.节省成本，做到成本最低",
+      "back": "정답: A\n\n분산형 산업은 영향력 있는 산업 리더가 없는 것이 특징이므로, 선택적 합병으로 경쟁우위를 강화하고 시장점유율을 확대할 수 있다.\nB. 오답 — 분산형 산업은 신제품 개발이 쉬워 R&D 확대 효과가 크지 않을 수 있다.\nC. 오답 — 경쟁자가 많아 하나씩 격파는 비현실적이다.\nD. 오답 — 단순 비용 절감만으로는 경쟁력 제고에 부족하다.",
+      "back_en": "Answer: A\n\nA fragmented industry lacks an influential leader, so selective mergers can strengthen advantage and expand share.\nB. Incorrect — new products are easy to develop, so more R&D may have little effect.\nC. Incorrect — with many competitors, defeating them one by one is unrealistic.\nD. Incorrect — cost-cutting alone is insufficient to raise competitiveness.",
+      "back_zh": "答案：A\n\n分散型产业缺少有影响力的产业领袖，可通过选择性合并增强竞争优势、扩大市场份额。B错误，分散型产业更易开发新产品，加大研发未必有效；C错误，竞争对手众多，逐个打败不现实；D错误，仅节省成本不足以提高竞争力。",
+      "tags": [
+        "분산형 산업",
+        "합병"
+      ]
+    },
+    {
+      "id": "p3-bk-029",
+      "src": "35adcca17804467f9620d8bb1d6358ed",
+      "category": "리더십 — 상황적 리더십",
+      "category_en": "Leadership — Situational",
+      "category_zh": "领导 — 管理风格",
+      "front": "A사가 B사를 인수, B사 엔지니어링부장이 퇴직하고 A사 인력이 그 자리를 맡았다. 부서 직원은 모두 고급 기술을 갖췄으나 경계심으로 새 관리자와 협력하기를 꺼린다. 새 관리자가 취해야 할 관리 스타일은?\n\nA. 지시형\nB. 참여형\nC. 설득(판매)형\nD. 위임형",
+      "front_en": "After A acquires B, B's engineering manager retires and an A employee takes over. The skilled engineers warily refuse to cooperate with the new manager. Which management style should the new manager adopt?\n\nA. Directing (telling)\nB. Participating\nC. Selling\nD. Delegating",
+      "front_zh": "A公司兼并B公司，B公司工程部经理退休，由A公司人员接任。工程部员工技术高超却警惕、不愿与新经理共事。新经理最应采用哪种管理风格？\n\nA.指示型\nB.参与型\nC.推销型\nD.授权型",
+      "back": "정답: B\n\nA. 오답 — 지시형은 무능·무의욕 부하에 적합한데, 본 직원은 기술이 능숙해 구체 지시가 불필요.\nB. 정답 — 참여형은 유능하나 (지금은) 비협조적인 부하에 적합. 핵심 문제가 소통 부족이므로 참여를 통해 소통·신뢰를 높인다.\nC. 오답 — 설득형은 무능하나 의욕 있는 부하에 적합. 본 직원은 기술이 능숙.\nD. 오답 — 위임형은 유능·협조적 부하에 적합한데, 신뢰 관계가 아직 없어 부적합.",
+      "back_en": "Answer: B\n\nA. Incorrect — directing suits unable/unwilling subordinates; these skilled staff need no detailed direction.\nB. Correct — participating suits able but (currently) unwilling subordinates; since the core issue is poor communication, participation builds communication and trust.\nC. Incorrect — selling suits unable but willing subordinates; these staff are skilled.\nD. Incorrect — delegating suits able and willing subordinates, but trust is not yet established.",
+      "back_zh": "答案：B\n\nA错误，指示型适用于既无能力又不愿工作的下属，本题员工技术熟练，不需具体指导。B正确，参与型适用于有能力但不愿干的下属，本题主要问题是缺乏沟通，通过参与可加强沟通、促进信任。C错误，推销型适用于缺乏能力但愿意工作的下属。D错误，授权型适用于有能力且愿意工作的下属，但本题尚未建立信任关系。",
+      "tags": [
+        "상황적 리더십",
+        "참여형"
+      ]
+    },
+    {
+      "id": "p3-bk-030",
+      "src": "b34665fbd45443168a88dee2976fe887",
+      "category": "품질관리 — TQM 성공요인",
+      "category_en": "Quality — TQM Success Factors",
+      "category_zh": "质量管理 — 全面质量管理",
+      "front": "전사적 품질경영(TQM) 성공의 핵심 요인에 관한 설명 중 틀린 것은?\n\nA. 최고경영층의 지원\nB. 전원 교육·훈련\nC. 품질이 곧 이윤이라는 관념\nD. 정량적이 아니라 정성적인 분석",
+      "front_en": "Which statement about the key success factors of TQM is INCORRECT?\n\nA. Top management support\nB. Education and training for all\nC. The concept that quality equals profit\nD. Qualitative rather than quantitative analysis",
+      "front_zh": "以下关于全面质量管理取得成功的关键因素中，错误的是：\n\nA.高层管理者的支持\nB.全员教育和培训\nC.质量即利润的观念\nD.定性而不是定量的分析",
+      "back": "정답: D\n\nTQM은 데이터를 모든 업무의 요건이자 분석 도구로 삼을 것을 요구한다. 따라서 '정성적' 분석이라는 설명이 틀렸다.",
+      "back_en": "Answer: D\n\nTQM requires using data as both the requirement and analysis tool for all work, so 'qualitative rather than quantitative' is the incorrect statement.",
+      "back_zh": "答案：D\n\n全面质量管理要求以数据作为所有工作的任务要求和分析工具，故\"定性而非定量\"的说法错误。",
+      "tags": [
+        "TQM",
+        "성공요인",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-031",
+      "src": "5a6f194645664298993e529193274d4e",
+      "category": "전략경영 — 전략 수준",
+      "category_en": "Strategy — Levels of Strategy",
+      "category_zh": "战略管理 — 公司战略",
+      "front": "기업 전체를 대상으로 최고경영층이 수립하며, 기업의 모든 행위를 지도하는 강령이 되는 전략은?\n\nA. 경쟁 전략\nB. 기업(전사) 전략\nC. 기능별 전략\nD. 사업부 전략",
+      "front_en": "Which strategy is formulated by top management for the whole enterprise and guides all corporate actions?\n\nA. Competitive strategy\nB. Corporate strategy\nC. Functional strategy\nD. Business-unit strategy",
+      "front_zh": "针对企业整体的、由最高管理层制定的、用于指导企业一切行为纲领的企业战略是：\n\nA.竞争战略\nB.公司战略\nC.职能战略\nD.业务单位战略",
+      "back": "정답: B\n\n기업(전사) 전략은 기업 전체의 전략 총강으로, 최고경영층이 기업의 모든 행위를 지도·통제하는 최고 행동 강령이다.",
+      "back_en": "Answer: B\n\nCorporate strategy is the overall strategic charter of the enterprise, the top-level action program by which senior management guides and controls all corporate behavior.",
+      "back_zh": "答案：B\n\n公司战略是企业整体战略总纲，是最高管理层指导和控制企业一切行为的最高行动纲领。",
+      "tags": [
+        "기업전략",
+        "전략 수준"
+      ]
+    },
+    {
+      "id": "p3-bk-032",
+      "src": "f6ce2c98cf774bb5b73273d880ba2576",
+      "category": "변화관리 — 저항 대응",
+      "category_en": "Change Mgmt — Resistance",
+      "category_zh": "变革管理 — 变革阻力",
+      "front": "변화 저항과 촉박한 시간 제약에 직면했을 때, 과업 완수를 보장하는 가장 좋은 방법은?\n\nA. 참가와 참여\nB. 촉진과 지원\nC. 협상과 합의\nD. 명시적·암묵적 강제(강압)",
+      "front_en": "Facing resistance to change and tight time constraints, the best way to ensure the task is completed is:\n\nA. Participation and involvement\nB. Facilitation and support\nC. Negotiation and agreement\nD. Explicit and implicit coercion",
+      "front_zh": "管理层面临变革阻力和紧迫的时间限制时，确保完成任务的最好方法是：\n\nA.参加和参与\nB.促进和支持\nC.谈判和协议\nD.明的和暗的强迫",
+      "back": "정답: D\n\n시간이 촉박하고 변화 추진자가 권력을 가질 때는 명시적·암묵적 강제가 가장 빠르게 효과를 내 변화를 실현한다. 참여는 시간이 많이 들고, 촉진·지원은 비용이 크며 때로 효과가 없고, 협상·합의도 시간이 걸려 변화를 지연시킨다.",
+      "back_en": "Answer: D\n\nWhen time is tight and the change agent has power, explicit/implicit coercion works fastest. Participation is time-consuming; facilitation/support is costly and sometimes ineffective; negotiation also takes time and delays change.",
+      "back_zh": "答案：D\n\n时间紧迫且变革推动者拥有权力时，明的和暗的强迫最佳，能较快实现变革。参与太费时；促进与支持费时、成本高且有时无效；谈判与协议同样费时并延误变革。",
+      "tags": [
+        "변화관리",
+        "강제",
+        "시간제약"
+      ]
+    },
+    {
+      "id": "p3-bk-033",
+      "src": "b1f9473de0c24a698a1495906d069ed1",
+      "category": "전략경영 — 사업 철수/수확",
+      "category_en": "Strategy — Harvest Strategy",
+      "category_zh": "战略管理 — 收割战略",
+      "front": "갑사(휴대폰 생산·판매)는 스마트폰 시대 도래로 저가폰이 퇴출되자, 매년 저가폰 부문 예산을 줄이고 스마트폰 R&D 예산을 늘린다. 이 전략은?\n\nA. 선도(리더) 전략\nB. 틈새(니치) 전략\nC. 수확(harvest) 전략\nD. 철수(divestment) 전략",
+      "front_en": "A phone maker, as low-end phones exit the market, yearly cuts the low-end budget and raises smartphone R&D budget. This strategy is:\n\nA. Leadership strategy\nB. Niche strategy\nC. Harvest strategy\nD. Divestment strategy",
+      "front_zh": "甲公司随着低端手机退出市场，每年缩减低端手机部门预算，增加智能手机研发预算，这种战略属于：\n\nA.领先战略\nB.利基战略\nC.收割战略\nD.撤资战略",
+      "back": "정답: C\n\n수확 전략은 원가 통제·현금흐름 제고를 위해 특정 부문·방향의 투자를 줄이고, 그로써 늘어난 현금흐름을 신규·유망 부문의 현금 수요에 충당하는 전략이다.",
+      "back_en": "Answer: C\n\nA harvest strategy reduces investment in a particular unit/direction to control cost and improve cash flow, then uses the freed cash for new or more promising units' cash needs.",
+      "back_zh": "答案：C\n\n收割战略是企业为控制成本和提高现金流量而减少在某一特定部门或方向上的投资，并将增加的现金流用于满足新的或更有希望部门的现金需要。",
+      "tags": [
+        "수확 전략",
+        "사업 포트폴리오"
+      ]
+    },
+    {
+      "id": "p3-bk-034",
+      "src": "6185c2b26458425698a0bf8970a3ca94",
+      "category": "조직 — 부문화",
+      "category_en": "Organization — Departmentalization",
+      "category_zh": "组织 — 部门化",
+      "front": "제품(별) 부문화의 장점은?\n\nA. 조직 효율 제고\nB. 고급 기술지식을 활용한 문제 해결\nC. 더 단순한 조정 메커니즘\nD. 하위 단위와의 소통이 더 쉬움",
+      "front_en": "What is an advantage of product-based departmentalization?\n\nA. Improved organizational efficiency\nB. Using advanced technical knowledge to solve problems\nC. Simpler coordination mechanisms\nD. Easier communication with sub-units",
+      "front_zh": "以下哪项是基于产品的部门化优势？\n\nA.提高组织效率\nB.利用高级技术知识解决问题\nC.协调机制更简单\nD.更容易与子单位进行沟通",
+      "back": "정답: C\n\nA. 오답 — 제품/서비스 부문은 제품이 주제이지 직무 기능이 아니며, 중복으로 인한 낭비·비효율이 단점이 될 수 있다.\nB. 오답 — 유사 기술 전문가를 한 부서에 모으는 것은 기능별 부문의 특징이다.\nC. 정답 — 제품 부문화의 장점은 의사결정 효율 제고와 부문 내 협력 용이다.\nD. 오답 — 제품 부문화는 부문 '내부' 소통을 쉽게 한다(하위 단위와의 소통이 아님).",
+      "back_en": "Answer: C\n\nA. Incorrect — product/service departments are organized around products, and duplication-caused waste/inefficiency can be a drawback.\nB. Incorrect — grouping similar technical experts is a feature of functional departments.\nC. Correct — product departmentalization improves decision efficiency and facilitates within-department coordination.\nD. Incorrect — it eases communication WITHIN the department (not with sub-units).",
+      "back_zh": "答案：C\n\nA不正确，产品服务部门以产品为主题，重复可能造成浪费和低效。B不正确，让相似技术专长员工同部门工作是职能部门的特征。C正确，产品部门化的优点是提高决策效率、便于本部门内更好协作。D不正确，产品部门化便于本部门内部沟通。",
+      "tags": [
+        "부문화",
+        "조직구조"
+      ]
+    },
+    {
+      "id": "p3-bk-035",
+      "src": "4a34463441ef4e0fb6499b7474e51658",
+      "category": "기업윤리 — 이해관계자 전략",
+      "category_en": "Ethics — Stakeholder Strategy",
+      "category_zh": "企业伦理 — 利益相关者",
+      "front": "1984년 유니언 카바이드의 가스 누출로 인도 보팔에서 다수 사상자가 발생했다. 회사와 인도 정부가 처리 방안을 마련해 4.7억 달러 배상금을 피해자·가족에게 지급했다. 회사가 채택한 전략은?\n\nA. 선제(preemptive) 전략\nB. 손실 통제(loss control) 전략\nC. 적응(accommodation) 전략\nD. 대항(confrontation) 전략",
+      "front_en": "After the 1984 Union Carbide Bhopal gas disaster, the company and India's government arranged $470M in compensation to victims and families. Which strategy did the company adopt?\n\nA. Preemptive strategy\nB. Loss-control strategy\nC. Accommodation strategy\nD. Confrontation strategy",
+      "front_zh": "1984年联合碳化物公司博帕尔毒气事故后，公司与印度政府制定方案，将4.7亿美元赔偿金发给受害者及家庭。该公司采用了哪项策略？\n\nA.先发制人策略\nB.损失控制策略\nC.适应策略\nD.对抗策略",
+      "back": "정답: B\n\n피해자 배상은 회사가 잘못을 인정하고 이미지 제고·이해관계자 관계 개선을 꾀한 것으로 손실 통제 전략이다. 결정이 이해관계자 기대를 초과할 때는 선제 전략, 압력을 받아 더 사회적 책임 있는 결정을 할 때는 적응 전략, 이해관계자 목표가 기업 성과를 위협할 때는 대항 전략을 택한다.",
+      "back_en": "Answer: B\n\nCompensating victims, admitting fault to improve image and stakeholder relations, is loss control. Preemptive = decisions exceeding stakeholder expectations; accommodation = more socially responsible decisions under pressure; confrontation = when stakeholder goals threaten performance.",
+      "back_zh": "答案：B\n\n给予受害者补偿是因为公司认为已铸成错误，借此提升形象、改善与利益相关者关系，属于损失控制策略。决定超出利益相关者期望时选先发制人；受压力后做更具社会责任的决策时采取适应策略；利益相关者目标威胁公司业绩时采取对抗策略。",
+      "tags": [
+        "이해관계자",
+        "손실통제",
+        "기업윤리"
+      ]
+    },
+    {
+      "id": "p3-bk-036",
+      "src": "834ea2e30aca4198926997713e932dc2",
+      "category": "전략경영 — BCG 매트릭스",
+      "category_en": "Strategy — BCG Matrix",
+      "category_zh": "战略管理 — 波士顿矩阵",
+      "front": "어떤 영역의 제품이 많은 현금을 창출하지도, 많은 현금 투입을 필요로 하지도 않으며, 성과 개선의 희망도 없다. 이는 어떤 사업 유형인가?\n\nA. 개(dog) 사업\nB. 스타(star) 사업\nC. 물음표(question mark) 사업\nD. 현금젖소(cash cow) 사업",
+      "front_en": "Products in an area that neither generate much cash nor need much cash, with no hope of improving performance — what business type is this?\n\nA. Dog\nB. Star\nC. Question mark\nD. Cash cow",
+      "front_zh": "某领域产品既不能产生大量现金，也不需要投入大量现金，且没有希望改进绩效，这是哪种业务类型？\n\nA.瘦狗型业务\nB.明星型业务\nC.问题型业务\nD.现金牛业务",
+      "back": "정답: A\n\nA. 정답 — 개(쇠퇴) 제품은 저성장·저점유율 영역으로, 이익률이 낮고 손익분기·적자 상태로 수익을 주지 못한다.\nB. 오답 — 스타는 고성장·고점유율로 투자 확대가 필요하다.\nC. 오답 — 물음표는 고성장·저점유율로 시장 기회는 크나 마케팅에 문제가 있다.\nD. 오답 — 현금젖소는 저성장·고점유율의 성숙기 후리(厚利) 제품이다.",
+      "back_en": "Answer: A\n\nA. Correct — dogs (declining products) are low-growth, low-share, with low margins and break-even/loss, bringing no returns.\nB. Incorrect — stars are high-growth, high-share, needing more investment.\nC. Incorrect — question marks are high-growth, low-share, with big market opportunity but marketing problems.\nD. Incorrect — cash cows are low-growth, high-share mature products with thick profits.",
+      "back_zh": "答案：A\n\nA正确，瘦狗（衰退）产品处于低增长、低市场占有率象限，利润率低、保本或亏损，无法带来收益。B不正确，明星为高增长高占有率，需加大投资。C不正确，问号为高增长低占有率，市场机会大但营销存在问题。D不正确，现金牛为低增长高占有率的成熟期厚利产品。",
+      "tags": [
+        "BCG 매트릭스",
+        "개 사업"
+      ]
+    },
+    {
+      "id": "p3-bk-037",
+      "src": "756a34a41c8440e3be1390a0f64fccc8",
+      "category": "경제학 — 실업",
+      "category_en": "Economics — Unemployment",
+      "category_zh": "经济学 — 失业",
+      "front": "산업화 경제에서 선진 기술을 요구하는 새 일자리가 자주 생기는 한편, 많은 사람이 그런 기술이 없어 취업하지 못한다. 이런 실업을 무엇이라 하는가?\n\nA. 마찰적 실업\nB. 구조적 실업\nC. 경기적 실업\nD. 계절적 실업",
+      "front_en": "In industrialized economies, new jobs requiring advanced skills appear while many remain unemployed for lacking such skills. This unemployment is called:\n\nA. Frictional unemployment\nB. Structural unemployment\nC. Cyclical unemployment\nD. Seasonal unemployment",
+      "front_zh": "工业化经济体中常出现要求先进技能的新岗位，同时许多人因不具备此类技能而无法就业。此类失业叫做：\n\nA.摩擦性失业\nB.结构性失业\nC.周期性失业\nD.季节性失业",
+      "back": "정답: B\n\nA. 오답 — 마찰적 실업은 직업 이동·전직 대기로 생기는 실업.\nB. 정답 — 구조적 실업은 일자리가 있어도 필요한 기술이 없어 발생하는, 노동 공급·수요 불일치 실업.\nC. 오답 — 경기적 실업은 총수요 부족으로 인한 단기 비자발적 실업(불황기).\nD. 오답 — 계절적 실업은 일부 부문의 간헐적 생산 특성으로 인한 실업.",
+      "back_en": "Answer: B\n\nA. Incorrect — frictional arises from moving between jobs/awaiting transfer.\nB. Correct — structural arises when vacancies exist but workers lack required skills (labor supply-demand mismatch).\nC. Incorrect — cyclical is short-term involuntary unemployment from insufficient aggregate demand (recession).\nD. Incorrect — seasonal arises from intermittent production in certain sectors.",
+      "back_zh": "答案：B\n\nA不正确，摩擦性失业是转移工作、等待转业产生的失业。B正确，结构性失业指有职位空缺但因缺乏所需技能而失业，即劳动力供求不匹配。C不正确，周期性失业是总需求不足引起的短期非自愿失业（萧条期）。D不正确，季节性失业由某些部门间歇性生产特征造成。",
+      "tags": [
+        "구조적 실업",
+        "경제학"
+      ]
+    },
+    {
+      "id": "p3-bk-038",
+      "src": "96eeda591faa4939af369bd3f53730e3",
+      "category": "전략경영 — 내부개발 전략",
+      "category_en": "Strategy — Internal Development",
+      "category_zh": "战略管理 — 内部发展战略",
+      "front": "IBM이 프로그래밍·판매·A/S·핵심역량을 통합하고 레버리지 효과를 발휘해 PC 사업에 성공 진입했다. 이는 무엇을 시사하는가?\n\nA. IBM이 강력한 회사라서 내부개발 전략을 성공시킬 수 있었다\nB. 기존 사업에 가치 있는 역량(자원·능력)을 보유하고 그 사업이 레버리지·재조합될 수 있을 때 내부개발 전략이 우선 전략이다\nC. 내부개발 전략은 과학기술 기반 기업에서만 자주 채택된다\nD. IBM을 보면 내부개발 전략의 성공률이 매우 높다",
+      "front_en": "IBM integrated programming, sales, after-sales, and core competencies, leveraging them to enter the PC business successfully. What does this show?\n\nA. IBM succeeded with internal development because it is a powerful company\nB. Internal development is the preferred entry strategy when a firm holds valuable capabilities (resources/abilities) that can be leveraged or recombined\nC. Internal development is used only by science/technology-based firms\nD. From IBM, internal development has a very high success rate",
+      "front_zh": "IBM整合程序设计、销售、售后服务及核心能力，发挥杠杆效应成功进入个人电脑领域。这说明什么？\n\nA.因为IBM实力强大，所以可以成功实施内部发展战略\nB.当企业拥有一套有价值的能力（资源及能力），该事业可发挥杠杆效应或重新组合时，内部发展战略是首选战略\nC.内部发展战略只有在以科学技术为基础的企业才经常采用\nD.从IBM来看，内部发展战略实施的成功率很高",
+      "back": "정답: B\n\nA. 오답 — 성공은 대기업이라서가 아니라 내부 자원·핵심역량이 유리했기 때문.\nB. 정답 — 기존 사업에 가치 있는 역량을 갖고 레버리지·재조합으로 신사업에 진입할 수 있을 때 내부개발이 전형적 진입 전략이다.\nC. 오답 — 내부개발 전략은 과기 기반 기업에 국한되지 않는다.\nD. 오답 — 성공은 진입 규모·상업화 정도·실행 적정성 등 여러 요인에 달려 있다.",
+      "back_en": "Answer: B\n\nA. Incorrect — success came from favorable internal resources/competencies, not merely size.\nB. Correct — when a firm holds valuable capabilities that can be leveraged or recombined to enter a new field, internal development is the typical entry strategy.\nC. Incorrect — it is not limited to tech-based firms.\nD. Incorrect — success depends on entry scale, commercialization, proper execution, etc.",
+      "back_zh": "答案：B\n\nA不正确，成功并非因为是大公司，而是其内部资源、核心能力有利。B正确，当企业拥有有价值的能力且可发挥杠杆效应或重新组合以进入新事业时，内部发展是典型的进入战略。C不正确，内部发展并不限于科技型企业。D不正确，成功依赖进入规模、商品化程度、执行是否得当等多种因素。",
+      "tags": [
+        "내부개발 전략",
+        "핵심역량"
+      ]
+    },
+    {
+      "id": "p3-bk-039",
+      "src": "486dfbb8dc8d453684d3bc3b75fa746e",
+      "category": "품질관리 — TQM",
+      "category_en": "Quality — TQM",
+      "category_zh": "质量管理 — 全面质量管理",
+      "front": "전사적 품질경영(TQM)에서 가장 우선적으로 관심을 두는 것은?\n\nA. 고객 만족도\nB. 리더 만족도\nC. 주주 만족도\nD. 직원 만족도",
+      "front_en": "In TQM, the primary focus is:\n\nA. Customer satisfaction\nB. Leader satisfaction\nC. Shareholder satisfaction\nD. Employee satisfaction",
+      "front_zh": "在全面质量管理中，首要关注的是：\n\nA.顾客满意度\nB.领导满意度\nC.股东满意度\nD.员工满意度",
+      "back": "정답: A\n\nTQM의 특징은 '고객 중심'이다.",
+      "back_en": "Answer: A\n\nTQM is characterized by being customer-centric.",
+      "back_zh": "答案：A\n\n全面质量管理的特点是以顾客为中心。",
+      "tags": [
+        "TQM",
+        "고객중심"
+      ]
+    },
+    {
+      "id": "p3-bk-040",
+      "src": "7e2f975c43ba4f41bf12b5e9528e4c5c",
+      "category": "품질관리 — 품질비용지수(QCI)",
+      "category_en": "Quality — Quality Cost Index",
+      "category_zh": "质量管理 — 质量成本指数",
+      "front": "3월 생산원가: 직접재료 $100,000, 직접노무 $80,000, 테스트·검수 $6,400, 폐기·재작업 $16,800, 품질계획 $2,800, 고객 불만·반품 $4,000. 매출액 $400,000. 총품질원가÷매출액으로 구하는 품질원가지수(QCI)는?\n\nA. 5.9%\nB. 6.5%\nC. 7.5%\nD. 22%",
+      "front_en": "March costs: direct material $100,000, direct labor $80,000, testing/acceptance $6,400, scrap/rework $16,800, quality planning $2,800, customer complaints/returns $4,000. Sales $400,000. QCI = total quality cost / sales = ?\n\nA. 5.9%\nB. 6.5%\nC. 7.5%\nD. 22%",
+      "front_zh": "3月生产成本：直接材料$100,000，直接人工$80,000，测试与验收$6,400，废弃与重做$16,800，质量计划$2,800，客户投诉与退货$4,000。销售额$400,000。QCI=质量总成本/销售额=？\n\nA.5.9%\nB.6.5%\nC.7.5%\nD.22%",
+      "back": "정답: C\n\nQCI=총품질원가/매출액. 총품질원가=예방+검사+보상 = 6,400+16,800+2,800+4,000 = 30,000. QCI=30,000/400,000 = 7.5%.",
+      "back_en": "Answer: C\n\nQCI = total quality cost / sales. Total quality cost = prevention + appraisal + remedy = 6,400 + 16,800 + 2,800 + 4,000 = 30,000. QCI = 30,000 / 400,000 = 7.5%.",
+      "back_zh": "答案：C\n\nQCI=质量总成本/销售金额。质量总成本=预防+检查+弥补=6,400+16,800+2,800+4,000=30,000，QCI=30,000/400,000=7.5%。",
+      "tags": [
+        "QCI",
+        "품질비용",
+        "계산"
+      ]
+    },
+    {
+      "id": "p3-bk-041",
+      "src": "7af8ef630894431a9d538d920150d3bf",
+      "category": "인적자원 — 직무설계",
+      "category_en": "HR — Job Design",
+      "category_zh": "人力资源 — 职位设计",
+      "front": "업무의 정보처리 요구를 낮춰 신뢰성·안전성·사용자 반응성을 개선하는 직무설계 방법은?\n\nA. 동기부여형 직무설계\nB. 기계형 직무설계\nC. 생물형 직무설계\nD. 지각운동형 직무설계",
+      "front_en": "Which job design method reduces the job's information-processing demands to improve reliability, safety, and user responsiveness?\n\nA. Motivational job design\nB. Mechanistic job design\nC. Biological job design\nD. Perceptual-motor job design",
+      "front_zh": "通过降低工作对信息加工的要求来改善工作的可靠性、安全性和使用者反应性，这一做法遵循的职位设计方法是：\n\nA.激励型职位设计法\nB.机械型职位设计法\nC.生物型职位设计法\nD.知觉运动型职位设计法",
+      "back": "정답: D\n\n지각운동형 직무설계법은 인간의 심리적 능력·한계를 강조하며, 업무 요구가 사람의 심리적 능력·한계를 넘지 않도록 설계한다.",
+      "back_en": "Answer: D\n\nThe perceptual-motor approach emphasizes human mental abilities and limits, designing jobs so demands do not exceed people's psychological capacity.",
+      "back_zh": "答案：D\n\n知觉运动型职位设计法强调人的心理能力和心理局限，目标是确保工作要求不超过人的心理能力和界限。",
+      "tags": [
+        "직무설계",
+        "지각운동형"
+      ]
+    },
+    {
+      "id": "p3-bk-042",
+      "src": "8720b1f335bd42aca0590cf5acb853d4",
+      "category": "전략경영 — 수직적 통합",
+      "category_en": "Strategy — Vertical Integration",
+      "category_zh": "战略管理 — 纵向一体化",
+      "front": "생산을 원료 공급 또는 제품 판매와 결합하는, 즉 산업 가치사슬의 서로 다른 방향으로 확장하는 전략 형태는?\n\nA. 수평적 통합 전략\nB. 수직적 통합 전략\nC. 다각화 전략\nD. 집약적 성장 전략",
+      "front_en": "Combining production with raw-material supply or with product sales — i.e., expanding in different directions along the value chain — is which strategy?\n\nA. Horizontal integration\nB. Vertical integration\nC. Diversification\nD. Intensive growth",
+      "front_zh": "将生产与原料供应或生产与产品销售联合在一起，即向行业价值链不同方向扩张的战略属于：\n\nA.横向一体化战略\nB.纵向一体化战略\nC.多元化战略\nD.密集性成长战略",
+      "back": "정답: B\n\nA. 오답 — 수평적 통합은 동종 경쟁자의 소유·통제를 위한 합병이다.\nB. 정답 — 수직적 통합은 생산을 원료 공급 또는 제품 판매와 결합해 가치사슬의 서로 다른 방향으로 확장하는 전략이다.\nC. 오답 — 다각화는 기존 사업에 신제품·신사업을 추가하는 전략.\nD. 오답 — 집약적 성장은 기존 생산 범위 내 제품·시장 잠재력을 충분히 활용하는 성장.",
+      "back_en": "Answer: B\n\nA. Incorrect — horizontal integration merges/controls same-industry competitors.\nB. Correct — vertical integration combines production with supply or sales, expanding in different value-chain directions.\nC. Incorrect — diversification adds new products/businesses to existing ones.\nD. Incorrect — intensive growth fully exploits product/market potential within the existing scope.",
+      "back_zh": "答案：B\n\nA不正确，横向一体化是为获得同行业竞争者所有权或控制而采取的合并。B正确，纵向一体化是将生产与原料供应或产品销售联合，向价值链不同方向扩张。C不正确，多元化是在现有业务上增加新产品或业务。D不正确，密集性成长是在原生产范围内充分利用产品和市场潜力。",
+      "tags": [
+        "수직적 통합",
+        "전략경영"
+      ]
+    },
+    {
+      "id": "p3-bk-043",
+      "src": "9b411001101c46f5b7f5feb444e7ed12",
+      "category": "변화관리 — 저항 대응",
+      "category_en": "Change Mgmt — Resistance",
+      "category_zh": "变革管理 — 变革阻力",
+      "front": "협상, 조작, 강제, 직원 교육, 소통 강화는 관리자가 무엇을 위해 쓸 수 있는 수단인가?\n\nA. 직원 사기 제고\nB. 변화에 대한 저항 극복\nC. 정보 통제 유지\nD. 상·하급자에게 자기 권력 과시",
+      "front_en": "Negotiation, manipulation, coercion, employee training, and increased communication are means a manager can use to:\n\nA. Boost employee morale\nB. Overcome resistance to change\nC. Maintain control of information\nD. Display power to superiors and subordinates",
+      "front_zh": "谈判、操纵、强制、职工培训、增加沟通都是管理者可用来：\n\nA.提高员工士气\nB.克服对于变革的抵制\nC.维护对信息的控制\nD.向上下级显示自己的权力",
+      "back": "정답: B\n\n저항 대응 전략에는 교육·소통, 참여·포용, 촉진·지원, 협상·합의, 조작·협력, 명시적·암묵적 강제가 있다. 강제는 사기를 높이지 못하고, 소통은 정보 통제를 유지하지 못하며, 강제는 권력 과시에 도움되나 교육·소통·협상은 그렇지 않다. 공통으로 달성하는 것은 '변화 저항 극복'이다.",
+      "back_en": "Answer: B\n\nResistance strategies include education/communication, participation/involvement, facilitation/support, negotiation/agreement, manipulation/co-optation, and explicit/implicit coercion. Coercion doesn't raise morale; communication doesn't maintain information control; coercion shows power but training/communication/negotiation don't. What they all achieve is overcoming resistance to change.",
+      "back_zh": "答案：B\n\n应对抵制变革的策略包括培训与沟通、参与与包含、促进与支持、谈判与协议、操纵与合作、明确与暗示的强制。强迫不能提高士气；沟通不能维持信息控制；强迫能显示权力，而培训、沟通、谈判不能。它们共同能做到的是克服对变革的抵制。",
+      "tags": [
+        "변화관리",
+        "저항 극복"
+      ]
+    },
+    {
+      "id": "p3-bk-044",
+      "src": "51b33dee49a24cf798c0971da8b2054f",
+      "category": "경영과학 — 회귀분석",
+      "category_en": "Management Science — Regression",
+      "category_zh": "管理科学 — 回归分析",
+      "front": "회귀분석에 관한 설명 중 틀린 것은?\n\nA. 회귀분석은 독립변수 변화가 종속변수 변화를 일으키는 정도를 분석하는 통계 방법이다\nB. 회귀모형으로 계산한 값은 실제 분포 데이터와 같다\nC. 분산·표준편차로 선형회귀함수의 실제 데이터 대표성을 측정할 수 있다\nD. 결정계수는 반드시 0과 1(0·1 포함) 사이의 수다",
+      "front_en": "Which statement about regression analysis is INCORRECT?\n\nA. Regression is a statistical method analyzing the degree to which changes in the independent variable cause changes in the dependent variable\nB. Values computed by the regression model equal the actual distributed data\nC. Variance and standard deviation can measure how representative the linear regression function is of actual data\nD. The coefficient of determination is always between 0 and 1 (inclusive)",
+      "front_zh": "下列关于回归分析的表述中错误的是：\n\nA.回归分析是一种统计方法，用来分析自变量的变化引起因变量的变化的程度\nB.根据回归模型计算出来的数据与实际分布的数据相等\nC.方差和标准差可以用来衡量线性回归函数对实际数据的代表性\nD.决定系数一定是在0到1之间的数，包括0和1",
+      "back": "정답: B\n\n회귀모형으로 계산한 값은 실제 분포 데이터와 같지 않으며, 결정계수로 모형 계산 결과와 실제 데이터의 관계를 나타낸다.",
+      "back_en": "Answer: B\n\nValues from the regression model do NOT equal the actual data; the coefficient of determination reveals the relationship between computed results and actual data.",
+      "back_zh": "答案：B\n\n根据回归模型计算出来的数据与实际分布的数据不等，而是用决定系数来揭示模型计算结果与实际数据的关系。",
+      "tags": [
+        "회귀분석",
+        "결정계수",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-045",
+      "src": "6529864fdf6b4fc29701ebbdd516ac6d",
+      "category": "전략경영 — 산업 경쟁강도",
+      "category_en": "Strategy — Competitive Intensity",
+      "category_zh": "战略管理 — 竞争强度",
+      "front": "산업 내 경쟁을 심화시킬 수 있는 상황은? Ⅰ.산업 성장 속도 하락 Ⅱ.산업 내 경쟁자 증가 Ⅲ.제품 차별성이 매우 큼 Ⅳ.고객 전환비용이 매우 높음\n\nA. Ⅰ과 Ⅱ\nB. Ⅰ과 Ⅳ\nC. Ⅱ와 Ⅲ\nD. Ⅱ·Ⅲ·Ⅳ",
+      "front_en": "Which conditions can intensify rivalry within an industry? Ⅰ.Slowing industry growth Ⅱ.More competitors Ⅲ.Large product differentiation Ⅳ.Very high switching costs\n\nA. Ⅰ and Ⅱ\nB. Ⅰ and Ⅳ\nC. Ⅱ and Ⅲ\nD. Ⅱ, Ⅲ, Ⅳ",
+      "front_zh": "可能导致行业内竞争加剧的情况是？Ⅰ.行业增长速度下降 Ⅱ.行业内竞争对手增多 Ⅲ.产品差异性很大 Ⅳ.用户转换费用很高\n\nA.Ⅰ和Ⅱ\nB.Ⅰ和Ⅳ\nC.Ⅱ和Ⅲ\nD.Ⅱ、Ⅲ和Ⅳ",
+      "back": "정답: A\n\n성장 속도 하락(Ⅰ)과 경쟁자 증가(Ⅱ)는 경쟁을 심화시킨다. 제품 차별성이 크면(Ⅲ) 각자 경쟁 영역이 있어 경쟁이 약화된다. 전환비용이 너무 높으면(Ⅳ) 신규 진입 장벽이 된다.",
+      "back_en": "Answer: A\n\nSlowing growth (Ⅰ) and more competitors (Ⅱ) intensify rivalry. Large differentiation (Ⅲ) weakens rivalry as each has its niche. Very high switching costs (Ⅳ) act as an entry barrier.",
+      "back_zh": "答案：A\n\n增长速度下降、竞争对手增加都会加剧竞争。产品差异大，各有其竞争领域，会弱化竞争；过高的转换费用是进入新业的壁垒。",
+      "tags": [
+        "경쟁강도",
+        "산업분석"
+      ]
+    },
+    {
+      "id": "p3-bk-046",
+      "src": "52fd8eac1ba4447a98ec0e2fdff6b327",
+      "category": "전략경영 — 전략적 제휴",
+      "category_en": "Strategy — Strategic Alliance",
+      "category_zh": "战略管理 — 战略联盟",
+      "front": "글로벌 경제 발전으로 기업 간 경쟁이 전 세계로 확대되는 환경에서, 기업이 가장 채택해야 할 경쟁 전략은?\n\nA. 신산업 개발\nB. 원가 최소화 운영 모델 채택\nC. 인수합병·구조조정\nD. 전략적 제휴(strategic alliance)",
+      "front_en": "As competition extends globally, which competitive strategy should a firm most adopt?\n\nA. Develop new industries\nB. Adopt a cost-minimization operating model\nC. M&A and restructuring\nD. Strategic alliance",
+      "front_zh": "全球经济发展使企业竞争延伸到全球范围，这种环境下企业最应采取的竞争战略是：\n\nA.开发新产业\nB.采用成本最小化运作模式\nC.并购重组\nD.战略联盟",
+      "back": "정답: D\n\n전략적 제휴는 실력이 엇비슷한 둘 이상의 기업이 시장 공유·자원 공동 사용 등 전략 목적을 위해 협약·계약으로 맺는 조직으로, 협력으로 더 높은 수익을 얻는 경쟁·협력의 최적 전략 선택이다.",
+      "back_en": "Answer: D\n\nA strategic alliance is formed by two or more comparably strong firms via agreements to share markets and resources, achieving higher returns through cooperation — the best choice combining competition and cooperation.",
+      "back_zh": "答案：D\n\n战略联盟是两个以上实力相当的企业，为共同拥有市场、共同使用资源等战略目的，通过协议、契约结成的组织，通过合作取得更高收益，是竞争与合作的最佳战略选择。",
+      "tags": [
+        "전략적 제휴",
+        "글로벌 경쟁"
+      ]
+    },
+    {
+      "id": "p3-bk-047",
+      "src": "04806358c12143f1a313f38585790650",
+      "category": "전략경영 — 경쟁력 지표",
+      "category_en": "Strategy — Competitiveness Metrics",
+      "category_zh": "战略管理 — 竞争实力指标",
+      "front": "기업의 경쟁 실력을 종합 반영하는 지표는? Ⅰ.매출 증가율 Ⅱ.시장점유율 Ⅲ.이익률 Ⅳ.투자수익률(ROI)\n\nA. Ⅰ·Ⅱ·Ⅲ\nB. Ⅰ·Ⅱ·Ⅳ\nC. Ⅱ·Ⅲ·Ⅳ\nD. Ⅰ·Ⅱ·Ⅲ·Ⅳ",
+      "front_en": "Which indicators comprehensively reflect a firm's competitive strength? Ⅰ.Sales growth Ⅱ.Market share Ⅲ.Profit margin Ⅳ.ROI\n\nA. Ⅰ, Ⅱ, Ⅲ\nB. Ⅰ, Ⅱ, Ⅳ\nC. Ⅱ, Ⅲ, Ⅳ\nD. Ⅰ, Ⅱ, Ⅲ, Ⅳ",
+      "front_zh": "以下能综合反映企业竞争实力的指标是：Ⅰ.销售增长率 Ⅱ.市场占有率 Ⅲ.利润率 Ⅳ.投资回报率\n\nA.Ⅰ、Ⅱ、Ⅲ\nB.Ⅰ、Ⅱ、Ⅳ\nC.Ⅱ、Ⅲ、Ⅳ\nD.Ⅰ、Ⅱ、Ⅲ、Ⅳ",
+      "back": "정답: D\n\n경쟁 실력을 가장 잘 종합 반영하는 것은 발전능력·경쟁능력·수익능력이다. 매출 증가율=발전능력, 시장점유율=경쟁능력, 이익률·ROI=수익능력. 따라서 넷 모두 해당.",
+      "back_en": "Answer: D\n\nThe best comprehensive reflection is development, competitive, and profitability capacity. Sales growth = development; market share = competitiveness; profit margin and ROI = profitability. So all four apply.",
+      "back_zh": "答案：D\n\n最能综合反映竞争实力的是企业发展能力、竞争能力、获利能力。销售增长率反映发展能力，市场占有率反映竞争能力，利润率和投资回报率反映获利能力。",
+      "tags": [
+        "경쟁력 지표",
+        "전략경영"
+      ]
+    },
+    {
+      "id": "p3-bk-048",
+      "src": "68e55de523014e9f9bf4abe6e4dd45c3",
+      "category": "전략경영 — 내부개발 전략",
+      "category_en": "Strategy — Internal Development",
+      "category_zh": "战略管理 — 内部发展战略",
+      "front": "기업이 자체 내부 자원·핵심역량·시장 경험을 구축해 성장하며, 기술 수준이 높은 기업은 자체 제품 개발 전략으로 핵심역량·경쟁기회를 직접 얻는다. 이 발전 전략은?\n\nA. 내부개발 전략\nB. 제휴(연맹) 전략\nC. 라이선스(수권) 전략\nD. 다각화 전략",
+      "front_en": "A firm grows by building its own resources, core competencies, and market experience; tech-intensive firms gain core competencies and opportunities directly by developing their own products. This is which strategy?\n\nA. Internal development\nB. Alliance strategy\nC. Licensing strategy\nD. Diversification",
+      "front_zh": "企业通过建立自己的内部资源、核心能力和市场经验来发展自己，技术含量较高的公司选择自己发展产品的战略可直接获得核心能力和竞争机会。这种发展战略属于：\n\nA.内部发展战略\nB.联盟战略\nC.授权战略\nD.多角化战略",
+      "back": "정답: A\n\nA. 정답 — 성장기 기업이 내부 자원·핵심역량·시장 경험을 구축해 성장하는 것이 내부개발 전략이다.\nB. 오답 — 제휴 전략은 둘 이상 기업의 협력 관계로 자원 공유·공동 발전이며 상대적 독립성이 전제.\nC. 오답 — 라이선스 전략은 혁신기업이 보완 자원이 부족하고 모방 장벽이 낮으며 강한 경쟁자가 많을 때 적합.\nD. 오답 — 다각화는 기존 사업과 가치창출상 관련 있는 사업이나 전혀 새로운 사업에 진입.",
+      "back_en": "Answer: A\n\nA. Correct — a growth-stage firm building internal resources, competencies, and market experience is internal development.\nB. Incorrect — an alliance is a cooperative relationship for resource-sharing, premised on relative independence.\nC. Incorrect — licensing suits innovators lacking complementary assets, with low imitation barriers and many strong rivals.\nD. Incorrect — diversification enters related or entirely new business fields.",
+      "back_zh": "答案：A\n\nA正确，成长阶段企业通过建立内部资源、核心能力和市场经验发展自己即内部发展战略。B不正确，联盟战略是企业间的合作关系，以相对独立性为前提。C不正确，授权战略适用于创新企业缺乏互补性资源、模仿障碍低且强敌众多时。D不正确，多角化是进入与现存事业相关或全新的事业领域。",
+      "tags": [
+        "내부개발 전략",
+        "성장 전략"
+      ]
     }
   ]
 }
