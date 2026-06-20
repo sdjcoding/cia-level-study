@@ -11,25 +11,770 @@
       "category_zh": "信息技术审计 — 终端用户计算(EUC)",
       "front": "응용(애플리케이션) 수준에서 최종사용자컴퓨팅(EUC) 통제를 감사할 때, 점검 절차에 포함되어야 하는 것은?\n\nA. EUC 관리·정책·절차 및 최종사용자 지원을 평가한다.\nB. EUC 애플리케이션을 식별하고, 위험 등급을 매기며, 통제를 문서화하고 테스트한다.\nC. 교육 현황, 사용자 만족도 및 데이터 소유권을 점검한다.\nD. 물리적 보안, 논리적 보안, 백업 및 복구 계획을 평가한다.",
       "front_en": "When auditing end-user computing (EUC) controls at the application level, the review procedures should include:\n\nA. Evaluating EUC management, policies, procedures, and end-user support.\nB. Identifying EUC applications, risk-ranking them, and documenting and testing the controls.\nC. Reviewing training, user satisfaction, and data ownership.\nD. Evaluating physical security, logical security, and backup and recovery plans.",
-      "front_zh": "当在应用层面上对终端用户计算（EUC）控制进行审计时，检查程序应包括：\n\nA. 评价EUC管理，政策，程序及终端用户支持。\nB. 标识出EUC应用，对其进行风险分级，并对控制进行文件记录和测试。\nC. 检查培训情形、用户满意程度及数据所有权。\nD. 对物理安全性、逻辑安全性、备份及恢复计划进行评价。",
-      "back": "정답: B\n\nA. 오답 — 이는 응용 수준이 아니라 조직(전사) 수준의 감사 업무에 해당한다.\nB. 정답 — EUC 애플리케이션에 내재된 잠재적 위험을 고려할 때, EUC 애플리케이션을 식별하고 위험 등급을 매기며 테스트할 필요가 있다.\nC. 오답 — 이는 점검 과정에서 수행하는 일부 구체적 작업일 뿐, 응용 수준의 점검 절차 자체는 아니다.\nD. 오답 — 이 역시 점검 절차를 구성하는 일부 구체적 작업일 뿐이다.",
-      "back_en": "Answer: B\n\nA. Incorrect — these belong to organization-level rather than application-level audit work.\nB. Correct — given the potential risks inherent in EUC applications, it is necessary to identify, risk-rank, and test EUC applications.\nC. Incorrect — these are only specific tasks performed during the review, not the application-level review procedure itself.\nD. Incorrect — likewise, these are only specific tasks that make up the review procedure.",
-      "back_zh": "答案：B\n\nA. 不正确。这些应是组织层面而不是应用层面上的审计工作。\nB. 正确。鉴于EUC应用所固有的潜在风险，有必要对EUC应用进行标识、风险分级和测试。\nC. 不正确。这些仅是构成检查过程中的一些具体操作，而不是应用层面上的检查程序。\nD. 不正确。这些同样仅是构成检查程序的一些具体操作。",
-      "tags": ["EUC", "IT감사", "애플리케이션 통제"]
+      "front_zh": "当在应用层面上对终端用户计算（EUC）控制进行审计时，检查程序应包括：\n\nA.评价EUC管理，政策，程序及终端用户支持。\nB.标识出EUC应用，对其进行风险分级，并对控制进行文件记录和测试。\nC.检查培训情形、用户满意程度及数据所有权。\nD.对物理安全性、逻辑安全性、备份及恢复计划进行评价。",
+      "back": "정답: B\n\nA. 오답 — 이는 응용 수준이 아니라 조직(전사) 수준의 감사 업무에 해당한다.\nB. 정답 — EUC 애플리케이션에 내재된 잠재적 위험을 고려할 때, 식별·위험분류·테스트가 필요하다.\nC. 오답 — 점검 과정에서 수행하는 일부 구체적 작업일 뿐, 응용 수준의 점검 절차 자체는 아니다.\nD. 오답 — 이 역시 점검 절차를 구성하는 일부 구체적 작업일 뿐이다.",
+      "back_en": "Answer: B\n\nA. Incorrect — these belong to organization-level rather than application-level audit work.\nB. Correct — given the inherent risks of EUC applications, they must be identified, risk-ranked, and tested.\nC. Incorrect — these are only specific tasks within the review, not the application-level procedure itself.\nD. Incorrect — likewise, only specific tasks that make up the review procedure.",
+      "back_zh": "答案：B\n\nA.不正确。这些应是组织层面而不是应用层面上的审计工作。\nB.正确。鉴于EUC应用所固有的潜在风险，有必要对EUC应用进行标识、风险分级和测试。\nC.不正确。这些仅是构成检查过程中的一些具体操作，而不是应用层面上的检查程序。\nD.不正确。这些同样仅是构成检查程序的一些具体操作。",
+      "tags": [
+        "EUC",
+        "IT감사",
+        "애플리케이션 통제"
+      ]
     },
     {
       "id": "p2-002",
       "src": "2b311c1698cc42dd90bbc934d205b252",
-      "category": "정보기술 감사 — 프로그래밍/시스템 소프트웨어",
-      "category_en": "IT Audit — Programming / System Software",
-      "category_zh": "信息技术审计 — 程序设计/系统软件",
+      "category": "정보기술 감사 — 시스템 소프트웨어",
+      "category_en": "IT Audit — System Software",
+      "category_zh": "信息技术审计 — 系统软件",
       "front": "원시 프로그램(소스 코드)에 대해 문법 검사를 수행하고 이를 목적 코드(object code)로 번역하는 프로그램은?\n\nA. 인터프리터(해석기)\nB. 컴파일러(번역기)\nC. 디버거\nD. 암호화 프로그램",
       "front_en": "Which program performs syntax checking on a source program and translates it into object code?\n\nA. Interpreter\nB. Compiler\nC. Debugger\nD. Encryption program",
-      "front_zh": "能对源程序进行语法检查，并将其翻译成目标代码的程序是？\n\nA. 解释程序。\nB. 编译程序。\nC. 调试程序。\nD. 加密程序。",
-      "back": "정답: B\n\nA. 오답 — 인터프리터는 고급 언어 프로그램을 중간 코드로 변환하여 한 줄씩 해석·실행한다.\nB. 정답 — 컴파일러는 소스 프로그램의 문법을 검사하고 이를 목적 코드로 번역하는 프로그램이다.\nC. 오답 — 디버거는 프로그램의 실행을 추적하여 오류가 발생한 코드를 찾는 데 사용된다.\nD. 오답 — 암호화 프로그램은 민감한 데이터를 암호로 변환하여 정보 유출을 방지하는 데 사용된다.",
-      "back_en": "Answer: B\n\nA. Incorrect — an interpreter converts a high-level language program into intermediate code and executes it line by line.\nB. Correct — a compiler checks the syntax of the source program and translates it into object code.\nC. Incorrect — a debugger is used to trace program execution and locate the code where an error occurs.\nD. Incorrect — an encryption program cryptographically transforms sensitive data to prevent information leakage.",
-      "back_zh": "答案：B\n\nA. 不正确。解释程序将高级语言程序转换成中间代码，并逐行解释执行。\nB. 正确。编译程序对源程序进行语法检查，并将其翻译成目标代码的程序。\nC. 不正确。调试程序用于跟踪程序的执行，并找到发生错误的代码。\nD. 不正确。加密程序用于对敏感数据进行密码变换，防止信息泄露。",
-      "tags": ["컴파일러", "인터프리터", "시스템 소프트웨어"]
+      "front_zh": "能对源程序进行语法检查，并将其翻译成目标代码的程序是\n\nA.解释程序。\nB.编译程序。\nC.调试程序。\nD.加密程序。",
+      "back": "정답: B\n\nA. 오답 — 인터프리터는 고급 언어를 중간 코드로 변환해 한 줄씩 해석·실행한다.\nB. 정답 — 컴파일러는 소스 프로그램의 문법을 검사하고 목적 코드로 번역한다.\nC. 오답 — 디버거는 실행을 추적해 오류 발생 코드를 찾는다.\nD. 오답 — 암호화 프로그램은 민감 데이터를 암호로 변환해 정보 유출을 막는다.",
+      "back_en": "Answer: B\n\nA. Incorrect — an interpreter converts a high-level program into intermediate code and executes it line by line.\nB. Correct — a compiler checks the source program's syntax and translates it into object code.\nC. Incorrect — a debugger traces execution and locates the code where an error occurs.\nD. Incorrect — an encryption program cryptographically transforms sensitive data to prevent leakage.",
+      "back_zh": "答案：B\n\nA.不正确。解释程序将高级语言程序转换成中间代码，并逐行解释执行。\nB.正确。编译程序对源程序进行语法检查，并将其翻译成目标代码的程序。\nC.不正确。调试程序用于跟踪程序的执行，并找到发生错误的代码。\nD.不正确。加密程序用于对敏感数据进行密码变换，防止信息泄露。",
+      "tags": [
+        "컴파일러",
+        "인터프리터",
+        "시스템 소프트웨어"
+      ]
+    },
+    {
+      "id": "p2-003",
+      "src": "56208ebd49ed4cff9dcdac0b4f819f5d",
+      "category": "정보기술 감사 — 시스템 도입 의사결정",
+      "category_en": "IT Audit — System Acquisition Decisions",
+      "category_zh": "信息技术审计 — 系统采购决策",
+      "front": "신규 시스템 개발, 기성품 구매, 구매 후 맞춤화, 기존 시스템 재설계 중 어느 방식을 택할지 고려할 때, 위험 기반 관점에서 가장 중요한 고려사항은?\n\nA. 5년 후 예상 수요를 충족하도록 시스템을 개발한다.\nB. 필요한 역량을 확보하기 위해 외주(아웃소싱)한다.\nC. 아무 변경도 하지 않는다.\nD. 예산 제약을 맞추기 위해 지금은 필요 요건의 절반만 개발한다.",
+      "front_en": "When deciding whether to develop a new system, buy an off-the-shelf product, buy and customize, or redesign the existing system, which risk-based consideration is most important?\n\nA. Develop a system to meet anticipated needs five years out.\nB. Outsource to acquire the necessary capability.\nC. Make no changes at all.\nD. Develop only half the required needs now to meet budget limits.",
+      "front_zh": "在考虑是开发新系统、购买现成产品、采购并定制产品还是重新设计现有系统等哪种方式时，以下哪一项基于风险的考虑是最重要的？\n\nA.开发系统以满足5年后的预期需求。\nB.外包以获得必要的能力。\nC.不做任何变动。\nD.现在开发所需需求的一半来满足预算限制。",
+      "back": "정답: C\n\nA. 오답 — 5년 후 수요까지 충족시키는 개발은 난도가 높고 비용 투입이 더 크다.\nB. 오답 — 외주로 역량을 확보하는 것도 투자가 필요하다.\nC. 정답 — 기존 시스템을 변경하지 않는 안(현상 유지)은 다른 모든 대안의 타당성을 판단하는 기준선이다. 단기·장기 어느 쪽이든 '아무것도 안 하기'가 더 나은 투자수익을 준다면 그것이 최선이다.\nD. 오답 — 요건의 절반만 개발하는 것은 선투자와 더 큰 위험을 수반한다.",
+      "back_en": "Answer: C\n\nA. Incorrect — building to meet 5-year needs is difficult and costlier.\nB. Incorrect — outsourcing for capability still requires investment.\nC. Correct — making no change to the existing system is the baseline for judging whether any other proposal is worthwhile. If doing nothing yields a better return than any alternative, short- or long-term, it is the best choice.\nD. Incorrect — building only half the requirements incurs upfront cost and greater risk.",
+      "back_zh": "答案：C\n\nA.不正确。开发系统要做到满足5年后的预期需求有一定的难度并需要投入更多的成本。\nB.不正确。用外包换取能力是需要投入的。\nC.正确。对现有系统不作任何变更是确定任何其他建议是否可行的基线。无论是从短期还是长期来看，如果什么都不做反而比其他任何选择都能提供更好的投资回报时，那么它就是最佳选择。\nD.不正确。直接开发完成一半的需求，需要先投入并承担更多的风险。",
+      "tags": [
+        "시스템 도입",
+        "위험 기반",
+        "현상 유지 기준선"
+      ]
+    },
+    {
+      "id": "p2-004",
+      "src": "e9b59ebd8c7c424eab6bf8f606dacf62",
+      "category": "정보기술 감사 — 시스템 개발 방법론",
+      "category_en": "IT Audit — System Development Methodology",
+      "category_zh": "信息技术审计 — 系统开发方法",
+      "front": "한 전자회사가 신규 시스템을 신속 응용 개발(RAD) 기법으로 구현하기로 했다. 이 신규 시스템 개발에 포함될 내용은?\n\nA. 시스템 문서화를 마지막 모듈 완료 시점까지 미룬다.\nB. 프로젝트 관리 책임을 개발팀 밖으로 이전한다.\nC. 시스템을 모듈 단위로 나누어 완성될 때까지 구축한다.\nD. 객체지향 개발 기법 적용으로 기존 코드 사용을 최소화한다.",
+      "front_en": "An electronics company decides to implement a new system using rapid application development (RAD). What will be part of this new system's development?\n\nA. Defer the need for system documentation until the last module is complete.\nB. Move project management responsibility outside the development team.\nC. Build the system module by module until it is complete.\nD. Use object-oriented techniques to minimize the use of prior code.",
+      "front_zh": "某电子公司决定通过应用快速应用程序开发技术来实现某新系统。以下哪项内容将被包括在该新系统的开发之中？\n\nA.将系统文档编制的需要延迟到最后模块完成之时。\nB.把项目管理责任从开发小组转移出去。\nC.分模块创建系统直至系统完成。\nD.应用对象开发技术将以往编码的使用减少到最低程度。",
+      "back": "정답: C\n\nA. 오답 — RAD를 적용해도 시스템 문서화를 없애거나 미룰 수는 없다.\nB. 오답 — 프로젝트 관리는 개발팀과 결부되어 있다.\nC. 정답 — 신규 시스템은 모듈 단위로 개발해야 한다.\nD. 오답 — 객체지향 개발 기법은 기존 코드 활용을 줄이는 것이 아니라 늘린다.",
+      "back_en": "Answer: C\n\nA. Incorrect — RAD does not eliminate or defer system documentation.\nB. Incorrect — project management involves the development team.\nC. Correct — the new system should be developed module by module.\nD. Incorrect — object-oriented techniques increase, not decrease, reuse of prior code.",
+      "back_zh": "答案：C\n\nA项不正确。应用快速应用开发技术并不能取消或延迟系统文档的编制。\nB项不正确。项目管理牵涉到开发小组。\nC项正确。新系统应该分模块开发。\nD项不正确。如应用对象开发技术，则将增加而不是减少对以往代码的利用。",
+      "tags": [
+        "RAD",
+        "모듈 개발",
+        "시스템 개발"
+      ]
+    },
+    {
+      "id": "p2-005",
+      "src": "e18c344d3c924da3ac6d0a0a918a4b2a",
+      "category": "정보기술 감사 — 용량 계획",
+      "category_en": "IT Audit — Capacity Planning",
+      "category_zh": "信息技术审计 — 能力计划",
+      "front": "잉여(불필요한) 컴퓨터 장비의 비효율적 사용을 통제할 수 있는 조치는?\n\nA. 비상계획(contingency plan)\nB. 시스템 타당성 조사\nC. 용량 계획(capacity plan)\nD. 예외 보고(exception report)",
+      "front_en": "Which measure can control the inefficient use of redundant (excess) computer equipment?\n\nA. Contingency plan\nB. System feasibility study\nC. Capacity plan\nD. Exception report",
+      "front_zh": "以下哪项措施能够控制对多余的电脑设备的低效使用？\n\nA.应急计划。\nB.系统可行性研究。\nC.能力计划。\nD.例外报告。",
+      "back": "정답: C\n\nA. 오답 — 비상계획은 시스템 긴급 장애 시 유효 시간 내 복구를 보장한다.\nB. 오답 — 시스템 타당성 조사는 시스템이 예정된 기능·성능 지표를 달성하도록 보장한다.\nC. 정답 — 용량 계획은 시스템 용량의 설계 목표, 현재 장비 용량 목록, 미래 수요 예측을 포함하며, 잉여 장비의 비효율적 사용을 통제할 수 있다.\nD. 오답 — 예외 보고는 특수 문제를 부각해 관련 부서의 주의를 끈다.",
+      "back_en": "Answer: C\n\nA. Incorrect — a contingency plan ensures recovery within an acceptable time after an emergency failure.\nB. Incorrect — a feasibility study ensures the system meets its intended function and performance targets.\nC. Correct — capacity planning covers design targets, an inventory of current equipment capacity, and forecasts of future demand, controlling inefficient use of excess equipment.\nD. Incorrect — an exception report highlights special issues to draw attention.",
+      "back_zh": "答案：C\n\nA.不正确。应急计划可以保证在系统出现紧急故障时能在有效时间内恢复运行。\nB.不正确。系统可行性研究确保系统能实现预定的功能和性能指标。\nC.正确。能力计划包括系统能力的设计目标、现有的设备能力清单以及对未来需求的预测，它能够控制对多余的电脑设备的低效使用。\nD.不正确。例外报告可以将特殊问题突出显示，以引起相关部门的注意。",
+      "tags": [
+        "용량 계획",
+        "IT자원 관리"
+      ]
+    },
+    {
+      "id": "p2-006",
+      "src": "15dd55d6cd7942fdb7e6b86265c062ba",
+      "category": "정보기술 감사 — 파일 구조",
+      "category_en": "IT Audit — File Organization",
+      "category_zh": "信息技术审计 — 文件组织",
+      "front": "고객 데이터를 얻기 위해 운영체제가 키 값과 그에 대응하는 물리 주소를 담은 파일에서 주키(primary key)를 찾는다. 이 경우 고객 데이터의 조직 형태로 가장 가능성이 높은 것은?\n\nA. 직접 접근 파일(direct access file)\nB. 색인 순차 파일(indexed sequential file)\nC. 순차 파일(sequential file)\nD. 텍스트 파일",
+      "front_en": "To obtain customer data, the operating system finds the primary key from a file containing key values and their corresponding physical addresses. The most likely organization of the customer data is:\n\nA. Direct access file\nB. Indexed sequential file\nC. Sequential file\nD. Text file",
+      "front_zh": "为了获取客户数据，操作系统从一个包含键值及对应物理地址的文件中找到主键。在这种情况下，最有可能的客户数据组织形式是\n\nA.直接存取文件。\nB.索引顺序文件。\nC.顺序文件。\nD.文本文件。",
+      "back": "정답: B\n\nA. 오답 — 직접 접근 파일은 주키 값으로 곧바로 레코드의 물리 위치를 얻으므로 주키 색인 파일이 필요 없다.\nB. 정답 — 색인 순차 파일은 직접 접근 매체에 순차 저장되며, 주키와 물리 주소로 색인 파일을 구성해 색인 순차 접근으로 임의 레코드에 직접 접근할 수 있다.\nC. 오답 — 순차 파일은 순서대로 저장·접근하므로 주키 색인 파일이 필요 없다.\nD. 오답 — 텍스트 파일은 보통 문서 저장용으로 문제 취지에 맞지 않는다.",
+      "back_en": "Answer: B\n\nA. Incorrect — a direct access file obtains a record's physical location straight from the key value, needing no key index file.\nB. Correct — an indexed sequential file stores records sequentially on direct-access media; an index of keys and physical addresses allows direct access to any record.\nC. Incorrect — sequential files store and access records in order, needing no key index file.\nD. Incorrect — text files are generally for documents and do not fit the scenario.",
+      "back_zh": "答案：B\n\nA.不正确。直接存取文件可直接根据主键的值得到相应记录的物理位置，不需要主键索引文件。\nB.正确。索引顺序文件的记录按顺序存储在可直接访问的介质中，可将记录中的主关键字及该记录的物理地址构成索引文件，通过索引顺序访问方法可直接访问任意记录。\nC.不正确。顺序文件中的记录按顺序存放，并按顺序存取，不需要主键索引文件。\nD.不正确。文本文件通常用来保存文档，不适合题意。",
+      "tags": [
+        "색인 순차 파일",
+        "파일 구조",
+        "DB"
+      ]
+    },
+    {
+      "id": "p2-007",
+      "src": "ae460d41fceb4d62a12bfdeb33b25e4b",
+      "category": "정보기술 감사 — 데이터베이스",
+      "category_en": "IT Audit — Database",
+      "category_zh": "信息技术审计 — 数据库",
+      "front": "데이터베이스 질의 사용자는 원하는 정보를 얻기 위해 여러 테이블을 결합해야 할 때가 많다. 테이블을 결합하는 방법 중 하나는?\n\nA. 조인(joining)\nB. 병합(merging)\nC. 프로젝션/사영(projecting)\nD. 포인팅(pointing)",
+      "front_en": "Database query users often need to combine several tables to get the information they want. One method of combining tables is called:\n\nA. Joining\nB. Merging\nC. Projecting\nD. Pointing",
+      "front_zh": "数据库查询的用户经常需要将几张表进行结合，以便得到他们想要的信息。结合表格的方法之一被称为\n\nA.连接（joining）。\nB.合并（merging）。\nC.映射（projecting）。\nD.指向（pointing）。",
+      "back": "정답: A\n\nA. 정답 — 조인은 서로 다른 테이블이 공유하는 공통 데이터 요소를 이용해, 형식이 다른 여러 테이블의 내용을 사용자가 원하는 형태로 결합한다.\nB. 오답 — 병합은 형식이 같은 테이블들을 하나로 합친다.\nC. 오답 — 프로젝션은 테이블의 일부 필드로 새 부분 테이블을 구성한다.\nD. 오답 — 포인팅은 서로 다른 데이터 요소 간에 연관을 설정한다.",
+      "back_en": "Answer: A\n\nA. Correct — a join uses common data elements shared by tables to combine the contents of multiple differently-formatted tables into the form the user wants.\nB. Incorrect — merging combines tables of the same format into one.\nC. Incorrect — projecting forms a new sub-table from selected fields.\nD. Incorrect — pointing establishes associations between different data elements.",
+      "back_zh": "答案：A\n\nA.正确。连接操作利用不同表格所具有的共同数据元素，可以将多个不同格式的表格的内容结合成用户所需要的形式。\nB.不正确。合并操作将具有相同格式的表格合并成一个表格。\nC.不正确。映射操作将数据库表中的部分字段构成一个新的子表。\nD.不正确。指向操作在不同数据元素之间建立关联。",
+      "tags": [
+        "조인",
+        "관계형 DB",
+        "데이터 결합"
+      ]
+    },
+    {
+      "id": "p2-008",
+      "src": "3695d375c85a4b6c8410419f9364ad61",
+      "category": "정보기술 감사 — 애플리케이션 입력 통제",
+      "category_en": "IT Audit — Application Input Controls",
+      "category_zh": "信息技术审计 — 应用输入控制",
+      "front": "재고 데이터의 완전하고 정확한 입력에 대해 합리적 보증을 제공하는 애플리케이션 통제는?\n\nA. 순서 검사(sequence check)\nB. 배치 합계(batch total)\nC. 한도 검사(limit check)\nD. 검사 숫자(check digit)",
+      "front_en": "Which application control provides reasonable assurance of complete and accurate entry of inventory data?\n\nA. Sequence check\nB. Batch total\nC. Limit check\nD. Check digit",
+      "front_zh": "以下哪项应用程序控制能够为库存数据完整、准确地输入提供合理保证？\n\nA.顺序检查。\nB.批量总额。\nC.限额检查。\nD.检验数位。",
+      "back": "정답: B\n\nA. 오답 — 순서 검사는 입력 완전성을 검증하는 좋은 통제이나, 정확성은 검증하지 못한다.\nB. 정답 — 배치 합계 검사는 입력의 완전성과 정확성 모두를 검증하는 데 효과적이다.\nC. 오답 — 한도 검사는 입력값이 허용 범위 내인지만 판단하므로 정확성 검증에는 쓸 수 없다.\nD. 오답 — 검사 숫자는 오류 입력을 기계적으로 거부하게 하지만, 계산이 번거로워 소수의 핵심 입력 항목에만 적용되며, 대량 입력의 정확성 검증에는 결코 사용되지 않는다.",
+      "back_en": "Answer: B\n\nA. Incorrect — a sequence check is a good control for input completeness but does not test accuracy.\nB. Correct — a batch total check is effective for testing both completeness and accuracy of input.\nC. Incorrect — a limit check only determines whether input is within an acceptable range, so it cannot test accuracy.\nD. Incorrect — a check digit lets the computer mechanically reject erroneous input but, being computationally cumbersome, applies only to a few critical fields and is never used to test the accuracy of batch input.",
+      "back_zh": "答案：B\n\nA.不正确。顺序检查是一种测试输入完整性的相当好的控制，但它并不测试正确性。\nB.正确。批量汇总检查对测试输入完整性和正确性都很有效。\nC.不正确。极限检查只能判定输入的数据是否在可接受的范围内，因此也不能用来测试输入的正确性。\nD.不正确。数字检验位可以使计算机机械地拒绝错误的输入。生成数字校验位需要进行繁琐的运算，因而这种方法只适用于少数关键的输入项。数字校验位绝不会用于测试成批数据输入的正确性。",
+      "tags": [
+        "배치 합계",
+        "입력 통제",
+        "애플리케이션 통제"
+      ]
+    },
+    {
+      "id": "p2-009",
+      "src": "38e8a1f796074bfe9feb433b638f56eb",
+      "category": "정보기술 감사 — 소프트웨어 라이선스 준수",
+      "category_en": "IT Audit — Software License Compliance",
+      "category_zh": "信息技术审计 — 软件许可合规",
+      "front": "컴퓨터 워크스테이션이 15,000대를 초과하는 조직의 소프트웨어 라이선스 준수 상황을 평가할 때, 가장 적합한 출발점은?\n\nA. 소프트웨어 설치가 중앙집중식으로 통제되는지, 아니면 조직 전반에 분산 수행되는지 확인한다.\nB. 회사 컴퓨터에 어떤 소프트웨어가, 각각 몇 개나 설치되어 있는지 확인한다.\nC. 회사가 소프트웨어를 몇 카피 구매했는지 확인한다.\nD. 소프트웨어 사용 감시를 위해 어떤 장비가 설치되어 있는지 확인한다.",
+      "front_en": "To assess software license compliance in an organization with more than 15,000 computer workstations, which is the most appropriate starting point?\n\nA. Determine whether software installation is centrally controlled or done in a decentralized manner across the organization.\nB. Determine what software is installed on company computers and how many copies of each.\nC. Determine how many copies of software the company purchased.\nD. Determine what equipment is installed to monitor software usage.",
+      "front_zh": "对于评估拥有超过15,000台计算机工作站的组织遵守软件许可证规定的情况，以下哪一项是最适合的起点？\n\nA.确定软件安装是否被集中控制或者软件的安装是在整个组织内分散进行。\nB.确定什么样的软件被安装在公司计算机中以及安装的每一个软件的数量。\nC.确定公司购买了多少套软件。\nD.确定为监督软件的使用，安装了什么样的设备。",
+      "back": "정답: A\n\nA. 정답 — 논리적 출발점은 각 통제 지점을 파악하는 것이며, 그 후에야 라이선스 준수 증거를 평가할 수 있다.\nB. 오답 — 이 단계 전에 내부감사인은 먼저 설치가 중앙집중 통제되는지부터 확인해야 한다. 이것이 설치 소프트웨어 운영 정보에 대한 판단에 영향을 주기 때문이다.\nC. 오답 — 이는 소프트웨어가 합법 취득되었는지 판단에 도움이 되나, 어디에 설치되었는지부터 시작해야 하므로 A가 더 유용한 출발점이다.\nD. 오답 — 라이선스 준수 평가에서 사용자 감시는 설치 프로그램 파악보다 덜 중요하다.",
+      "back_en": "Answer: A\n\nA. Correct — the logical starting point is to identify the control points; only then can compliance evidence be evaluated.\nB. Incorrect — before this step, the auditor must first determine whether installation is centrally controlled, as it affects judgments about installed software.\nC. Incorrect — this helps determine whether software was legally acquired, but the auditor still needs to start by identifying where software is installed; A is the more useful starting point.\nD. Incorrect — in assessing license compliance, monitoring users is less important than identifying installations.",
+      "back_zh": "答案：A\n\nA.正确。逻辑起点是为了确定各控制点，然后才能对许可证合规性的证据进行评估。\nB.不正确。在采取这一步骤前，内部审计人员将首先确定是否集中控制了软件的安装，因为这将影响内部审计人员对安装软件运行的信息的判断。\nC.不正确。这将帮助内部审计人员确定软件是否合法取得，但是内部审计人员还需要通过确定在哪儿安装的软件来开始这一步骤，并且答案A是更加有用的起点。\nD.不正确。在评估许可证合规性时，监督使用者不如确定安装程序重要。",
+      "tags": [
+        "라이선스 준수",
+        "감사 출발점",
+        "집중/분산 통제"
+      ]
+    },
+    {
+      "id": "p2-010",
+      "src": "3a5adae46b7b4da4a5c49dcc39363f91",
+      "category": "정보기술 감사 — 이메일 정책",
+      "category_en": "IT Audit — Email Policy",
+      "category_zh": "信息技术审计 — 电子邮件政策",
+      "front": "내부감사인이 새 이메일 정책을 검토 중이다. 이 정책에 포함되어야 하는 요소는 다음 중 ( )를 제외한 모두이다. 포함되지 않아야 할 것은?\n\nA. 해고된 직원의 모든 이메일을 즉시 삭제한다.\nB. 전화선을 통해 전송되는 이메일 정보는 암호화한다.\nC. 회사가 채택하는 이메일 소프트웨어 종류를 제한한다.\nD. 직원이 고도로 민감하거나 기밀인 정보를 이메일로 보내지 못하도록 규정한다.",
+      "front_en": "An internal auditor is reviewing a new email policy. The policy should include all of the following factors EXCEPT:\n\nA. Immediately delete all emails of terminated employees.\nB. Encrypt email transmitted over telephone lines.\nC. Limit the types of email software packages the company uses.\nD. Prohibit staff from sending highly sensitive or confidential information by email.",
+      "front_zh": "内部审计人员正在复核一项有关电子邮件的新政策，这个政策应包括除了以下哪项以外的所有因素？\n\nA.立即删除已解除雇佣员工的所有电子邮件。\nB.对通过电话线传输电子邮件信息应该加密。\nC.限制公司采用的电子邮件软件包的种类。\nD.规定职员不能用电子邮件发送高度敏感或机密的信息。",
+      "back": "정답: A\n\nA. 정답 — 해고된 직원의 이메일에는 유용한 고객·업무 정보가 들어 있을 가능성이 높고, 그 존재가 보통 조직에 위험을 주지 않으므로 즉시 삭제할 필요가 없다. 담당자를 지정해 인계·검토해야 한다.\nB. 오답 — 전화선은 도청이 쉬우므로 전화선 전송 이메일 암호화는 정책에 포함해야 한다.\nC. 오답 — 이메일 소프트웨어 종류 제한은 보안 관리와 상호운용에 유리하므로 정책에 포함해야 한다.\nD. 오답 — 이메일은 공중망 전송 시 각종 공격을 받을 수 있으므로, 고도 민감·기밀 정보의 이메일 발송 금지를 정책에 포함해야 한다.",
+      "back_en": "Answer: A\n\nA. Correct — terminated employees' emails likely contain useful customer and business information and usually pose no risk to the organization, so they need not be deleted immediately; someone should take them over and review them.\nB. Incorrect — phone lines are easily tapped, so encrypting email over them belongs in the policy.\nC. Incorrect — limiting email software types aids secure management and interoperability, so it belongs in the policy.\nD. Incorrect — email can be attacked over public networks, so prohibiting sending highly sensitive/confidential information belongs in the policy.",
+      "back_zh": "答案：A\n\nA.正确。已解除雇佣员工的电子邮件中很可能包含有用的客户和业务信息，而且这些电子邮件的存在通常不对组织构成风险，因此没有必要立即删除，而应安排专人接手并检查这些邮件。\nB.不正确。电话线路很容易被窃听，因此对通过电话线传输电子邮件信息进行加密应包括在政策之内。\nC.不正确。限制公司采用的电子邮件软件包的种类有利于邮件的安全管理和互通，应包括在政策之内。\nD.不正确。电子邮件在通过公网传送时，很可能受到各种攻击，因此规定职员不能用电子邮件发送高度敏感或机密的信息应包括在政策之内。",
+      "tags": [
+        "이메일 정책",
+        "제외 문제",
+        "정보보안"
+      ]
+    },
+    {
+      "id": "p2-011",
+      "src": "063134af8ec0439c8e493d572efacf9d",
+      "category": "정보기술 감사 — 전자자금이체(EFT)",
+      "category_en": "IT Audit — Electronic Funds Transfer",
+      "category_zh": "信息技术审计 — 电子资金转账",
+      "front": "전자자금이체(EFT) 시스템 사용 후 증대되는 위험은?\n\nA. 부적절한 변경 통제 절차\nB. 미인가 접근 및 거래 활동\nC. 불충분한 온라인 편집 검사\nD. 불충분한 백업 및 재해 복구 절차",
+      "front_en": "After implementing an electronic funds transfer (EFT) system, which risk increases?\n\nA. Inadequate change control procedures\nB. Unauthorized access and transaction activity\nC. Inadequate online edit checks\nD. Inadequate backup and disaster recovery procedures",
+      "front_zh": "在使用电子资金转账系统后，以下哪一项风险增大了？\n\nA.不适当的变更控制程序。\nB.未经授权的访问和交易活动。\nC.不充分的在线编辑检查。\nD.不充分的备份和灾难恢复程序。",
+      "back": "정답: B\n\nA. 오답 — 부적절한 변경 통제 위험은 대부분의 IT 환경에 보편적으로 존재한다.\nB. 정답 — 미인가 접근은 고유 위험이지만, EFT 환경에서는 이 위험이 곧바로 자금 손실로 이어지므로 위험이 증대된다.\nC. 오답 — 불충분한 온라인 편집 검사 위험은 대부분의 IT 환경에 보편적이다.\nD. 오답 — 불충분한 백업·재해복구 위험도 대부분의 IT 환경에 보편적이다.",
+      "back_en": "Answer: B\n\nA. Incorrect — inadequate change control risk is common across most IT environments.\nB. Correct — unauthorized access is an inherent risk, but in an EFT environment it directly leads to loss of funds, so the risk increases.\nC. Incorrect — inadequate online edit check risk is common across most IT environments.\nD. Incorrect — inadequate backup/disaster recovery risk is also common across most IT environments.",
+      "back_zh": "答案：B\n\nA.不正确。不适当的变更控制程序风险在大多数信息技术环境中普遍存在。\nB.正确。未经授权的访问是一种固有风险，但在电子资金转移的环境中该风险将直接导致资金的流失，因此其风险增大。\nC.不正确。不充分的在线编辑检查风险在大多数信息技术环境中普遍存在。\nD.不正确。不充分的备份和灾难恢复程序风险在大多数信息技术环境中都普遍存在。",
+      "tags": [
+        "EFT",
+        "미인가 접근",
+        "고유위험"
+      ]
+    },
+    {
+      "id": "p2-012",
+      "src": "34276afb99b94ba39c28262ca0324599",
+      "category": "정보기술 감사 — 전자문서교환(EDI)",
+      "category_en": "IT Audit — Electronic Data Interchange",
+      "category_zh": "信息技术审计 — 电子数据交换",
+      "front": "EDI(전자문서교환)는 조직에 큰 이익을 줄 수 있으나 주요 장애를 제거해야 한다. EDI를 성공적으로 구현하려면 무엇부터 시작해야 하는가?\n\nA. 조직 목표 달성을 위해 수행하는 경영활동의 업무 흐름도를 그린다.\nB. EDI 시스템용 새 하드웨어를 구매한다.\nC. 신뢰할 수 있는 번역·통신 소프트웨어 공급업체를 선정한다.\nD. 거래 형식과 데이터를 표준화한다.",
+      "front_en": "EDI can bring major benefits but only after removing key obstacles. To implement EDI successfully, what should you start with?\n\nA. Map the business activity process flows used to achieve organizational goals.\nB. Buy new hardware for the EDI system.\nC. Select reliable translation and communication software vendors.\nD. Standardize transaction formats and data.",
+      "front_zh": "电子数据交换系统（EDI）可以为组织带来重大利益，但前提是必须清除某些主要障碍。要想成功实施电子数据交换，应从以下哪一项开始？\n\nA.画出为实现组织目标所开展的经营活动流程图。\nB.为EDI系统购买新的硬件。\nC.选择可靠的翻译、通讯软件供应商。\nD.将交易格式、数据标准化。",
+      "back": "정답: A\n\nA. 정답 — EDI 구현은 기존 업무 흐름을 단순 복제해서는 안 되며, 기존 프로세스를 대폭 개선해 EDI와 결합해야 효과가 크다. 비효율적 처리 흐름은 EDI 적용 후에도 단지 빨라질 뿐 여전히 비효율적이다.\nB. 오답 — EDI 성공의 전제는 사업 목표·처리 과정·흐름의 이해와 외부 파트너 협력이다. 하드웨어 구매는 이후 고려사항이다.\nC. 오답 — 소프트웨어 공급업체 선정은 시스템 목표 확정 후에 한다.\nD. 오답 — 거래 형식·데이터 표준화도 시스템 목표 확정 후에 한다.",
+      "back_en": "Answer: A\n\nA. Correct — EDI implementation must not simply replicate existing workflows; significant process improvement combined with EDI yields real benefits. An inefficient process stays inefficient after EDI, merely faster.\nB. Incorrect — success depends on understanding business goals, processes, and flows, plus partner cooperation; hardware comes later.\nC. Incorrect — vendor selection comes after system objectives are set.\nD. Incorrect — standardizing transaction formats/data also comes after objectives are set.",
+      "back_zh": "答案：A\n\nA.正确。实施EDI不能简单复制现有的作业流程，只有通过大力改进现有流程并与EDI相结合，才能获得显著的效果。一个低效的处理流程在实施EDI后仍然是低效的，只是速度较快而已。\nB.不正确。EDI获得成功的先决条件是对商业目标、处理过程和流程的理解，以及和外部伙伴的合作。硬件的购置是以后要考虑的问题。\nC.不正确。选择软件供应商应在确定系统目标后进行。\nD.不正确。交易格式和数据的标准化工作应在确定系统目标后进行。",
+      "tags": [
+        "EDI",
+        "프로세스 개선",
+        "구현 순서"
+      ]
+    },
+    {
+      "id": "p2-013",
+      "src": "ac8b2774f0264cf08663f00fca68c146",
+      "category": "정보기술 감사 — EDI / 부가가치통신망(VAN)",
+      "category_en": "IT Audit — EDI / Value-Added Network",
+      "category_zh": "信息技术审计 — EDI / 增值网络",
+      "front": "조직이 EDI로 전환할 때 대부분 부가가치통신망(VAN)을 사용한다. 다음 중 보통 VAN이 수행할 수 없는 기능은?\n\nA. 한 회사의 전자 주문을 보관해 다른 회사가 접근하도록 한다.\nB. 조직 간 공용 인터페이스를 제공해, 거래 파트너 간 컴퓨터 직접 통신 설비를 구축할 필요가 없게 한다.\nC. 회사와 거래 파트너 간 모든 거래의 로그 정보를 유지한다.\nD. 고객의 컴퓨터 애플리케이션 프로토콜을 EDI 통신 표준 프로토콜로 번역한다.",
+      "front_en": "When organizations move to EDI, most use a value-added network (VAN). Which function can a VAN usually NOT perform?\n\nA. Store one company's electronic orders for another company to access.\nB. Provide a common interface so trading partners need not build direct computer links.\nC. Maintain a log of all transactions between the company and its trading partners.\nD. Translate a customer's computer application protocol into the standard EDI protocol.",
+      "front_zh": "当组织转为使用电子数据交换（EDI）时，大部分使用的是增值网络（VAN）。下列哪一项功能通常不能由VAN完成？\n\nA.保存一个公司的电子订单以供另一个公司访问。\nB.提供组织间的公用接口，使组织与贸易伙伴间不需建立计算机直接通讯设施。\nC.维护公司与其贸易伙伴间所有交易的日志信息。\nD.将客户计算机应用协议翻译成EDI通讯的标准协议。",
+      "back": "정답: D\n\nA. 오답 — 전자 주문 보관·접근 제공은 VAN의 표준 서비스다.\nB. 오답 — 조직 간 공용 인터페이스 제공은 VAN의 표준 서비스다.\nC. 오답 — 거래 로그 유지는 VAN의 표준 서비스다.\nD. 정답 — VAN은 A·B·C 같은 공용·표준 서비스만 제공한다. 고객 애플리케이션은 보통 정해진 양식이 없어, VAN이 각종 응용 양식을 예견해 표준 EDI 프로토콜로 변환해 줄 수 없다. 변환은 거래 양측 기업이 책임진다.",
+      "back_en": "Answer: D\n\nA. Incorrect — storing electronic orders for access is a standard VAN service.\nB. Incorrect — providing a common inter-company interface is a standard VAN service.\nC. Incorrect — maintaining a transaction log is a standard VAN service.\nD. Correct — a VAN provides only common, standard services like A/B/C. Customer applications usually have no fixed pattern, so a VAN cannot anticipate every application format and convert it to standard EDI; that conversion is the responsibility of both trading enterprises.",
+      "back_zh": "答案：D\n\nA.不正确。保存一个公司的电子订单以供另一个公司访问是VAN提供的标准服务。\nB.不正确。提供公司间的公用接口是VAN提供的标准服务。\nC.不正确。维护公司与其贸易伙伴间所有交易的日志信息是VAN提供的标准服务。\nD.正确。VAN只能提供公共的和标准的服务，如A、B、C选项。而客户应用程序通常无确定模式，因此VAN不可能预见到各种应用模式并提供将其转换为标准EDI协议的服务，转换过程只能由双方企业负责。",
+      "tags": [
+        "VAN",
+        "EDI",
+        "프로토콜 변환"
+      ]
+    },
+    {
+      "id": "p2-014",
+      "src": "daa263dea5aa4cee8834c60394c8e909",
+      "category": "정보기술 감사 — 전자상거래 보안",
+      "category_en": "IT Audit — E-Commerce Security",
+      "category_zh": "信息技术审计 — 电子商务安全",
+      "front": "전자상거래에서 잠재적 보안 문제가 아닌 것은?\n\nA. 거래 당사자의 올바른 식별\nB. 컴퓨터 바이러스의 확산\nC. 누가 거래 결정 권한을 갖는지 결정\nD. 결제 데이터의 확인(검증)",
+      "front_en": "Which of the following is NOT a potential security concern for e-commerce?\n\nA. Correct identification of the transacting parties\nB. The spread of computer viruses\nC. Determining who has authority to make transaction decisions\nD. Confirmation (validation) of payment data",
+      "front_zh": "对于电子商务而言，以下哪一项不是潜在的安全问题？\n\nA.交易团体的正确标识。\nB.计算机病毒的扩散。\nC.决定谁有权做出交易决策。\nD.支付数据的确认。",
+      "back": "정답: B\n\nA. 오답 — 거래 당사자의 올바른 식별은 거래 신원의 식별·검증으로 전자상거래 보안과 관련된다.\nB. 정답 — 바이러스도 컴퓨터 시스템 보안과 관련되지만 전자상거래 고유의 문제는 아니다.\nC. 오답 — 거래 결정 권한 결정은 전자거래의 인가 메커니즘으로 전자상거래 보안과 관련된다.\nD. 오답 — 결제 데이터 확인은 전자거래의 필수 절차 중 하나로 전자상거래 보안과 관련된다.",
+      "back_en": "Answer: B\n\nA. Incorrect — correct identification of parties is identity identification/verification, related to e-commerce security.\nB. Correct — viruses relate to computer security but are not specific to e-commerce.\nC. Incorrect — determining transaction-decision authority is the authorization mechanism, related to e-commerce security.\nD. Incorrect — confirming payment data is a necessary step in electronic transactions, related to e-commerce security.",
+      "back_zh": "答案：B\n\nA.不正确。对交易团体的正确标识属于交易身份的标识和验证。与电子商务的安全相关。\nB.正确。病毒虽然也和计算机系统的安全相关，但不是电子商务特有的。\nC.不正确。决定谁有权做出交易决策是电子交易的授权机制，与电子商务的安全相关。\nD.不正确。对支付数据的确认是电子交易的必要流程之一，也与电子商务的安全相关。",
+      "tags": [
+        "전자상거래",
+        "보안",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p2-015",
+      "src": "e1cebf873064484baa6a7fbf15c13f37",
+      "category": "정보기술 감사 — 웹서비스 / SOA",
+      "category_en": "IT Audit — Web Services / SOA",
+      "category_zh": "信息技术审计 — Web服务/SOA",
+      "front": "웹서비스 및 서비스 지향 아키텍처(SOA)에 관한 설명으로 옳은 것은?\n\nA. 이런 시스템은 외부 애플리케이션 자체를 인증해야 한다.\nB. 이런 시스템은 보안 포트로만 통신할 수 있다.\nC. 이런 시스템은 레거시(기존) 애플리케이션과 함께 사용할 수 없다.\nD. 이런 시스템은 백신 소프트웨어와 함께 실행할 수 없다.",
+      "front_en": "Which statement about web services and service-oriented architecture (SOA) is correct?\n\nA. Such systems need to authenticate the external application itself.\nB. Such systems can only communicate through secure ports.\nC. Such systems cannot be used with legacy applications.\nD. Such systems cannot run alongside antivirus software.",
+      "front_zh": "对于Web服务和面向服务的体系结构（SOA），以下哪项描述是正确的？\n\nA.此类系统需要验证外部应用程序本身。\nB.此类系统只能通过安全端口进行通信。\nC.此类系统无法与传统应用程序一起使用。\nD.此类系统不能与杀毒软件一起运行。",
+      "back": "정답: A\n\nA. 정답 — SOA를 사용하면 양측이 자동으로 거래할 수 있어, 사용자 상호작용으로 생기던 일부 직무 분리가 사라진다. 따라서 보완 통제로 역할 기반 접근 권한에 따라 인터페이스를 생성한 기계/시스템 자체를 사용자로 지정한다.\nB. 오답 — SOA는 여러 인터페이스 방식으로 통신할 수 있다.\nC. 오답 — SOA는 레거시 애플리케이션과 함께 사용할 수 있다.\nD. 오답 — SOA는 백신·방화벽 등 다양한 소프트웨어와 함께 실행할 수 있다.",
+      "back_en": "Answer: A\n\nA. Correct — with SOA, two parties can transact automatically, so some segregation of duties created by user interaction is lost. As a compensating control, role-based access designates the machine/system that created the interface as the user.\nB. Incorrect — SOA can communicate using various interface schemes.\nC. Incorrect — SOA can be used with legacy applications.\nD. Incorrect — SOA can run alongside antivirus, firewalls, and other software.",
+      "back_zh": "答案：A\n\nA.正确。使用SOA，双方可以自动进行交易。因此，一些由用户交互而创建的职责隔离将会缺失。于是，系统的补偿性控制是根据基于角色的访问权限，自行将创建该接口的机器或系统指定为用户。\nB.不正确。SOA可以使用多种接口方案进行通讯。\nC.不正确。SOA可以和传统应用程序一起使用。\nD.不正确。SOA可以和杀毒软件、防火墙等各种其他软件一起运行。",
+      "tags": [
+        "SOA",
+        "웹서비스",
+        "직무분리"
+      ]
+    },
+    {
+      "id": "p2-016",
+      "src": "23a9fd9c0ae148638ed64a59e31788a8",
+      "category": "정보기술 감사 — 운영체제",
+      "category_en": "IT Audit — Operating Systems",
+      "category_zh": "信息技术审计 — 操作系统",
+      "front": "다중 프로그래밍(multiprogramming) 기능을 제공하는 소프트웨어는?\n\nA. 응용 프로그램 소프트웨어\nB. 유틸리티 소프트웨어\nC. 운영체제 소프트웨어\nD. 데이터베이스 관리 시스템 소프트웨어",
+      "front_en": "Which software provides multiprogramming capability?\n\nA. Application software\nB. Utility software\nC. Operating system software\nD. Database management system software",
+      "front_zh": "提供多道程序能力的软件是：\n\nA.应用程序软件。\nB.实用软件。\nC.操作系统软件。\nD.数据库管理系统软件。",
+      "back": "정답: C\n\nA. 오답 — 다중 프로그래밍 기능을 갖는 것은 운영체제이지 응용 프로그램이 아니다.\nB. 오답 — 유틸리티 소프트웨어가 아니라 운영체제다.\nC. 정답 — 다중 프로그래밍 실행은 여러 프로그램이 하나의 CPU를 동시(병행)에 사용해 언제든 시스템 자원을 공유하게 하며, 이는 운영체제가 컴퓨터 자원을 공유하는 가장 중요한 능력이다. 목적은 CPU 이용률 향상, 부품 병렬성 발휘, 전체 시스템 효율 제고다.\nD. 오답 — DBMS가 아니라 운영체제다.",
+      "back_en": "Answer: C\n\nA. Incorrect — multiprogramming capability belongs to the OS, not application software.\nB. Incorrect — it is the OS, not utility software.\nC. Correct — multiprogramming lets multiple programs share one CPU concurrently and share system resources at any time; this is the OS's most important resource-sharing capability, aimed at higher CPU utilization, component parallelism, and overall system efficiency.\nD. Incorrect — it is the OS, not the DBMS.",
+      "back_zh": "答案：C\n\nA.不正确。具有多道程序能力的是操作系统软件而非应用程序软件。\nB.不正确。具有多道程序能力的是操作系统软件而非实用软件。\nC.正确。多道程序执行允许多个程序通过并发地使用一个中央处理单元（CPU），可在任何时间共享计算机系统资源，是操作系统分享计算机资源的最重要的能力。多道程序设计的目的是提高CPU的利用率，充分发挥计算机部件的并行性和提供整体系统的效率。\nD.不正确。具有多道程序能力的是操作系统软件而非数据库管理系统软件。",
+      "tags": [
+        "운영체제",
+        "다중 프로그래밍",
+        "시스템 소프트웨어"
+      ]
+    },
+    {
+      "id": "p2-017",
+      "src": "67e2cea9c59241ec9c6c3c571c9ceb5a",
+      "category": "정보기술 감사 — ERP",
+      "category_en": "IT Audit — ERP",
+      "category_zh": "信息技术审计 — ERP",
+      "front": "ERP 시스템의 주요 장점은?\n\nA. 프로그램-데이터 종속성\nB. 데이터 중복(redundancy)\nC. 기능별 데이터의 개별 수정\nD. 데이터 집중화(centralization)",
+      "front_en": "A major advantage of an ERP system is:\n\nA. Program–data dependence\nB. Data redundancy\nC. Separate modification of data by function\nD. Data centralization",
+      "front_zh": "ERP系统的一个主要优势是\n\nA.程序--数据相关。\nB.数据冗余。\nC.不同功能数据的单独修改。\nD.数据集中。",
+      "back": "정답: D\n\nA. 오답 — ERP의 데이터 관리는 DBMS를 활용하며, DBMS의 특징은 응용 프로그램과 데이터의 상대적 독립성이다.\nB. 오답 — ERP는 데이터 중복을 제거하며, 이 또한 DBMS의 특징이다.\nC. 오답 — ERP는 모든 데이터를 하나의 중앙 DB에 집중하고 원칙적으로 각 데이터를 한 번만 저장하며, 어떤 기능이 데이터를 수정하면 즉시 다른 기능에 반영된다.\nD. 정답 — ERP의 모든 데이터는 중앙 DB에 집중 저장된다.",
+      "back_en": "Answer: D\n\nA. Incorrect — ERP data management uses a DBMS, whose hallmark is relative independence of applications and data.\nB. Incorrect — ERP eliminates data redundancy, also a DBMS feature.\nC. Incorrect — ERP centralizes all data in one central database, storing each datum once; a change by any function is immediately reflected in others.\nD. Correct — all ERP data is centrally stored in a central database.",
+      "back_zh": "答案：D\n\nA.不正确。ERP系统的数据管理利用了数据库管理系统，而数据库管理系统的特点是其应用程序和数据相对独立。\nB.不正确。ERP系统消除了数据冗余，这也是数据库管理系统的特征。\nC.不正确。ERP系统将所有的数据都集中在一个中心数据库中，而且每个数据原则上仅存放一次，任何功能对读数据的修改会立即反映到其他功能上。\nD.正确。ERP系统的所有数据集中存放在中心数据库中。",
+      "tags": [
+        "ERP",
+        "데이터 집중화",
+        "DBMS"
+      ]
+    },
+    {
+      "id": "p2-018",
+      "src": "97c55ea02f1b4c678c213aeabfe89b4b",
+      "category": "정보기술 감사 — MRP-II",
+      "category_en": "IT Audit — MRP-II",
+      "category_zh": "信息技术审计 — 制造资源计划",
+      "front": "제조자원계획(MRP-II) 시스템은?\n\nA. 기업 ERP 시스템의 백엔드 기능을 수행한다.\nB. 주생산계획(master production schedule)을 사용한다.\nC. 예측과 예산 기능이 없다.\nD. 기업 ERP 시스템의 프런트엔드 기능을 수행한다.",
+      "front_en": "A manufacturing resource planning (MRP-II) system:\n\nA. Performs the back-end functions of an enterprise ERP system.\nB. Uses a master production schedule.\nC. Lacks forecasting and budgeting.\nD. Performs the front-end functions of an enterprise ERP system.",
+      "front_zh": "制造资源计划（MRP-II）系统\n\nA.完成企业ERP系统的后端功能。\nB.使用一个主产品计划。\nC.缺乏预测和预算。\nD.完成企业ERP系统的前端功能。",
+      "back": "정답: B\n\nA. 오답 — MRP-II는 인사·고객서비스 등 조직 내 모든 하위 시스템(백엔드 기능)을 통합하지는 않는다.\nB. 정답 — MRP-II는 폐쇄형 제조 시스템으로 제품·판매·재고·일정·현금흐름 등 제조 과정 전반과 회계·재무 기능을 포함한다. 특정 기간의 특정 품목을 기술하는 주생산계획을 사용하며, 이는 MRP-II의 구성요소 중 하나다.\nC. 오답 — MRP-II는 현금 등 예산 항목의 예측·계획 능력을 갖는다.\nD. 오답 — MRP-II는 고객·공급자·소유주·채권자·전략 파트너와 연결되는 프런트엔드 기능을 갖지 않는다.",
+      "back_en": "Answer: B\n\nA. Incorrect — MRP-II does not integrate all internal subsystems (back-end functions) such as HR and customer service.\nB. Correct — MRP-II is a closed-loop manufacturing system covering products, sales, inventory, scheduling, cash flow, plus interactive accounting/finance. It uses a master production schedule describing specific items over specific periods — one of MRP-II's components.\nC. Incorrect — MRP-II can generate forecasts and plans for cash and other budget items.\nD. Incorrect — MRP-II lacks front-end functions linking customers, suppliers, owners, creditors, and strategic partners.",
+      "back_zh": "答案：B\n\nA.不正确。MRP-II系统并没有集成组织内部的所有子系统（后端功能），如人力资源及客户服务等。\nB.正确。MRP-II是一个闭合的制造系统，它包含制造过程的各个方面，包括产品、销售、存货、日程和现金流等，也包括互动的会计和财务功能。MRP-II采用主产品计划来描述特定时期内的特定项目，主产品计划是MRP-II系统的部件之一。\nC.不正确。MRP-II具有生成现金及其他预算项的预测和计划能力。\nD.不正确。MRP-II系统不具备与客户、供应商、业主、债权人以及战略伙伴等相连的前端功能。",
+      "tags": [
+        "MRP-II",
+        "주생산계획",
+        "제조시스템"
+      ]
+    },
+    {
+      "id": "p2-019",
+      "src": "fbc466ec02454d928dbbb67037b363d1",
+      "category": "정보기술 감사 — ERPII / 공급망",
+      "category_en": "IT Audit — ERPII / Supply Chain",
+      "category_zh": "信息技术审计 — ERPII/供应链",
+      "front": "차세대 ERP 소프트웨어(ERPII)에 포함된 고급 계획·일정 시스템(APS)은?\n\nA. 소매 판로(판매 장소)를 결정한다.\nB. 조직과 연합체(컨소시엄) 내 다른 구성원을 연결한다.\nC. 공급망을 통해 제조업체의 자재·부품 흐름을 통제한다.\nD. 고객 주문 추적을 구현한다.",
+      "front_en": "The advanced planning and scheduling (APS) system included in next-generation ERP software (ERPII):\n\nA. Determines retail sales locations.\nB. Connects other members within the organization and consortium.\nC. Controls the flow of a manufacturer's materials and parts through the supply chain.\nD. Implements customer order tracking.",
+      "front_zh": "新一代的ERP软件（ERPII）包含的先进的计划和进度安排系统\n\nA.决定零售销路的场所。\nB.连接组织和联合体内的其他成员。\nC.通过供应链控制制造商的材料和部件的流动。\nD.实现对客户订单的跟踪。",
+      "back": "정답: C\n\nA. 오답 — 계획·일정 시스템은 소매 판로를 포함하지 않는다.\nB. 오답 — 파트너 관리 응용은 연합체 구성원(고객·공급자)뿐 아니라 소유주·채권자·전략 동맹 구성원도 연결한다.\nC. 정답 — 고급 계획·일정 시스템은 제조업체 공급망 관리 응용의 요소로, 자재·부품의 사슬 내 흐름을 통제하고 비용·시간·재고에 따라 일정을 잡는다.\nD. 오답 — 고객 주문 추적은 계획·일정 시스템이 아니라 다른 소프트웨어의 기능이다.",
+      "back_en": "Answer: C\n\nA. Incorrect — planning/scheduling does not include retail sales locations.\nB. Incorrect — partner management applications connect not only consortium members (customers/suppliers) but also owners, creditors, and strategic-alliance members.\nC. Correct — APS is an element of the manufacturer's supply chain management application, controlling the flow of materials/parts through the chain and scheduling by cost, time, and inventory.\nD. Incorrect — order tracking is a function of other software, not APS.",
+      "back_zh": "答案：C\n\nA.不正确。计划和进度安排系统不包括零售销路的场所。\nB.不正确。伙伴管理应用不仅连接联合体内的成员（如客户和供应商），还连接业主、债权人和战略联盟成员。\nC.正确。先进的计划和进度安排系统是制造商的供应链管理应用的要素。它控制材料和部件在链内的流动，并根据成本、时间和存货来安排进度。\nD.不正确。计划和进度安排系统不能实现对客户订单的跟踪，这是其他软件的功能。",
+      "tags": [
+        "ERPII",
+        "APS",
+        "공급망관리"
+      ]
+    },
+    {
+      "id": "p2-020",
+      "src": "f0672222e1dc416d9f6de53a3b15fc68",
+      "category": "정보기술 감사 — 변경 통제(클라이언트/서버)",
+      "category_en": "IT Audit — Change Control (Client/Server)",
+      "category_zh": "信息技术审计 — 程序变更控制",
+      "front": "전통적 시스템에서 프로그램 변경 통제는 운영 시스템이 승인된 정확한 버전에서 생성됨을 보장한다. 클라이언트/서버 환경 시스템에서 추가될 수 있는 프로그램 변경 통제 기능은 무엇을 보장하는가?\n\nA. 프로그램 버전이 네트워크 전반에서 동기화된다.\nB. 프로그램 긴급 이동 절차가 문서화되고 준수된다.\nC. 프로그램 변경 테스트에 적절한 사용자가 참여한다.\nD. 테스트 라이브러리에서 운영 라이브러리로의 이관이 통제된다.",
+      "front_en": "In traditional systems, program change control ensures the production system is generated from the approved correct version. In a client/server environment, the additional program change control function ensures:\n\nA. Program versions are synchronized across the entire network.\nB. Emergency program move procedures are documented and followed.\nC. Appropriate users participate in program change testing.\nD. Transfer from the test library to the production library is controlled.",
+      "front_zh": "对于传统的系统，程序变更控制能够保证生产系统是从经批准的程序的正确版本中产生。而在客户机/服务器环境下运行的系统有可能增加的程序变更控制功能是保证\n\nA.程序版本在全网络上同步。\nB.程序紧急移动手续应制成文档并得到遵守。\nC.程序变更测试有适当的用户参与。\nD.从测试库到生产库的传递要受到控制。",
+      "back": "정답: A\n\nA. 정답 — 클라이언트/서버 환경에서는 클라이언트 프로그램이 각 클라이언트에 분산되어, 버전 업그레이드 시 네트워크 전반의 동기화를 보장해야 한다. 그렇지 않으면 구버전 클라이언트가 오작동하거나 서버 데이터에 영향을 줄 수 있다. 메인프레임 환경에서는 프로그램이 주컴퓨터에 집중되어 주컴퓨터만 업그레이드하면 된다.\nB. 오답 — 긴급 변경 규정의 문서화·준수는 두 환경 모두 필요하다.\nC. 오답 — 두 환경 모두 변경 테스트에 사용자 참여가 요구된다.\nD. 오답 — 두 환경 모두 테스트→운영 라이브러리 이관은 통제되어야 한다.",
+      "back_en": "Answer: A\n\nA. Correct — in client/server, client programs are distributed across clients, so upgrades must be synchronized network-wide; otherwise old clients may malfunction or affect server data. On a mainframe, programs are centralized, so only the host needs upgrading.\nB. Incorrect — documenting/following emergency-change rules is needed in both environments.\nC. Incorrect — both environments require user participation in change testing.\nD. Incorrect — both environments must control test-to-production library transfers.",
+      "back_zh": "答案：A\n\nA.正确。客户机/服务器环境下的客户端程序分散在各个客户机中，当升级应用程序版本时，必须保证版本在全网络上的同步，否则旧版的客户程序可能不能正常工作甚至影响到服务器中的数据。而在大型机环境下应用程序集中存放在主机中，只需升级主机中的程序即可。\nB.不正确。客户机/服务器环境和大型机环境都必须制定程序紧急变更的条文规定并要求遵照执行。\nC.不正确。两种环境下都要求用户参与程序变更测试。\nD.不正确。两种环境下从测试库到生产库的传送都应受到控制。",
+      "tags": [
+        "변경통제",
+        "클라이언트/서버",
+        "버전 동기화"
+      ]
+    },
+    {
+      "id": "p2-021",
+      "src": "ec259b28407c4201a7aeb662198500af",
+      "category": "정보기술 감사 — 저장 매체",
+      "category_en": "IT Audit — Storage Media",
+      "category_zh": "信息技术审计 — 存储介质",
+      "front": "대형 조직의 회계 부서에서 CD-ROM이 가장 활용될 가능성이 높은 용도는?\n\nA. EDI 거래의 영구 감사 추적을 제공한다.\nB. 해당 부서가 수신한 문서의 이미지를 보관한다.\nC. 은행에서 반송된 수표의 앞면과 배서를 기록한다.\nD. 회계 표준과 지침을 검색하는 경로를 제공한다.",
+      "front_en": "In a large organization's accounting department, CD-ROM is most likely used to:\n\nA. Provide a permanent audit trail of EDI transactions.\nB. Store images of documents the department receives.\nC. Record the front and endorsement of checks returned by banks.\nD. Provide a means to retrieve accounting standards and guidelines.",
+      "front_zh": "在一个大型组织的会计部门，CD-ROM最有可能被用来\n\nA.提供EDI交易的永久审计线索。\nB.保存该部门收到的文件的图像。\nC.记录从银行退回的支票正面和背书。\nD.提供一个检索会计标准和指南的途径。",
+      "back": "정답: D\n\nA. 오답 — 여러 번 기록이 필요하므로 자기테이프 같은 자성 매체가 EDI 거래의 영구 감사 추적에 더 적합하다.\nB. 오답 — A 해설 참조.\nC. 오답 — A 해설 참조.\nD. 정답 — 회계 표준·지침은 비교적 고정된 정보로, 생산 시 한 번에 압착 성형할 수 있어 CD-ROM에 적합하며 비용이 낮고 배포가 쉽다.",
+      "back_en": "Answer: D\n\nA. Incorrect — because repeated writes are needed, magnetic media like tape are better for a permanent EDI audit trail.\nB. Incorrect — see explanation A.\nC. Incorrect — see explanation A.\nD. Correct — accounting standards/guidelines are relatively fixed information that can be pressed once at production, suiting CD-ROM with low cost and easy distribution.",
+      "back_zh": "答案：D\n\nA.不正确。由于需要多次写入，采用磁带等磁性介质提供EDI交易的永久审计线索更合适。\nB.不正确。见题解A。\nC.不正确。见题解A。\nD.正确。会计标准和指南是一类相对固定的信息，可以在生产时一次模压成型，因此适合采用CD-ROM，成本低且易于分发。",
+      "tags": [
+        "CD-ROM",
+        "저장매체",
+        "회계"
+      ]
+    },
+    {
+      "id": "p2-022",
+      "src": "18d0251b6f43449baf19f8e58385c16f",
+      "category": "정보기술 감사 — 성능 모니터링",
+      "category_en": "IT Audit — Performance Monitoring",
+      "category_zh": "信息技术审计 — 性能监视",
+      "front": "근거리 통신망(LAN)의 응답 시간 악화를 발견하는 데 가장 좋은 방법은?\n\nA. 병행 테스트(parallel testing)\nB. 통합 테스트 설비(ITF)\nC. 성능 모니터링(performance monitoring)\nD. 프로그램 코드 비교 소프트웨어",
+      "front_en": "What is the best method to detect deterioration in LAN response time?\n\nA. Parallel testing\nB. Integrated test facility (ITF)\nC. Performance monitoring\nD. Program code comparison software",
+      "front_zh": "要发现局域网响应时间的恶化情况，应用以下哪种方法最好？\n\nA.平行测试\nB.集成测试设施\nC.性能监视\nD.程序编码比较软件",
+      "back": "정답: C\n\nA. 오답 — 병행 테스트는 신규 시스템 도입 시의 테스트 방법이자 소프트웨어 감사 방법이다.\nB. 오답 — 통합 테스트 설비는 소프트웨어 감사·테스트 방법이다.\nC. 정답 — 성능 모니터링은 거래율·응답시간·고장률 등 운영 결과를 체계적으로 측정·평가한다. 처리 능력 사용 추세를 드러내, 사용자 불만이 생기기 전에 처리 능력을 업그레이드할 수 있게 한다.\nD. 오답 — 프로그램 코드 비교 소프트웨어는 두 코드 파일의 차이를 비교하는 데 쓴다.",
+      "back_en": "Answer: C\n\nA. Incorrect — parallel testing is a method for new-system implementation and software auditing.\nB. Incorrect — an ITF is a software audit/testing method.\nC. Correct — performance monitoring systematically measures and evaluates operating results such as transaction rate, response time, and failure rate, revealing capacity-usage trends so capacity can be upgraded before users become dissatisfied.\nD. Incorrect — code comparison software compares differences between two code files.",
+      "back_zh": "答案：C\n\nA.不正确。平行测试是一种新系统实施时的测试方法，也是一种软件审计方法。\nB.不正确。集成测试设施是一种软件审计和测试方法。\nC.正确。性能监视是对运行结果，如交易速率、响应时间、故障率等进行系统化的测量和评价。性能监视可以揭示出对处理能力的使用趋势，从而可以在用户产生不满之前就对处理能力进行升级。\nD.不正确。程序编码比较软件用于比较两个编码文件之间的异同。",
+      "tags": [
+        "성능 모니터링",
+        "LAN",
+        "감사기법"
+      ]
+    },
+    {
+      "id": "p2-023",
+      "src": "dcb2f535afa24e15ae9cf889ba15bce1",
+      "category": "정보기술 감사 — 네트워크 장비",
+      "category_en": "IT Audit — Network Devices",
+      "category_zh": "信息技术审计 — 网络设备",
+      "front": "이기종(서로 다른) 네트워크를 연결하는 데 사용되는 장비는?\n\nA. 게이트웨이(gateway)\nB. 브리지(bridge)\nC. 라우터(router)\nD. 허브(hub)",
+      "front_en": "The device used to connect heterogeneous (dissimilar) networks is called a:\n\nA. Gateway\nB. Bridge\nC. Router\nD. Hub",
+      "front_zh": "用以连接异构网络的设备叫做\n\nA.网关。\nB.网桥。\nC.路由器。\nD.集线器。",
+      "back": "정답: A\n\nA. 정답 — 게이트웨이는 둘 이상의 서로 다른 프로토콜 체계 사이를 번역해, 서로 다른 유형의 두 네트워크 연결을 가능하게 한다. 보통 소프트웨어로 구현된다.\nB. 오답 — 브리지는 서로 다른 네트워크 세그먼트를 연결해 하나의 물리 세그먼트처럼 보이게 한다.\nC. 오답 — 라우터는 동일 프로토콜의 둘 이상 세그먼트를 연결해 세그먼트 간 통신이 가능하게 한다.\nD. 오답 — 허브는 동일 LAN의 여러 PC를 트위스트페어로 연결한다.",
+      "back_en": "Answer: A\n\nA. Correct — a gateway translates between two or more different protocol suites, enabling connection of two different types of networks; usually implemented in software.\nB. Incorrect — a bridge connects network segments so they appear as one physical segment.\nC. Incorrect — a router connects two or more segments of the same protocol so they can communicate.\nD. Incorrect — a hub connects several PCs on the same LAN via twisted pair.",
+      "back_zh": "答案：A\n\nA.正确。网关在两种或多种不同的协议簇之间进行翻译，从而使两种不同类型网络的连接成为可能。网关通常由软件来实现。\nB.不正确。网桥连接不同网段，并使其显得像是只有一个物理网段。\nC.不正确。路由器连接两个或更多个相同协议的网段，使这些网络段之间可以通讯。\nD.不正确。集线器可与来自同一局域网的几台PC机的双绞线连接。",
+      "tags": [
+        "게이트웨이",
+        "네트워크 장비",
+        "이기종 연결"
+      ]
+    },
+    {
+      "id": "p2-024",
+      "src": "4a43c817fe1f4347b150243db80a555f",
+      "category": "정보기술 감사 — VoIP",
+      "category_en": "IT Audit — VoIP",
+      "category_zh": "信息技术审计 — IP电话",
+      "front": "공중교환전화망(PSTN) 및 가상사설망(VPN)과 비교할 때, IP 전화(VoIP)가 갖는 특성은?\n\nA. VoIP의 모든 통신은 암호화되어 도청이 매우 어렵다.\nB. VPN의 보안성은 PSTN이나 VoIP보다 낮다.\nC. VoIP 시스템을 통해 VoIP 서비스 서버를 공격하는 것은 불가능하다.\nD. VoIP 사용은 컴퓨터 네트워크의 다른 응용 성능을 저하시킬 수 있다.",
+      "front_en": "Compared with PSTN and VPN, which characteristic does IP telephony (VoIP) have?\n\nA. All VoIP communications are encrypted, so wiretapping is very difficult.\nB. VPN is less secure than PSTN or VoIP.\nC. It is impossible to attack a VoIP service server through the VoIP system.\nD. Using VoIP may degrade the performance of other applications on the computer network.",
+      "front_zh": "相对于公共交换电话网络（PSTN）和虚拟专用网（VPN），IP电话（VoIP）具有以下哪一项特性？\n\nA.VoIP上的所有通讯均被加密，因此搭线窃听会很困难。\nB.VPN的安全性不如PSTN或VoIP。\nC.通过VoIP系统来攻击提供VoIP服务的服务器是不可能的。\nD.VoIP的应用可能会降低计算机网络中其他应用的性能。",
+      "back": "정답: D\n\nA. 오답 — 특수 암호화 VoIP 시스템을 쓰지 않는 한 VoIP 통신은 암호화되지 않는다.\nB. 오답 — VPN은 암호화로 통신 정보를 보호하므로 PSTN이나 VoIP보다 보안성이 좋다.\nC. 오답 — VoIP 서버·시스템은 네트워크로 연결되어 충분히 공격받을 수 있다.\nD. 정답 — VoIP는 음성 정보를 디지털화해 컴퓨터 네트워크로 전송하며, 상당한 대역폭을 점유해 보통 네트워크의 다른 응용 성능에 영향을 준다.",
+      "back_en": "Answer: D\n\nA. Incorrect — unless a special encrypted VoIP system is used, VoIP communications are not encrypted.\nB. Incorrect — VPN uses encryption to protect communications, so it is more secure than PSTN or VoIP.\nC. Incorrect — VoIP servers/systems are network-connected and can certainly be attacked.\nD. Correct — VoIP digitizes voice and transmits it over the computer network, consuming significant bandwidth and usually affecting other applications' performance.",
+      "back_zh": "答案：D\n\nA.不正确。除非采用特殊的加密VoIP系统，否则VoIP系统的通讯是不加密的。\nB.不正确。VPN采用加密技术来保证通讯信息的安全，因此其安全性比PSTN或VoIP要好。\nC.不正确。VoIP服务器和VoIP系统通过网络连接，完全有可能遭受攻击。\nD.正确。VoIP将语音信息数字化后通过计算机网络传输，需要占用较大的带宽，通常会影响网络中其他应用的性能。",
+      "tags": [
+        "VoIP",
+        "네트워크 성능",
+        "대역폭"
+      ]
+    },
+    {
+      "id": "p2-025",
+      "src": "d9caac99c50a42479a6a64f72b4f4676",
+      "category": "정보기술 감사 — 전략적 IT 의사결정",
+      "category_en": "IT Audit — Strategic IT Decisions",
+      "category_zh": "信息技术审计 — 战略IT决策",
+      "front": "한 금융서비스 회사 경영진이 고객서비스 기능 강화를 위해 기존 LAN을 확장하는 전략적 결정을 검토 중이다. 확장 시스템의 측면 중 경영진에게 가장 덜 중요한 전략적 문제는?\n\nA. 확장 시스템이 사업 목표를 달성하는 정도를 측정할 지표를 어떻게 개발할 것인가.\nB. 확장 시스템이 회사의 장기 사업 계획에 어떻게 기여하는가.\nC. 확장 시스템이 일상 업무 운영을 어떻게 지원하는가.\nD. 확장 시스템이 운영 비용 절감에 어떻게 기여하는가.",
+      "front_en": "A financial services firm's management is considering a strategic decision to expand its LAN to enhance customer service. Which aspect of the expanded system is the LEAST important strategic issue for management?\n\nA. How to develop metrics to measure the expanded system's achievement of business goals.\nB. How the expanded system contributes to the company's long-term business plan.\nC. How the expanded system supports daily business operations.\nD. How the expanded system helps reduce operating costs.",
+      "front_zh": "一家金融服务公司的管理层正在考虑一项有关扩展其现有局域网（LAN）的战略决策，以增强公司的客户服务功能。扩展后系统的下列哪方面对管理层来说是最不重要的战略问题？\n\nA.如何开发指标来衡量扩展系统实现其业务目标的情况。\nB.扩展后的系统如何有助于公司的长期业务计划。\nC.扩展后的系统如何支持日常业务运作。\nD.扩展后的系统将如何有助于降低运营成本。",
+      "back": "정답: D\n\nA. 오답 — 확장 시스템이 사업 목표를 달성할 수 있는지는 중요한 전략적 문제다.\nB. 오답 — 전략적 관점에서 확장 시스템은 장기 사업 발전 계획에 기여해야 한다.\nC. 오답 — 고객서비스 기능은 일상 업무 운영에 속하며 확장의 주된 목적이다.\nD. 정답 — 비용 절감 자체는 가장 덜 중요한 문제다. 투자수익(ROI) 또는 비용 대비 효익이 더 관련성 높은 전략적 고려사항이다.",
+      "back_en": "Answer: D\n\nA. Incorrect — whether the system achieves business goals is an important strategic issue.\nB. Incorrect — strategically, the system should support the long-term business plan.\nC. Incorrect — customer service is daily operations and the main purpose of the expansion.\nD. Correct — cost reduction itself is the least important issue; return on investment / cost-benefit is a more relevant strategic consideration.",
+      "back_zh": "答案：D\n\nA.不正确。扩展系统是否能够实现其业务目标是重要的战略问题。\nB.不正确。从战略角度看，扩展后的系统应有助于公司的长期业务发展计划。\nC.不正确。客户服务功能属于日常业务运作，是扩展系统的主要目的。\nD.正确。削减成本本身是最不重要的问题。回报或成本回报是一个更相关的战略考虑。",
+      "tags": [
+        "전략적 IT",
+        "비용 절감",
+        "ROI"
+      ]
+    },
+    {
+      "id": "p2-026",
+      "src": "d2c8d58c94664253ac3cfc177724d2c2",
+      "category": "정보기술 감사 — 직무 분리(정보보안 책임자)",
+      "category_en": "IT Audit — Segregation of Duties (ISO)",
+      "category_zh": "信息技术审计 — 信息安全主管职责",
+      "front": "다음 중 정보보안 책임자의 직무가 아닌 것은? (한 가지 제외)\n\nA. 조직의 정보보안 정책 수립\nB. 사용자 비밀번호 목록 유지·갱신\nC. 신규 애플리케이션 소프트웨어의 보안 통제 평가\nD. 실패한 접근 시도의 모니터링·조사",
+      "front_en": "Which of the following is NOT a duty of the information security officer?\n\nA. Establishing the organization's information security policy.\nB. Maintaining and updating the user password list.\nC. Evaluating security controls in new application software.\nD. Monitoring and investigating unsuccessful access attempts.",
+      "front_zh": "以下除哪项外都是信息安全主管的职责？\n\nA.制定组织的信息安全政策。\nB.维护和更新用户密码列表。\nC.评价新应用软件中的安全控制。\nD.监测和调查不成功的访问企图。",
+      "back": "정답: B\n\nA. 오답 — 정보보안 정책 수립은 정보보안 책임자의 직무다.\nB. 정답 — 사용자 비밀번호 목록의 유지·변경은 사용자 본인이 수행해야 한다.\nC. 오답 — 신규 애플리케이션의 보안 통제 평가는 정보보안 책임자의 직무다.\nD. 오답 — 실패한 접근 시도의 모니터링·조사는 정보보안 책임자의 직무다.",
+      "back_en": "Answer: B\n\nA. Incorrect — setting the security policy is the security officer's duty.\nB. Correct — maintaining/changing the user password list should be done by users themselves.\nC. Incorrect — evaluating security controls in new applications is the officer's duty.\nD. Incorrect — monitoring/investigating failed access attempts is the officer's duty.",
+      "back_zh": "答案：B\n\nA.不正确。制定组织的信息安全政策是信息安全主管的职责。\nB.正确。维护和更改用户密码列表应由用户自己完成。\nC.不正确。评价新应用软件中的安全控制是信息安全主管的职责。\nD.不正确。对失败的访问企图进行监测和调查是信息安全主管的职责。",
+      "tags": [
+        "정보보안 책임자",
+        "직무분리",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p2-027",
+      "src": "ae9e455d9f15462b9cb0eb10199bc6de",
+      "category": "정보기술 감사 — IT 조직(헬프데스크)",
+      "category_en": "IT Audit — IT Organization (Help Desk)",
+      "category_zh": "信息技术审计 — 计算机帮助平台",
+      "front": "조직의 컴퓨터 헬프데스크(지원 데스크) 기능은 보통 어느 부서가 담당하는가?\n\nA. 응용 개발 부서\nB. 시스템 프로그래밍 부서\nC. 컴퓨터 운영 부서\nD. 사용자 부서",
+      "front_en": "An organization's computer help desk function is usually the responsibility of which department?\n\nA. Application development\nB. Systems programming\nC. Computer operations\nD. User department",
+      "front_zh": "一个组织的计算机帮助平台功能通常由哪个部门负责？\n\nA.应用开发部门。\nB.系统编程部门。\nC.计算机运行部门。\nD.用户部门。",
+      "back": "정답: C\n\nA. 오답 — 응용 개발 부서는 시스템 개발을 담당한다.\nB. 오답 — 시스템 프로그래밍 부서는 시스템 프로그램 설계를 담당한다.\nC. 정답 — 컴퓨터 운영 부서는 시스템의 일상 운영·유지를 담당하며, 컴퓨터 헬프데스크는 그 기능 중 하나다.\nD. 오답 — 사용자 부서는 컴퓨터 시스템의 조작·사용을 담당한다.",
+      "back_en": "Answer: C\n\nA. Incorrect — application development handles system development.\nB. Incorrect — systems programming handles system program design.\nC. Correct — computer operations handles day-to-day operation and maintenance; the help desk is one of its functions.\nD. Incorrect — the user department operates and uses the system.",
+      "back_zh": "答案：C\n\nA.不正确。应用开发部门负责系统的开发。\nB.不正确。系统编程部门负责系统的程序设计。\nC.正确。计算机运行部门负责系统的日常运行维护，计算机帮助平台是其功能之一。\nD.不正确。用户部门负责操作和使用计算机系统。",
+      "tags": [
+        "헬프데스크",
+        "IT조직",
+        "컴퓨터 운영"
+      ]
+    },
+    {
+      "id": "p2-028",
+      "src": "06cd4e73b91848e8a5c32c48440cd953",
+      "category": "정보기술 감사 — IT 역할(시스템 분석가)",
+      "category_en": "IT Audit — IT Roles (Systems Analyst)",
+      "category_zh": "信息技术审计 — 系统分析员",
+      "front": "대형 조직이 내부에서 널리 쓰일 신규 애플리케이션을 개발할 때, 정보시스템 부서와 다른 부서 간 주요 연락 담당자는 보통 누구인가?\n\nA. 최종 사용자\nB. 응용 프로그래머\nC. 유지보수 프로그래머\nD. 시스템 분석가",
+      "front_en": "When a large organization develops a new application for wide internal use, the main liaison between the IS department and other departments is usually the:\n\nA. End user\nB. Application programmer\nC. Maintenance programmer\nD. Systems analyst",
+      "front_zh": "一个大型组织在开发一个内部广泛使用的新应用程序的时候，信息系统部门与其他部门之间的主要联络人通常是\n\nA.终端用户。\nB.应用程序员。\nC.维护程序员。\nD.系统分析员。",
+      "back": "정답: D\n\nA. 오답 — 최종 사용자는 정보시스템을 사용한다.\nB. 오답 — 응용 프로그래머는 요구분석 보고서에 따라 기능을 설계·코딩한다.\nC. 오답 — 유지보수 프로그래머는 운영 중 드러난 소프트웨어 결함을 수정한다.\nD. 정답 — 시스템 분석가는 시스템 요구분석을 담당하며, 요구분석 시 다른 업무 부서와 끊임없이 교류해야 하므로 보통 정보시스템 부서와 타 부서 간 주요 연락 담당자가 된다.",
+      "back_en": "Answer: D\n\nA. Incorrect — end users use the information system.\nB. Incorrect — application programmers design and code functions per the requirements report.\nC. Incorrect — maintenance programmers fix defects exposed during operation.\nD. Correct — the systems analyst handles requirements analysis and must constantly interact with other business departments, so they typically serve as the main liaison.",
+      "back_zh": "答案：D\n\nA.不正确。终端用户使用信息系统。\nB.不正确。应用程序员根据需求分析报告设计并编码实现系统功能。\nC.不正确。维护程序员负责修复系统运行过程中暴露的软件故障。\nD.正确。系统分析员负责系统的需求分析，在进行需求分析时需要不断和其他业务部门进行交流，因此通常成为信息系统部门与其他部门之间的主要联络人。",
+      "tags": [
+        "시스템 분석가",
+        "IT역할",
+        "연락 담당"
+      ]
+    },
+    {
+      "id": "p2-029",
+      "src": "b5ef3eeedc664d7f88f48ab812f831a5",
+      "category": "정보기술 감사 — IT 운영 위험(헬프데스크)",
+      "category_en": "IT Audit — IT Operations Risk (Help Desk)",
+      "category_zh": "信息技术审计 — 帮助平台风险",
+      "front": "대형 조직에서 정보센터 헬프데스크에 인력이 충분히 배치되지 않을 때의 가장 큰 위험은?\n\nA. 애플리케이션 감사 수행의 난도가 높아진다.\nB. 애플리케이션 시스템의 문서가 부족해진다.\nC. 미인가 프로그램 코드 사용 가능성이 높아진다.\nD. 사용자가 시스템 조작 시 오류를 계속 일으킨다.",
+      "front_en": "In a large organization, the greatest risk of understaffing the information center help desk is:\n\nA. Increased difficulty of performing application audits.\nB. Insufficient documentation of application systems.\nC. Increased likelihood of using unauthorized program code.\nD. Users continually making errors when operating the system.",
+      "front_zh": "在一个大型组织里，信息中心帮助平台没有配备足够人员的最大风险是\n\nA.增加了实施应用审计的难度。\nB.应用系统缺乏足够的文档。\nC.增加了使用未经授权的程序代码的可能性。\nD.用户操作系统时不断出现错误。",
+      "back": "정답: D\n\nA. 오답 — 헬프데스크 인력 충분 여부와 무관하게 애플리케이션 감사 난도는 동일하다.\nB. 오답 — 문서 작성은 개발 기능이지 헬프데스크 기능이 아니다.\nC. 오답 — 미인가 코드 사용 가능성은 헬프데스크가 아니라 변경 통제의 기능 영역이다.\nD. 정답 — 인력 부족의 가장 큰 위험은 사용자가 시스템과 상호작용하면서 무의식적으로 계속 오류를 내는 것이다.",
+      "back_en": "Answer: D\n\nA. Incorrect — application audit difficulty is the same regardless of help desk staffing.\nB. Incorrect — documentation is a development function, not a help desk function.\nC. Incorrect — the likelihood of unauthorized code use falls under change control, not the help desk.\nD. Correct — the greatest risk of understaffing is users unconsciously making continual errors while interacting with the system.",
+      "back_zh": "答案：D\n\nA.不正确。无论帮助平台是否配备足够的人员，应用审计的难度是相同的。\nB.不正确。文档制作是开发职能，而不是帮助平台的职能。\nC.不正确。使用未经许可程序代码的可能性也不是帮助平台的职能，而是变更控制的职能。\nD.正确。信息中心帮助平台没有配备足够人员的最大风险是用户在和系统交互过程中将无意识地持续出错。",
+      "tags": [
+        "헬프데스크",
+        "IT운영 위험",
+        "사용자 오류"
+      ]
+    },
+    {
+      "id": "p2-030",
+      "src": "70e914cc88bf467fa21e51017daa0152",
+      "category": "정보기술 감사 — 시스템 개발 통제",
+      "category_en": "IT Audit — Systems Development Controls",
+      "category_zh": "信息技术审计 — 实施控制",
+      "front": "사용자와 관리자가 최초 제안, 설계 계획, 전환 계획, 정보시스템 테스트 계획을 모두 승인해야 한다. 이는 다음 중 어떤 통제의 예인가?\n\nA. 구현 통제(implementation control)\nB. 하드웨어 통제\nC. 컴퓨터 운영 통제\nD. 데이터 보안 통제",
+      "front_en": "Users and management must approve the initial proposal, design plan, conversion plan, and IS test plan. This is an example of which control?\n\nA. Implementation control\nB. Hardware control\nC. Computer operations control\nD. Data security control",
+      "front_zh": "用户和管理人员都需认可最初的建议、设计规划、转换计划和信息系统测试计划。这是以下哪项控制的例证？\n\nA.实施控制。\nB.硬件控制。\nC.计算机运行控制。\nD.数据安全性控制。",
+      "back": "정답: A\n\nA. 정답 — 구현 통제는 시스템 개발 과정의 각 단계에 존재하여, 시스템 구현이 적절한 통제·관리하에 있도록 보장한다.\nB. 오답 — 하드웨어 통제는 컴퓨터 하드웨어의 물리적 안전 보장과 장비 고장 점검에 쓰인다.\nC. 오답 — 컴퓨터 운영 통제는 컴퓨터 부서 업무에 적용되어, 프로그램화된 작업 규정이 데이터 저장·처리 과정에서 일관되고 정확하게 수행되도록 보장한다.\nD. 오답 — 데이터 보안 통제는 디스크·테이프의 데이터 파일이 불법 접근·수정·파괴되지 않도록 보장한다.",
+      "back_en": "Answer: A\n\nA. Correct — implementation controls exist at every stage of system development to ensure implementation is under proper control and management.\nB. Incorrect — hardware controls ensure physical safety of hardware and check equipment faults.\nC. Incorrect — computer operations controls apply to the computer department's work, ensuring programmed job procedures are performed consistently and correctly during data storage/processing.\nD. Incorrect — data security controls ensure data files on disk/tape are not illegally accessed, modified, or destroyed.",
+      "back_zh": "答案：A\n\nA.正确。实施控制应存在于系统开发过程的各个环节，以确保系统实施处于适当的控制和管理之下。\nB.不正确。硬件控制用以保证计算机硬件的物理安全和检查设备的故障。\nC.不正确。计算机运行控制应用在计算机部门的工作中，保证程序化的作业规程在数据的存储和处理过程中得到一贯正确地执行。\nD.不正确。数据安全性控制保证在磁盘或磁带上的数据文件不被非法访问、修改或毁坏。",
+      "tags": [
+        "구현 통제",
+        "SDLC",
+        "승인"
+      ]
+    },
+    {
+      "id": "p2-031",
+      "src": "624585c4ca51429180d014624ec8feaf",
+      "category": "정보기술 감사 — 입력 통제(검사 숫자)",
+      "category_en": "IT Audit — Input Controls (Check Digit)",
+      "category_zh": "信息技术审计 — 校验数位",
+      "front": "불법 데이터 입력을 막기 위해 한 은행이 각 계좌번호 끝에 숫자 하나를 추가하고 그 추가 숫자에 일종의 계산을 수행한다. 이 기법은?\n\nA. 광학 문자 인식(OCR)\nB. 검사 숫자(check digit)\nC. 상관성 검사(correlation check)\nD. 형식 검사(format check)",
+      "front_en": "To prevent invalid data entry, a bank appends a digit to the end of each account number and performs a calculation on that added digit. This technique is called:\n\nA. Optical character recognition (OCR)\nB. Check digit\nC. Correlation check\nD. Format check",
+      "front_zh": "为了避免非法数据的输入，某银行在每个账号结尾新加一个数字并对新加的数字进行一种计算，此种技术被称为：\n\nA.光学字符识别。\nB.校验数位。\nC.相关性检验。\nD.格式检验。",
+      "back": "정답: B\n\nA. 오답 — OCR은 인쇄 문자를 컴퓨터가 인식하는 내부 코드로 변환한다.\nB. 정답 — 검사 숫자는 어떤 필드에 일정 계산을 수행해 얻어 그 필드 뒤에 덧붙이는 검사 비트다. 검사 비트를 재계산해 원래 값과 비교하면 필드 내용 변화 여부를 발견할 수 있다.\nC. 오답 — 상관성 검사는 여러 필드 간 어떤 연관 존재를 확인해 내용 정확성을 판단한다.\nD. 오답 — 형식 검사는 필드 내용이 특정 형식(예: 날짜 YYYY:MM:DD)을 따르는지 확인한다.",
+      "back_en": "Answer: B\n\nA. Incorrect — OCR converts printed characters into internal code the computer recognizes.\nB. Correct — a check digit is a verification bit derived by a calculation on a field and appended to it; recomputing and comparing it detects whether the field's content has changed.\nC. Incorrect — a correlation check verifies associations among multiple fields to judge content accuracy.\nD. Incorrect — a format check verifies a field follows a specific format (e.g., date as YYYY:MM:DD).",
+      "back_zh": "答案：B\n\nA.不正确。光学字符识别将印刷字符转换成计算机可以识别的内部代码。\nB.正确。校验数位是对某字段进行某种计算后得出，并附加在该字段之后的校验位。通过重新计算校验位并和原校验位进行比较，可以发现该字段内容是否已发生变化。\nC.不正确。相关性检验用于检查多个字段之间是否存在某种关联，来判断字段内容的正确性。\nD.不正确。格式检验用于检查字段内容是否遵循某种特定的格式，如日期字段应该具有如下格式：YYYY:MM:DD。",
+      "tags": [
+        "검사 숫자",
+        "입력 통제",
+        "데이터 무결성"
+      ]
+    },
+    {
+      "id": "p2-032",
+      "src": "8fa6f072335d4032a3b0bed39294213d",
+      "category": "정보기술 감사 — 통제 수준 결정 기준",
+      "category_en": "IT Audit — Determining Control Levels",
+      "category_zh": "信息技术审计 — 控制标准",
+      "front": "애플리케이션 시스템에 얼마나 많은 통제를 둘지 결정하는 기준에 포함되지 않는 것은?\n\nA. 시스템 내 데이터의 중요성\nB. 네트워크 모니터링 소프트웨어 적용의 타당성\nC. 어떤 활동·처리가 적절히 통제되지 않을 때 발생하는 위험 수준\nD. 각 통제 조치의 효율성·복잡성·비용",
+      "front_en": "Which is NOT among the criteria for determining how many controls an application system needs?\n\nA. The importance of the data in the system.\nB. The feasibility of applying network monitoring software.\nC. The level of risk from an activity/process not being properly controlled.\nD. The efficiency, complexity, and cost of each control measure.",
+      "front_zh": "用来确定应用程序系统需要建立多少控制的标准不包括以下哪项内容？\n\nA.数据在系统中的重要性。\nB.应用网络监测软件的可行性。\nC.某项活动或处理没有受到适当控制所产生的风险水平。\nD.每种控制措施的效率、复杂性和费用。",
+      "back": "정답: B\n\nA. 오답 — 예컨대 증권거래소의 주식 매매 추적 시스템 같은 중요한 재무·회계 시스템은 직원 교육·기량 기록 시스템보다 더 높은 통제 기준을 가져야 한다.\nB. 정답 — 네트워크 모니터링 소프트웨어는 애플리케이션 시스템 내부 통제에 관여하지 않는다.\nC. 오답 — 문제 발생 빈도와 잠재적 피해가 시스템 내 통제 수준을 결정해야 한다.\nD. 오답 — 예컨대 매일 수만 건의 결제를 처리하는 시스템에서 전수 항목 검사는 너무 시간이 들어 비현실적이나, 금액·계좌 같은 핵심 데이터만 검사하면 가능할 수 있다.",
+      "back_en": "Answer: B\n\nA. Incorrect — e.g., a critical financial/accounting system such as a stock-exchange trade-tracking system must have higher control standards than a system recording employee training and skills.\nB. Correct — network monitoring software does not participate in an application system's internal controls.\nC. Incorrect — frequency of problems and potential harm should determine how many controls a system has.\nD. Incorrect — e.g., in a system processing tens of thousands of payments daily, full item-by-item checking may be too time-consuming, but checking only key data (amount, account) may be feasible.",
+      "back_zh": "答案：B\n\nA.不正确。例如，重要的财务和会计系统，如证券交易所的股票买卖跟踪系统，相对于记录员工培训和技能的系统而言，必须具有更高的控制标准。\nB.正确。网络监测软件并不参与应用系统内部的控制。\nC.不正确。问题的发生频率及其潜在的危害应决定在一个系统中建立多少控制。\nD.不正确。例如，在一个每天处理成千上万笔支付业务的系统中，全面的逐项检查可能过于费时而不可操作，但如仅检查关键的数据则可能是可行的，如检查金额、账号而忽略姓名和地址。",
+      "tags": [
+        "통제 수준",
+        "위험 기반",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p2-033",
+      "src": "d2200f66f8be4855aaed3c0d9aa6aafc",
+      "category": "정보기술 감사 — 통제 프레임워크(SAC)",
+      "category_en": "IT Audit — Control Frameworks (SAC)",
+      "category_zh": "信息技术审计 — SAC控制框架",
+      "front": "IIA의 SAC 통제 프레임워크에서 '책임성(accountability)'이 의미하는 것은?\n\nA. 영업 비밀 및 기타 지식재산과 관련된 속성\nB. 거래의 출처를 확인할 수 있는 통제 속성\nC. 데이터 처리·저장 장비에 대한 접근 제한\nD. 직원·고객의 개인 정보와 관련된 속성",
+      "front_en": "In the IIA's SAC control framework, 'accountability' refers to:\n\nA. Attributes related to trade secrets and other intellectual property.\nB. A control attribute that can determine the source of a transaction.\nC. Restricting access to data processing and storage equipment.\nD. Attributes related to personal information of employees and customers.",
+      "front_zh": "根据IIA的SAC控制框架，\"责任\"是指\n\nA.与商业机密和其他知识产权相关的属性。\nB.可以确定交易来源的控制属性。\nC.对数据处理设备和存储设备的访问限制。\nD.与员工和客户的个人信息相关的属性。",
+      "back": "정답: B\n\nA. 오답 — 영업 비밀·지식재산 관련 속성은 기밀성(confidentiality)과 관련된다.\nB. 정답 — '책임성'은 거래의 출처를 확인할 수 있는 통제 속성으로, 직원의 역할·행동·책임을 규정한다. 사용자 책임 속성은 데이터 소유자 관계, 접근자의 신원·검증으로 확정될 수 있다.\nC. 오답 — 데이터 처리·저장 장비 접근 제한은 물리적 보안과 관련된다.\nD. 오답 — 직원·고객 개인 정보 관련 속성은 프라이버시와 관련된다.",
+      "back_en": "Answer: B\n\nA. Incorrect — attributes related to trade secrets/IP relate to confidentiality.\nB. Correct — 'accountability' is a control attribute that determines a transaction's source, defining employees' roles, actions, and responsibilities; it can be established via data-owner relationships and accessor identification/verification.\nC. Incorrect — restricting access to equipment relates to physical security.\nD. Incorrect — attributes about employee/customer personal information relate to privacy.",
+      "back_zh": "答案：B\n\nA.不正确。与商业机密和其他知识产权相关的属性与机密性相关。\nB.正确。\"责任\"是一种可以确定交易来源的控制属性。它确定员工的角色、行动和责任。用户责任属性可以由数据的所有者关系、访问者的身份与验证来确定。\nC.不正确。对数据处理设备和存储设备的访问限制与物理安全相关。\nD.不正确。与员工与客户的个人信息相关的属性与个人隐私相关。",
+      "tags": [
+        "SAC",
+        "책임성",
+        "통제 프레임워크"
+      ]
+    },
+    {
+      "id": "p2-034",
+      "src": "d0db88ad7c084465b6045cb954519f36",
+      "category": "정보기술 감사 — 통제 프레임워크(COBIT)",
+      "category_en": "IT Audit — Control Frameworks (COBIT)",
+      "category_zh": "信息技术审计 — COBIT",
+      "front": "COBIT란?\n\nA. IT 프로세스에 효과적 통제를 실시하기 위한 보조 지침이다.\nB. 위험 및 기술적 도전에 대한 대응이다.\nC. 이전의 시스템 감사가능성·통제 보고서에 대한 개정이다.\nD. COSO 위원회가 출판·발행한다.",
+      "front_en": "COBIT is:\n\nA. A supporting guideline for implementing effective control over IT processes.\nB. A response to risk and technical challenges.\nC. A revision of the earlier Systems Auditability and Control report.\nD. Published and issued by the COSO committee.",
+      "front_zh": "COBIT是\n\nA.对IT流程实施有效控制的辅助指南。\nB.对风险及对技术挑战的反应。\nC.对以前的系统可审计性与控制报告的修订。\nD.由COSO委员会出版发行。",
+      "back": "정답: A\n\nA. 정답 — COBIT은 정보시스템 감사·통제 재단(ISACF)이 제정한 IT 통제 프레임워크다. 관리자·실무자가 IT 프로세스와 자원에 통제를 실시하도록 돕는 지침을 제공하며, IT 거버넌스 도구로 설계되어 조직의 정보 및 IT 관련 위험·이익을 이해·관리하는 데 도움을 준다.\nB. 오답 — 위험·기술적 도전에 대한 대응은 eSAC의 특징이다.\nC. 오답 — SAC(Systems Auditability and Control)를 개정한 것은 'Systems Assurance and Control'이다.\nD. 오답 — COBIT은 ISACA가 출판·발행한다.",
+      "back_en": "Answer: A\n\nA. Correct — COBIT is an IT control framework developed by the ISACF. It provides guidelines to help managers and practitioners control IT processes and resources, designed as an IT governance tool to understand and manage information and IT-related risks/benefits.\nB. Incorrect — responding to risk/technical challenges is a feature of eSAC.\nC. Incorrect — 'Systems Assurance and Control' is the upgrade of Systems Auditability and Control (SAC).\nD. Incorrect — COBIT is published by ISACA.",
+      "back_zh": "答案：A\n\nA.正确。COBIT是由信息系统审计与控制基金会制定的一种IT控制框架。COBIT提供了一套指南来协助管理人员和业务人员对IT流程和资源实施控制。COBIT被设计成一种IT治理工具，有助于理解和管理组织中的信息及与IT相关的风险与利益。\nB.不正确。对风险及对技术挑战的反应是eSAC的特征。\nC.不正确。Systems Assurance and Control才是对Systems Auditability and Control的升级。\nD.不正确。COBIT是由ISACA出版发行的。",
+      "tags": [
+        "COBIT",
+        "ISACA",
+        "IT 거버넌스"
+      ]
+    },
+    {
+      "id": "p2-035",
+      "src": "cb2f404216b84387af7f9be751e2de78",
+      "category": "정보기술 감사 — COBIT 원칙",
+      "category_en": "IT Audit — COBIT Principles",
+      "category_zh": "信息技术审计 — COBIT原则",
+      "front": "COBIT에 관한 다음 설명 중 틀린 것은?\n\nA. 다른 거버넌스 프레임워크에 매끄럽게 통합되어 단일한 조직 지침 출처를 제공할 수 있다.\nB. 기업의 IT 거버넌스·관리 요구에 대한 전체적(통합) 해결책을 제공할 수 있다.\nC. 거버넌스와 관리의 융합(통합) 강화에 중점을 둔다.\nD. 전문가가 IT 프로세스 관리의 결함을 지적하도록 도울 수 있다.",
+      "front_en": "Which statement about COBIT is FALSE?\n\nA. It can integrate seamlessly into other governance frameworks to provide a single source of organizational guidance.\nB. It can provide a holistic solution for the enterprise's IT governance and management needs.\nC. It focuses on strengthening the fusion (merging) of governance and management.\nD. It can help professionals identify deficiencies in IT process management.",
+      "front_zh": "关于COBIT，下列哪项说法是错误的？\n\nA.它可以无缝集成到其他治理框架中以提供单一的组织指导来源。\nB.它可以为企业的IT治理和管理需要提供整体解决方案。\nC.它侧重于强化治理与管理的凝聚。\nD.它可以帮助专业人员指出IT流程管理的缺陷。",
+      "back": "정답: C\n\nA. 오답 — COBIT의 세 번째 원칙은 단일 통합 프레임워크 적용으로, 다른 거버넌스 프레임워크와 통합해 단일 지침 출처를 제공한다.\nB. 오답 — 네 번째 원칙은 전체적·포괄적 접근으로, IT 거버넌스·관리 요구에 통합 해결책을 제공한다.\nC. 정답 — 다섯 번째 원칙은 거버넌스와 관리를 '융합'이 아니라 '구분'하는 것이다. 계획부터 운영 단계까지 COBIT은 IT의 조직 전략적 역할을 이해하는 전체적 접근을 제공한다.\nD. 오답 — COBIT의 목적은 이해관계자 이익의 균형 실현을 통해 조직의 효과적 IT 관리를 돕는 것이다.",
+      "back_en": "Answer: C\n\nA. Incorrect — COBIT's 3rd principle is applying a single integrated framework, integrating with other governance frameworks for a single source of guidance.\nB. Incorrect — the 4th principle is a holistic approach, providing an integrated solution for IT governance/management needs.\nC. Correct (the false statement) — the 5th principle SEPARATES governance from management rather than merging them. From planning to operations, COBIT offers a holistic approach to understanding IT's role in organizational strategy.\nD. Incorrect — COBIT aims to help organizations achieve effective IT management by balancing stakeholder interests.",
+      "back_zh": "答案：C\n\nA.不正确。COBIT模型的第三个原则是运用单一集成框架，即可与其他治理框架集成，以为组织提供单一的指导来源。\nB.不正确。COBIT模型的第四个原则是采用一个整体全面的方法，从而为企业的IT治理和管理需要提供一种整体解决方案。\nC.正确。COBIT模型的第五个原则是将治理与管理区分开而不是凝聚。从计划到运营阶段，COBIT提供了一种整体方法来理解IT在组织战略中的角色。\nD.不正确。COBIT的目的是通过平衡来实现利益相关者的利益，帮助组织实现有效的IT管理。",
+      "tags": [
+        "COBIT",
+        "원칙",
+        "거버넌스/관리 분리"
+      ]
+    },
+    {
+      "id": "p2-036",
+      "src": "d60ef290870843acbb0d9b38317e1e6e",
+      "category": "정보기술 감사 — 재해복구계획(DRP)",
+      "category_en": "IT Audit — Disaster Recovery Plan",
+      "category_zh": "信息技术审计 — 灾难恢复计划",
+      "front": "좋은 계획은 중단 후 컴퓨터 운영 복구에 도움이 된다. 좋은 재해복구계획이 보장해야 하는 것은?\n\nA. 백업/재시작 절차가 작업 흐름과 프로그램에 내장되어 있다.\nB. 변경 통제 절차가 운영자에 의해 우회되지 않는다.\nC. 장비 작업 능력 변경 계획이 설계된 작업량과 양립한다.\nD. 애플리케이션 소유자와 서비스 수준에 관한 서면 협약을 맺는다.",
+      "front_en": "Good planning helps an organization recover computer operations after a disruption. A good disaster recovery plan should ensure:\n\nA. Backup/restart procedures are embedded in the job stream and programs.\nB. Change control procedures are not bypassed by operators.\nC. Equipment capability change plans are compatible with the designed workload.\nD. A written service-level agreement is reached with application owners.",
+      "front_zh": "良好的计划可以帮助组织在处理中断之后恢复计算机操作。良好的灾难恢复计划应该确保\n\nA.备份/重启程序已嵌入作业流和程序中。\nB.变更控制程序不会被操作人员所绕过。\nC.对设备工作能力的变更计划与设计好的工作量相容。\nD.与应用程序所有者达成服务级别的书面协议。",
+      "back": "정답: A\n\nA. 정답 — 백업/재시작 절차는 재해복구계획의 구성 요소다.\nB. 오답 — 재해복구계획 설계 시 변경 통제 절차의 유효성을 신경 쓸 필요가 없다.\nC. 오답 — 재해복구계획 설계 시 장비 능력 변경 계획이 설계 작업량과 양립하는지 신경 쓸 필요가 없다.\nD. 오답 — 애플리케이션 소유자와의 서비스 수준 서면 협약은 매우 필요하지만 재해복구계획과는 무관하다.",
+      "back_en": "Answer: A\n\nA. Correct — backup/restart procedures are a component of a disaster recovery plan.\nB. Incorrect — DRP design need not concern itself with the effectiveness of change control procedures.\nC. Incorrect — DRP design need not concern whether equipment capacity change plans match the designed workload.\nD. Incorrect — a written SLA with application owners is necessary but unrelated to the DRP.",
+      "back_zh": "答案：A\n\nA.正确。备份/重启程序是一个灾难恢复计划的构成要素。\nB.不正确。设计灾难恢复计划时无需关心变更控制程序的有效性。\nC.不正确。设计灾难恢复计划时无需关心设备能力的变更计划是否与设计好的工作量相容。\nD.不正确。与应用程序所有者达成服务级别的书面协议虽然十分必要，但这与灾难恢复计划没有关系。",
+      "tags": [
+        "재해복구",
+        "백업/재시작",
+        "DRP"
+      ]
+    },
+    {
+      "id": "p2-037",
+      "src": "d05b0a22496f4d8a88a77467ce5b29c6",
+      "category": "정보기술 감사 — 재해복구계획 유지관리",
+      "category_en": "IT Audit — DRP Maintenance",
+      "category_zh": "信息技术审计 — 灾难恢复计划维护",
+      "front": "어떤 회사의 애플리케이션 시스템은 24시간 가동되어야 한다. 경영진과 IS 부서가 재해복구계획의 적시성·유효성 확보에 큰 노력을 기울였다. 이 회사 재해복구계획의 중요한 측면 하나는 무엇을 보장하는가?\n\nA. 조직·운영상의 변동이 복구 계획에 반영된다.\nB. 시스템 변경이 운영 투입 전에 전면 테스트된다.\nC. 필요 시 관리자가 일선 인력의 업무를 대체할 수 있다.\nD. 용량 계획이 시스템 부하 변화를 정확히 예측할 수 있다.",
+      "front_en": "A company's application system must run 24 hours. Management and IS made great efforts to keep the DRP timely and effective. One important aspect of this DRP ensures:\n\nA. Organizational and operational changes are reflected in the recovery plan.\nB. System changes are fully tested before going into production.\nC. Management can substitute for front-line staff when necessary.\nD. Capacity planning can accurately predict changes in system load.",
+      "front_zh": "某公司的应用系统必须24小时工作。公司高级管理层和信息系统管理部门已经做了很大努力保证灾难恢复计划及时、有效。该公司灾难恢复计划的一个重要方面是保证\n\nA.组织和运营方面的变动在恢复计划中得到体现。\nB.对系统的变更在投入生产前已得到全面的测试。\nC.必要时管理人员能替代一线人员的工作。\nD.能力计划可以准确预测系统负荷的改变。",
+      "back": "정답: A\n\nA. 정답 — 조직·운영상의 변동은 기존 복구 계획을 무력화할 수 있으므로, 이런 변동이 최신 복구 계획에 반영되어야 한다.\nB. 오답 — 시스템 변경은 당연히 전면 테스트해야 하나, 이는 재해복구계획의 목표 범위를 넘는다.\nC. 오답 — 복구 계획은 필요 시 일선 인력 대체를 고려해야 하나, 보통 관리자가 그 역할을 맡지는 않는다.\nD. 오답 — 용량 계획의 정확성 점검은 재해복구계획의 목표 범위를 넘는다.",
+      "back_en": "Answer: A\n\nA. Correct — organizational/operational changes can invalidate the existing recovery plan, so they must be reflected in the latest plan.\nB. Incorrect — system changes must of course be fully tested, but this is beyond the DRP's scope.\nC. Incorrect — the plan should consider substituting front-line staff when needed, but management usually should not fill that role.\nD. Incorrect — checking capacity-plan accuracy is beyond the DRP's scope.",
+      "back_zh": "答案：A\n\nA.正确。公司组织和运营方面的变动可能导致原先的恢复计划失效，因此，这类变动必须在最新的恢复计划中得到体现。\nB.不正确。对系统的变更当然要进行全面测试，但这超出了灾难恢复计划的目标范围。\nC.不正确。恢复计划确实应考虑必要时如何替代一线工作人员，但通常不应由管理人员来充当。\nD.不正确。考察能力计划的准确性超出了灾难恢复计划的目标范围。",
+      "tags": [
+        "재해복구",
+        "계획 유지관리",
+        "조직 변동"
+      ]
+    },
+    {
+      "id": "p2-038",
+      "src": "4339f2f24e134a41b6599c728be54bd6",
+      "category": "정보기술 감사 — 재해복구 감사",
+      "category_en": "IT Audit — Disaster Recovery Audit",
+      "category_zh": "信息技术审计 — 灾难恢复审计",
+      "front": "어떤 조직의 재해복구 능력을 감사할 때, 내부감사인이 가장 심각한 통제 약점으로 볼 수 있는 것은?\n\nA. 테스트에 복구 스크립트를 사용했다.\nB. 핫사이트 계약이 2년 되었다.\nC. 백업 매체가 현장(온사이트)에 보관되어 있다.\nD. 매년 몇 개 시스템만 테스트한다.",
+      "front_en": "When auditing an organization's disaster recovery capability, which would the internal auditor likely consider the MOST serious control weakness?\n\nA. Testing used recovery scripts.\nB. The hot-site contract is two years old.\nC. Backup media are stored on-site.\nD. Only a few systems are tested each year.",
+      "front_zh": "在对某组织的灾难恢复能力进行审计时，内部审计人员可能认为以下哪一项是最严重的控制弱点？\n\nA.测试利用了恢复脚本。\nB.热站合同有两年时间了。\nC.备份介质被保存在现场。\nD.每年只测试几个系统。",
+      "back": "정답: C\n\nA. 오답 — 후속 사건 대응에서 스크립트 사용은 흔한 실무다.\nB. 오답 — 복구 계약은 자주 갱신되지 않는다.\nC. 정답 — 백업 매체를 현장에서 떨어진 곳에 보관하지 못한 것은 매우 심각한 통제 약점이다. (재해 시 원본과 함께 소실될 수 있다.)\nD. 오답 — 일반적으로 제한된 테스트 시간은 몇 개 시스템만 테스트하도록 허용할 뿐이다.",
+      "back_en": "Answer: C\n\nA. Incorrect — using scripts for follow-up events is common practice.\nB. Incorrect — recovery contracts are not updated frequently.\nC. Correct — failing to store backup media off-site is a very serious control weakness (they could be lost with the originals in a disaster).\nD. Incorrect — generally, limited test time only allows testing a few systems.",
+      "back_zh": "答案：C\n\nA.不正确。对后续事件来说，使用脚本是常见的实务。\nB.不正确。恢复合同不是经常更新的。\nC.正确。没能在远离现场的地方保存备份介质是一项非常严重的控制弱点。\nD.不正确。一般来说，有限的测试时间仅仅允许测试几个系统。",
+      "tags": [
+        "재해복구",
+        "백업 매체",
+        "오프사이트"
+      ]
+    },
+    {
+      "id": "p2-039",
+      "src": "e6b55c744660466fbfdfdd46fd968707",
+      "category": "정보기술 감사 — 사업연속성/위험분석",
+      "category_en": "IT Audit — BCP / Risk Analysis",
+      "category_zh": "信息技术审计 — 灾难因素分析",
+      "front": "조직의 재해(disaster) 구성 요소를 결정할 때 필요한 것은?\n\nA. 위험 분석(risk analysis)\nB. 문서·장비 백업 요구 분석\nC. 공급업체 공급 협약 분석\nD. 비상 설비 계약 분석",
+      "front_en": "In determining what constitutes a disaster for an organization, which is necessary?\n\nA. Risk analysis\nB. Analysis of document and equipment backup requirements\nC. Analysis of vendor supply agreements\nD. Analysis of emergency facility contracts",
+      "front_zh": "在确定一个组织的灾难构成因素时，以下哪一项是必要的？\n\nA.风险分析。\nB.文件和设备备份需求分析。\nC.供应商供货协议分析。\nD.应急设施合同分析。",
+      "back": "정답: A\n\nA. 정답 — 위험 분석은 각 위험의 수준과 그 위험을 초래할 수 있는 요인을 확정한다.\nB. 오답 — 문서·장비 백업 요구 분석은 재해 후 복구성 요구를 확정한다.\nC. 오답 — 공급업체 공급 협약 분석은 공급 협약의 합리성을 확정한다.\nD. 오답 — 비상 설비 계약 분석은 재해 후 비상 설비 가동의 타당성을 확정한다.",
+      "back_en": "Answer: A\n\nA. Correct — risk analysis determines the level of each risk and the factors that could cause it.\nB. Incorrect — backup requirements analysis determines post-disaster recovery needs.\nC. Incorrect — vendor supply agreement analysis determines the reasonableness of supply agreements.\nD. Incorrect — emergency facility contract analysis determines the feasibility of activating emergency facilities.",
+      "back_zh": "答案：A\n\nA.正确。风险分析确定各项风险的级别及可能导致该风险的因素。\nB.不正确。文件和设备备份需求分析确定灾难发生后的恢复性需求。\nC.不正确。供应商供货协议分析确定供货协议的合理性。\nD.不正确。应急设施合同分析确定灾难发生后启动应急设施的可行性。",
+      "tags": [
+        "위험 분석",
+        "재해 정의",
+        "BCP"
+      ]
+    },
+    {
+      "id": "p2-040",
+      "src": "cb492cf255db402fb2e5b2498ca259df",
+      "category": "정보기술 감사 — 상호협약(재해복구)",
+      "category_en": "IT Audit — Reciprocal Agreement (DR)",
+      "category_zh": "信息技术审计 — 互惠协议",
+      "front": "재해복구에서 조직 간 상호협약(reciprocal agreement)으로 재해 대비를 구현할 때, 경영진이 가장 주의해야 할 사항은?\n\nA. 양측 IT 거버넌스 정책의 차이\nB. 시스템 테스트 빈도\nC. 비상 계획의 신뢰성\nD. 양측 소프트웨어·하드웨어의 호환성",
+      "front_en": "For disaster recovery via a reciprocal agreement between organizations, what should management be MOST concerned about?\n\nA. Differences in the two parties' IT governance policies.\nB. Frequency of system testing.\nC. Reliability of the contingency plan.\nD. Compatibility of the two parties' software and hardware.",
+      "front_zh": "就灾难恢复而言，组织之间通过签订互惠协议来实现灾备，管理层最应注意以下哪项内容？\n\nA.双方IT治理政策的差异。\nB.系统进行测试的频率。\nC.应急计划的可靠性。\nD.双方软件和硬件的兼容性。",
+      "back": "정답: D\n\nA. 오답 — IT 거버넌스 정책 차이는 상호협약을 통한 재해 대비와 직접적 관련이 크지 않다.\nB. 오답 — 시스템 테스트 빈도는 시스템 소프트·하드웨어 갱신과 관련된다.\nC. 오답 — 비상 계획의 신뢰성은 양측 장비·시스템의 호환성과 변경 후 적시 갱신에 달려 있다.\nD. 정답 — 재해복구 상호협약은 재해·시스템 장애 시 자원을 공유하기 위해 서로 다른 조직 간에 맺는 협약으로, 양측이 동일한 장비·애플리케이션 시스템을 가져야 한다. 상호 복구 협약 점검 시 경영진이 가장 신경 써야 할 것은 조직 간 하드·소프트웨어 호환성이다. 호환성이 없으면 어떤 복구 시도도 무효이거나 불가능하다.",
+      "back_en": "Answer: D\n\nA. Incorrect — IT governance policy differences are not directly related to reciprocal-agreement DR.\nB. Incorrect — test frequency relates to software/hardware updates.\nC. Incorrect — contingency plan reliability depends on equipment/system compatibility and timely updates after changes.\nD. Correct — a reciprocal DR agreement shares resources between organizations during a disaster or failure and requires identical equipment and applications. In reviewing it, management's top concern is hardware/software compatibility — without it, any recovery attempt is ineffective or impossible.",
+      "back_zh": "答案：D\n\nA.不正确。IT治理政策的差异与使用互惠协议实现灾备之间并没有太直接的关联。\nB.不正确。系统的测试频率与系统软硬件的更新有关。\nC.不正确。应急计划的可靠性取决于双方设备和系统的兼容性以及变更后的及时更新。\nD.正确。灾难恢复互惠协议是在不同组织之间达成的一项协议，以在遭受灾难或系统故障的情况下共享资源。签订互惠协议来实现灾备，需要双方具有相同的设备和应用系统。在检查互惠恢复协议时，管理层最需要关心的是组织之间的硬件和软件兼容性。没有兼容性，任何恢复尝试都将是无效的或不可能实现。",
+      "tags": [
+        "상호협약",
+        "재해복구",
+        "호환성"
+      ]
+    },
+    {
+      "id": "p2-041",
+      "src": "873a779b54e84ffc84e91513687488ae",
+      "category": "정보기술 감사 — 비상계획(업무 연속성)",
+      "category_en": "IT Audit — Contingency Plan (Continuity)",
+      "category_zh": "信息技术审计 — 应急计划",
+      "front": "경영진이 내부감사인의 권고에 따라 돌발 사태 대응 계획을 마련했다. 이 계획의 가장 핵심적인 부분이 제공해야 하는 것은? (대출/모기지 업무를 영위하는 조직 가정)\n\nA. 복구 과정에서의 부정·오남용 행위 모니터링\nB. 모기지(대출) 업무의 지속\nC. 정보 자산의 안전과 통제\nD. 복구 기간 비용의 최대한 절감",
+      "front_en": "Following the internal auditor's recommendation, management prepared a contingency plan. The most critical part of the plan should provide for: (assume a mortgage/lending organization)\n\nA. Monitoring fraud and abuse during recovery.\nB. Continuation of mortgage (lending) business.\nC. Security and control of information assets.\nD. Minimizing costs during the recovery period.",
+      "front_zh": "管理层按照内部审计人员的建议，准备了一份应付突发事件的计划。这份计划的最关键部分是提供\n\nA.监控恢复过程中的欺诈和滥用行为。\nB.继续抵押业务。\nC.信息资产的安全与控制。\nD.最大程度地降低恢复期间的费用。",
+      "back": "정답: B\n\nA. 오답 — 복구 과정의 부정·오남용 모니터링은 계획의 중요한 측면이지만, 그에 비해 모기지 업무의 정상 진행 보장이 더 핵심적이다.\nB. 정답 — 계획의 주요 목표는 모기지 업무의 연속성 유지여야 한다. 이는 기업의 상업적 신뢰와 장기 이익에 직결되는 생명선이기 때문이다.\nC. 오답 — 정보 자산의 안전·통제는 언제나 중요하나, 돌발 사태 대응 계획의 최우선 목표는 업무 무중단 보장이다.\nD. 오답 — 계획은 복구 기간 비용 절감을 고려해야 하지만, 업무 중단을 대가로 비용을 절감해서는 안 된다.",
+      "back_en": "Answer: B\n\nA. Incorrect — monitoring fraud/abuse during recovery is an important aspect, but ensuring normal continuation of mortgage business is more critical.\nB. Correct — the plan's main objective should be continuity of the mortgage business, which is the company's lifeline tied to its commercial reputation and long-term interests.\nC. Incorrect — information asset security/control is always important, but the contingency plan's top priority is uninterrupted business.\nD. Incorrect — the plan should consider cost minimization, but not at the cost of business interruption.",
+      "back_zh": "答案：B\n\nA.不正确。监控恢复过程中的欺诈和滥用行为应该是计划的一个重要方面，但相比之下，保证抵押业务的正常进行更为关键。\nB.正确。该计划的主要目标应该是保持抵押业务的连续性，因为这关系到企业的商业信誉和长远利益，是企业的生命线。\nC.不正确。信息资产的安全与控制在任何时候都很重要，但在应付突发事件的计划中，其首要目标应是保证业务不间断。\nD.不正确。计划当然应考虑如何最大程度地降低恢复期间的费用，但费用的节省不能以中断业务为代价。",
+      "tags": [
+        "비상계획",
+        "업무 연속성",
+        "우선순위"
+      ]
+    },
+    {
+      "id": "p2-042",
+      "src": "c65829b3f5934bbfbcb0607132a4404b",
+      "category": "정보기술 감사 — 저장 이중화(RAID)",
+      "category_en": "IT Audit — Storage Redundancy (RAID)",
+      "category_zh": "信息技术审计 — RAID",
+      "front": "공장 자재 재고 시스템의 다운사이징 방안을 평가할 때, 정보센터 직원이 재고 DB 저장에 저가 이중화 디스크 배열(RAID)을 사용해야 한다고 본다. RAID 기술 사용의 목적은 무엇을 보장하는 것인가?\n\nA. 한 드라이브가 고장 나도 그 모든 데이터를 재구성할 수 있다.\nB. 모든 데이터가 드라이브 간에 균등 분배된다.\nC. 모든 거래의 사전·사후 데이터가 보존된다.\nD. 동시성 충돌을 피하기 위해 기록 시간을 최소화한다.",
+      "front_en": "In evaluating a downsizing plan for a plant materials inventory system, information center staff propose using RAID to store the inventory database. The purpose of RAID is to ensure:\n\nA. If one drive fails, all its data can still be reconstructed.\nB. All data is evenly distributed across drives.\nC. Before- and after-images of all transactions are retained.\nD. Write time is minimized to avoid concurrency conflicts.",
+      "front_zh": "在对工厂材料存货系统的降型化方案进行评估时，信息中心工作人员认为应该使用廉价冗余磁盘阵列（RAID）来存放存货数据库。使用RAID技术的目的是保证\n\nA.如果一个驱动器发生故障，其所有的数据仍然可以被重构出来。\nB.所有数据在驱动器之间均匀分配。\nC.所有交易的前期、后期数据都被保留。\nD.将写入时间降至最少以避免并发性冲突。",
+      "back": "정답: A\n\nA. 정답 — RAID의 한 드라이브가 고장 나면 다른 정상 디스크로부터 고장 디스크의 데이터를 재구성할 수 있다.\nB. 오답 — RAID의 데이터가 각 드라이브에 반드시 균등 분배되는 것은 아니다.\nC. 오답 — RAID는 거래의 사전·사후 데이터를 보존하지 않는다.\nD. 오답 — RAID는 여러 디스크 동시 동작으로 어느 정도 기록 시간을 줄일 수 있으나, 동시 기록 충돌을 피할 수는 없다.",
+      "back_en": "Answer: A\n\nA. Correct — if one RAID drive fails, the failed drive's data can be reconstructed from the other non-failed disks.\nB. Incorrect — RAID data is not necessarily evenly distributed across drives.\nC. Incorrect — RAID does not retain transaction before/after images.\nD. Incorrect — RAID can somewhat reduce write time via simultaneous multi-disk operation, but cannot avoid concurrent-write conflicts.",
+      "back_zh": "答案：A\n\nA.正确。当冗余磁盘阵列（RAID）的某个驱动器发生故障时，可以从其他非故障磁盘中重构出故障盘中的数据。\nB.不正确。RAID中的数据在各驱动器之间不一定均匀分配。\nC.不正确。RAID中并不保留交易的前期、后期数据。\nD.不正确。RAID盘由于是多盘同时操作，确实可以在一定程度上降低写入时间，但不能避免并发写冲突。",
+      "tags": [
+        "RAID",
+        "데이터 이중화",
+        "복구"
+      ]
+    },
+    {
+      "id": "p2-043",
+      "src": "ad00b54375c746819aac9c63598af71c",
+      "category": "정보기술 감사 — 결함 허용(분산 시스템)",
+      "category_en": "IT Audit — Fault Tolerance (Distributed)",
+      "category_zh": "信息技术审计 — 故障弱化保护",
+      "front": "분산 정보기술 시스템이 완전히 정지할 가능성을 가장 크게 낮출 수 있는 조치는?\n\nA. 예외 보고\nB. 결함 허용(fault tolerance) 보호\nC. 백업 및 복구\nD. 데이터 파일 보안",
+      "front_en": "Which measure most reduces the likelihood that a distributed IT system completely stops?\n\nA. Exception reporting\nB. Fault-tolerance protection\nC. Backup and recovery\nD. Data file security",
+      "front_zh": "通过应用以下哪项措施可以最大程度地降低一个分布式信息技术系统完全停止运行的可能性？\n\nA.例外报告。\nB.故障弱化保护。\nC.备份和恢复。\nD.数据文件安全性。",
+      "back": "정답: B\n\nA. 오답 — 예외 보고는 갱신의 정확성·적시성 통제에 쓰이나, 시스템 중단 영향을 최대한 낮추지는 못한다.\nB. 정답 — 한 지점의 컴퓨터가 정지해도 다른 지점의 컴퓨터가 계속 가동될 수 있는 능력을 결함 허용 보호라 하며, 분산 시스템의 장점이다.\nC. 오답 — 백업 절차는 컴퓨터 고장 후 복구 과정에서 오류 변경이 유입되는 것을 방지한다.\nD. 오답 — 데이터 파일 보안 조치는 데이터 파일의 미인가 수정을 방지한다.",
+      "back_en": "Answer: B\n\nA. Incorrect — exception reporting controls the accuracy/timeliness of updates but does not minimize the impact of system outages.\nB. Correct — the ability of other nodes to keep running after one node stops is called fault tolerance, an advantage of distributed systems.\nC. Incorrect — backup procedures prevent erroneous changes from being introduced during recovery after a failure.\nD. Incorrect — data file security measures prevent unauthorized modification of data files.",
+      "back_zh": "答案：B\n\nA.不正确。例外报告可用来控制更新的准确性和及时性，但不能最大程度地降低系统中断带来的影响。\nB.正确。某个点的计算机停止运行后，其他点的计算机仍可以继续运行的能力称为故障弱化保护，这是分布式系统的一个优势。\nC.不正确。备份程序用来防止计算机故障后的恢复过程引入任何错误的改变。\nD.不正确。数据文件安全性措施用来防止对数据文件的未经授权的修改。",
+      "tags": [
+        "결함 허용",
+        "분산 시스템",
+        "가용성"
+      ]
     }
   ]
 }
