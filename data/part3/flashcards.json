@@ -11,7 +11,12 @@
       "front_en": "What are the 3 basic approaches to organizational design?",
       "back": "① Classical(전통/고전적): 권력·책임·명령통일·임무·등급·좁은 통제범위 강조. 직무가 먼저 규정되고 사람이 배정됨.\n② Behavioral(행위적): 인간의 한계·신념·효능·흥미를 강조. 직무는 사람을 위해 설계.\n③ Contingency(임의제의/상황적): 조직 고유 상황에 맞춰 설계. 전통+행위 결합, 사람과 직무가 서로 적응.",
       "back_en": "① Classical (traditional): emphasizes authority, responsibility, unity of command, tasks, hierarchy, and narrow span of control. Jobs are defined first, then people fit into jobs.\n② Behavioral: emphasizes human limits, beliefs, abilities, and interests. Jobs are designed for people.\n③ Contingency: designs the organization based on its unique situation. Combines classical and behavioral; people and jobs must fit each other.",
-      "tags": ["조직설계", "Classical", "Behavioral", "Contingency"]
+      "tags": [
+        "조직설계",
+        "Classical",
+        "Behavioral",
+        "Contingency"
+      ]
     },
     {
       "id": "p3-ch03-002",
@@ -21,7 +26,11 @@
       "front_en": "Effectiveness vs. Efficiency in Goal Congruence?",
       "back": "조직 구조가 목표 달성에 기여하면 → '효과적(Effective)'. 자원 낭비를 최소화하면 → '효율적(Efficient)'. 두 속성은 모두 조직설계의 기본 원칙.",
       "back_en": "If a structure helps the organization achieve its goals, it is effective. If it minimizes the waste of resources, it is efficient. Both are basic principles of organizational design.",
-      "tags": ["효과성", "효율성", "목표통일"]
+      "tags": [
+        "효과성",
+        "효율성",
+        "목표통일"
+      ]
     },
     {
       "id": "p3-ch03-003",
@@ -31,7 +40,10 @@
       "front_en": "What is Span of Control, and what is its formula?",
       "back": "한 경영자에게 직접 보고하는 부하의 수. 공식: S = M / m\n(S = 통제범위, M = 경영자의 총 소통시간, m = 부하 1인당 평균 소통시간). 효과적 감독이 가능한 인원수에는 한계가 있다.",
       "back_en": "The number of subordinates directly reporting to a manager. Formula: S = M / m, where S = span of control, M = total time available for communication, and m = average time per subordinate. The number a manager can effectively supervise is limited.",
-      "tags": ["통제범위", "Span of Control"]
+      "tags": [
+        "통제범위",
+        "Span of Control"
+      ]
     },
     {
       "id": "p3-ch03-004",
@@ -41,7 +53,10 @@
       "front_en": "5 conditions under which a wider span of control is ideal?",
       "back": "① 경영자-부하 접촉이 빈번\n② 경영자가 위임 의지가 강함\n③ 경영자가 잘 훈련되었고 의사소통 효과적\n④ 부하 직무가 유사하고 작업절차가 표준화됨\n⑤ 경영자와 부하가 같은 장소에서 근무.",
       "back_en": "① Frequent manager-subordinate contact\n② Manager is willing to delegate\n③ Manager is well-trained and communicates effectively\n④ Subordinate jobs are similar and procedures standardized\n⑤ Manager and subordinates work at the same location.",
-      "tags": ["통제범위", "넓은범위"]
+      "tags": [
+        "통제범위",
+        "넓은범위"
+      ]
     },
     {
       "id": "p3-ch03-005",
@@ -51,7 +66,10 @@
       "front_en": "Conditions under which a narrower span of control is ideal?",
       "back": "① 업무가 점점 복잡해짐\n② 감독 빈도·강도가 증가\n③ 다른 감독자와 협조에 시간이 더 듦\n④ 계획 업무에 시간이 더 필요.",
       "back_en": "① Work becomes more complex\n② Frequency and intensity of supervision increase\n③ More time is required to coordinate with other supervisors\n④ More time is needed for planning.",
-      "tags": ["통제범위", "좁은범위"]
+      "tags": [
+        "통제범위",
+        "좁은범위"
+      ]
     },
     {
       "id": "p3-ch03-006",
@@ -61,7 +79,11 @@
       "front_en": "Compare advantages and disadvantages of Flat vs. Tall structures",
       "back": "Flat: 통제범위 넓음·관리계층 적음. 장점=정보 흐름 빠름, 직원 만족도↑. 단점=감독↓로 훈련 부족·협조 부족·행동문제.\nTall: 통제범위 좁음·관리계층 많음. 장점=문제해결 빠르고 효과적, 경영자-직원 상호작용·명령 강제↑. 단점=의사결정 느림, 과잉감독, 관리비↑, 자율성↓.\n조사상 어느 쪽이 더 우세한지는 결론 없음.",
       "back_en": "Flat: wide span of control, fewer management layers. Pros: faster information flow, higher employee satisfaction. Cons: less supervision can lead to insufficient training, poor coordination, and behavioral issues.\nTall: narrow span, many layers. Pros: faster and more effective problem-solving, more manager-subordinate interaction, stronger command enforcement. Cons: slower decision-making, over-supervision, higher management costs, less initiative.\nResearch is inconclusive on which is superior.",
-      "tags": ["Flat", "Tall", "구조비교"]
+      "tags": [
+        "Flat",
+        "Tall",
+        "구조비교"
+      ]
     },
     {
       "id": "p3-ch03-007",
@@ -71,7 +93,10 @@
       "front_en": "What is the Unity of Command principle?",
       "back": "전통적 조직(예: 군대)이 강조하는 원칙. 권력과 책임이 명확히 구분되고, **각 부하는 단 한 명의 상사에게만 보고**한다. 조직이 커질수록 더 중요해짐.",
       "back_en": "A principle stressed by traditional organizations (e.g., the military). Authority and responsibility are clearly defined, and each subordinate reports to only one supervisor. The principle becomes more important as the organization grows.",
-      "tags": ["명령통일", "Unity of Command"]
+      "tags": [
+        "명령통일",
+        "Unity of Command"
+      ]
     },
     {
       "id": "p3-ch03-008",
@@ -81,7 +106,11 @@
       "front_en": "What is the difference between Line and Staff activities?",
       "back": "Line: 조직의 핵심 기능·제품·서비스에 직접 책임지는 활동(생산, 그리고 목표에 따라 영업·재무도 가능).\nStaff: Line에 자문·전문지원을 제공. 필수적이지만 Line에 종속됨.\nPersonal staff(보좌): 특정 경영자에게 배속. Specialized staff(전문): 조직 전체에 서비스 제공.",
       "back_en": "Line activities are directly responsible for the organization's core functions, products, or services (production; sales and finance may also be line, depending on the organization's goals).\nStaff activities provide advice and specialized support to line. They are essential but subordinate to line.\nPersonal staff are assigned to a specific manager. Specialized staff serve the whole organization.",
-      "tags": ["Line", "Staff", "권한"]
+      "tags": [
+        "Line",
+        "Staff",
+        "권한"
+      ]
     },
     {
       "id": "p3-ch03-009",
@@ -91,7 +120,13 @@
       "front_en": "What are the 4 levels of authority a staff group can have?",
       "back": "① Advisory(조언) – 건의·계획안만 제공, 채택은 Line 결정\n② Concurrent(동등) – Line 결정에 staff 동의 필요(예: 법무 부서 사인)\n③ Complete in a specialty(특정영역 완전권한) – 해당 영역은 staff가 결정 (정보시스템·구매·인사 등)\n④ Control(통제) – staff가 직접 통제(품질검사관). 명령통일과 충돌 가능.",
       "back_en": "① Advisory – staff only provides recommendations and plans; line decides whether to adopt.\n② Concurrent – line decisions require staff agreement (e.g., legal department sign-off).\n③ Complete in a specialty – staff has full authority in that area (e.g., information systems, purchasing, HR).\n④ Control – staff directly controls (e.g., quality inspectors). May conflict with unity of command.",
-      "tags": ["Staff권한", "Advisory", "Concurrent", "Complete", "Control"]
+      "tags": [
+        "Staff권한",
+        "Advisory",
+        "Concurrent",
+        "Complete",
+        "Control"
+      ]
     },
     {
       "id": "p3-ch03-010",
@@ -101,7 +136,10 @@
       "front_en": "What is Functional Authority?",
       "back": "Line-Staff 통제관계의 결합체로, 유기식(Organic) 구조에서 흔함. 명령체계 외부의 누군가가 특정 활동에 대해 권한을 행사 — 그 사람은 해당 영역의 전문가(Line·Staff 무관). 예: 영업담당 부사장이 주문계획·포장·수리부품 공급에 대해 직능 관리권을 가짐.",
       "back_en": "A combination of line and staff control relationships, often found in organic structures. Someone outside the chain of command exercises authority over a specific activity — that person is an expert in the area (could be line or staff). Example: a VP of Sales is granted functional authority over order planning, packaging, and repair parts supply.",
-      "tags": ["Functional Authority", "직능권력"]
+      "tags": [
+        "Functional Authority",
+        "직능권력"
+      ]
     },
     {
       "id": "p3-ch03-011",
@@ -111,7 +149,10 @@
       "front_en": "What are the 4 features of a Mechanistic structure and its suitable environment?",
       "back": "특징: ① 엄격한 통제 ② 고도의 분업 ③ 고도의 정규화 ④ 집권화. 정보망 제한·직원 의사결정 참여 적음.\n적합 환경: 안정적·확정적 환경. '죽은 관료제'라고도 불림. 임무·권리·의무는 명확하지만 개인 노력과 조직목표의 연결은 불분명.",
       "back_en": "Features: ① rigid controls, ② high division of labor, ③ high formalization, ④ centralization. Limited information networks; little employee participation in decisions.\nFits stable and certain environments. Also called 'dead bureaucracy.' Tasks, rights, and duties are clearly defined, but the link between individual effort and organizational goals is unclear.",
-      "tags": ["Mechanistic", "기계식"]
+      "tags": [
+        "Mechanistic",
+        "기계식"
+      ]
     },
     {
       "id": "p3-ch03-012",
@@ -121,7 +162,10 @@
       "front_en": "Features of an Organic structure and its suitable environment?",
       "back": "권력 분산, 복잡성·정규화 낮음, 강한 정보시스템, 직원이 의사결정에 참여, 유연·적응적.\n적합 환경: 불안정·불확정 환경. 임무는 거칠고 유연, 자기통제 위주, 상사는 정보·자문 제공, 의사소통은 공동참여·횡적.",
       "back_en": "Decentralized authority; low complexity and formalization; strong information systems; employee participation in decision-making; flexible and adaptive.\nFits unstable and uncertain environments. Tasks are loosely defined, self-control predominates, supervisors provide information and advice, and communication is participative and lateral.",
-      "tags": ["Organic", "유기식"]
+      "tags": [
+        "Organic",
+        "유기식"
+      ]
     },
     {
       "id": "p3-ch03-013",
@@ -131,7 +175,10 @@
       "front_en": "How should organizational structure align with strategy?",
       "back": "① Innovation(혁신) 전략 → Organic 구조 (유연성)\n② Cost minimization(비용 최소화) → Mechanistic 구조 (엄격 통제)\n③ Imitation(모방) — 검증된 시장 진입 → Mechanistic + Organic 결합 구조.",
       "back_en": "① Innovation strategy → Organic structure (flexibility).\n② Cost minimization strategy → Mechanistic structure (tight control).\n③ Imitation — entering markets others have already proven → a hybrid combining Mechanistic and Organic elements.",
-      "tags": ["전략", "구조선택"]
+      "tags": [
+        "전략",
+        "구조선택"
+      ]
     },
     {
       "id": "p3-ch03-014",
@@ -141,7 +188,11 @@
       "front_en": "Three drivers of organizational structure (Size, Technology, Environment) and general tendencies?",
       "back": "Size: 큰 조직 → Mechanistic 경향(정규화 필요). 100명→200명은 큰 변화, 10000명→10100명은 거의 영향 없음.\nTechnology: 비표준 기술 문제는 Organic이 더 적합 (정규화 ↓).\nEnvironment: 안정적일수록 Mechanistic. 동태/복잡 환경 → Organic. 환경 불확정성은 Capacity·Volatility·Complexity에 의해 결정.",
       "back_en": "Size: larger organizations tend toward Mechanistic structures (formalization is necessary). Going from 100 to 200 employees is significant; 10,000 to 10,100 has almost no effect.\nTechnology: Organic structures handle non-routine technology problems better (lower formalization needed).\nEnvironment: more stable → more Mechanistic. Dynamic / complex environments → Organic. Environmental uncertainty depends on capacity, volatility, and complexity.",
-      "tags": ["Size", "Technology", "Environment"]
+      "tags": [
+        "Size",
+        "Technology",
+        "Environment"
+      ]
     },
     {
       "id": "p3-ch03-015",
@@ -151,7 +202,10 @@
       "front_en": "What are Mintzberg's 5 basic parts of an organization?",
       "back": "① Operating core(핵심운영층) – 생산 관련 기본업무 수행\n② Strategic apex(전략최고결정층) – 고위 경영자\n③ Middle line(중층실선) – 핵심운영층과 전략층 연결\n④ Technostructure(기술형 인원) – 표준화 분석가\n⑤ Support staff(협동인원) – 간접지원 서비스.",
       "back_en": "① Operating core – workers performing the basic production-related tasks.\n② Strategic apex – top management.\n③ Middle line – managers connecting the operating core to the strategic apex.\n④ Technostructure – analysts who design standardization processes.\n⑤ Support staff – provides indirect support services.",
-      "tags": ["Mintzberg", "5부분"]
+      "tags": [
+        "Mintzberg",
+        "5부분"
+      ]
     },
     {
       "id": "p3-ch03-016",
@@ -161,7 +215,12 @@
       "front_en": "What are Mintzberg's 5 structural configurations?",
       "back": "① Simple structure(단순) – 소형소매상; 복잡성·정규성 낮고 집권화. 전략층 주도.\n② Machine bureaucracy(기계관료) – 군대; 표준임무, 직능부문화, 엄격 명령. Technostructure 주도.\n③ Professional bureaucracy(전문관료) – 대학·도서관; 권력분산, 전문가 자주성. 핵심운영층 주도.\n④ Divisional(사업부) – 대형 복합기업; 사업부=독립기업, 직능 중복. 중층실선 주도.\n⑤ Adhocracy(임시위원회) – 소형 소프트웨어 개발사; Organic, 유연·반응 빠름. 협동인원 주도.",
       "back_en": "① Simple structure – e.g., a small retailer; low complexity and formalization, centralized. Dominated by the strategic apex.\n② Machine bureaucracy – e.g., the military; standardized tasks, functional departmentalization, strict command. Dominated by the technostructure.\n③ Professional bureaucracy – e.g., a university or library; decentralized, expert autonomy. Dominated by the operating core.\n④ Divisional – e.g., a large conglomerate; each division is essentially an independent firm with duplicated functions. Dominated by the middle line.\n⑤ Adhocracy – e.g., a small software developer; organic, flexible, fast-responding. Dominated by support staff.",
-      "tags": ["Mintzberg", "5구조", "Adhocracy", "Bureaucracy"]
+      "tags": [
+        "Mintzberg",
+        "5구조",
+        "Adhocracy",
+        "Bureaucracy"
+      ]
     },
     {
       "id": "p3-ch03-017",
@@ -171,7 +230,10 @@
       "front_en": "What are the 3 layers of an Hourglass organization?",
       "back": "① 전략결정층 — 사명 확정·조직 성공 보장\n② (얇은 허리) 중간 경영자 — 다양한 저층 부문을 조정. 단순 정보 전달은 컴퓨터가 대체.\n③ 권한 위임된 기술 전문가 — 자기감독. 승진 기회 적은 대신 횡적 이동·도전적 업무·신기술 훈련·성과보수로 동기부여.",
       "back_en": "① Strategic decision layer — sets the mission and ensures success.\n② (Thin waist) Middle managers — coordinate various lower-level cross-functional units; computers replace routine information passing.\n③ Empowered technical experts — self-supervised. With fewer promotion paths, they are motivated by lateral mobility, challenging work, new-skill training, and performance pay.",
-      "tags": ["Hourglass", "신구조"]
+      "tags": [
+        "Hourglass",
+        "신구조"
+      ]
     },
     {
       "id": "p3-ch03-018",
@@ -181,7 +243,10 @@
       "front_en": "What is a Network organization, and what is its transaction-cost condition?",
       "back": "여러 독립 기업이 상호적응·공동협력으로 구성. 암묵적 계약 기반의 장기 전략관계.\n네트워크 기술 한계: **외부원가 + 거래비용 < 내부원가**. 즉 거래비용을 낮춰야 네트워크가 시장에 비해 우위.\n거래비용 = 정보탐색·협상·계약·이행감독·법적조치 비용.",
       "back_en": "A network is composed of relatively independent firms that mutually adapt and cooperate. It is a long-term strategic relationship based on an implicit contract.\nThe technical limit of a network is: **external cost + transaction cost < internal cost**. Network firms must drive down transaction costs to outperform the market.\nTransaction costs include: searching for information, negotiating, contracting, monitoring performance, and taking legal action.",
-      "tags": ["Network", "거래비용"]
+      "tags": [
+        "Network",
+        "거래비용"
+      ]
     },
     {
       "id": "p3-ch03-019",
@@ -191,7 +256,10 @@
       "front_en": "What are the 6 types of Departmentalization and the key trait of each?",
       "back": "① 직능별(Function): 가장 보편. 마케팅·생산·재무. 전문화 ↑, 협조 부족.\n② 지역별(Geography): 분산된 자원. 현지 반응 빠름, 시설 중복.\n③ 제품/서비스별: 고도 자주권 단위, 자본 효율적 배분. 관리인력 多.\n④ 고객별: 특정 고객 전담, 통상 영업부서 안에서 발생.\n⑤ 프로젝트별: 일회성·실험성 활동(대형 건축).\n⑥ 작업흐름별(BPR 후): 횡적·평탄, 외부 고객 만족도 초점.",
       "back_en": "① By function: most common — marketing, production, finance. Pros: specialization. Cons: poor cross-function coordination.\n② By geography: dispersed resources; faster local response; duplicated facilities.\n③ By product/service: highly autonomous units; efficient capital allocation; needs many managers.\n④ By customer: dedicated to specific customers, usually within the sales function.\n⑤ By project: one-time or experimental activities (e.g., constructing a ship).\n⑥ By work flow (post-BPR): horizontal, flat; focus on external customer satisfaction.",
-      "tags": ["부문화", "Departmentalization"]
+      "tags": [
+        "부문화",
+        "Departmentalization"
+      ]
     },
     {
       "id": "p3-ch03-020",
@@ -201,7 +269,11 @@
       "front_en": "What is the modern (Contingency) view on Centralization vs. Decentralization?",
       "back": "둘 자체는 좋고 나쁨이 없음 — 환경에 따라 적합도가 다름.\n• 안정·확정 환경 → 집권화 우세\n• 불안정·불확정 환경 → 분권화 우세\n분권화 금지: 조직 생존·발전에 중대한 결정 / 정보·훈련·경험·능력 부족자에게 위임 / 협조가 필수인 결정.\n분권화 우호: 활동에 가까운 사람의 빠른 결정 필요 시.",
       "back_en": "Neither is inherently good or bad — fit depends on the environment.\n• Stable, certain environment → centralization tends to succeed.\n• Unstable, uncertain environment → decentralization tends to succeed.\nDo NOT decentralize: decisions vital to the firm's survival; decisions requiring information/training/experience/competence the subordinate lacks; decisions requiring coordination across units.\nDO decentralize: fast decisions that should be made close to the activity.",
-      "tags": ["집권화", "분권화", "Contingency"]
+      "tags": [
+        "집권화",
+        "분권화",
+        "Contingency"
+      ]
     },
     {
       "id": "p3-ch03-021",
@@ -211,7 +283,9 @@
       "front_en": "4 signs that an organization is highly decentralized?",
       "back": "① 더 많은 의사결정이 더 낮은 계층에서 이뤄짐\n② 더 중요한 의사결정이 더 낮은 계층에서 이뤄짐\n③ 더 많은 직능이 더 낮은 계층의 결정 영향을 받음\n④ 낮은 계층의 결정이 고위 감독을 더 적게 받음.",
       "back_en": "① More decisions are made at lower levels.\n② More important decisions are made at lower levels.\n③ More functions are affected by decisions made at lower levels.\n④ Lower-level decisions face less review by upper management.",
-      "tags": ["분권화 정도"]
+      "tags": [
+        "분권화 정도"
+      ]
     },
     {
       "id": "p3-ch03-022",
@@ -221,7 +295,10 @@
       "front_en": "4 essential traits of a Strategic Business Unit (SBU)?",
       "back": "① 모회사의 공급자가 아니라 자체 시장을 가짐\n② 외부 경쟁에 직면\n③ 이익센터(Profit center)\n④ 자체 사업의 모든 중대 결정을 스스로 내림(자원은 모회사와 공유 가능).\n→ 대형 조직이 소기업의 관리 우위를 얻기 위해 채용하는 분권화 방법.",
       "back_en": "① Has its own market — it is not merely a supplier to the parent.\n② Faces external competition.\n③ Is a profit center.\n④ Makes all significant decisions about its own business (though it may share resources with the parent).\n→ A decentralization method used by large organizations to gain the management advantages of a small firm.",
-      "tags": ["SBU", "이익센터"]
+      "tags": [
+        "SBU",
+        "이익센터"
+      ]
     },
     {
       "id": "p3-ch03-023",
@@ -231,7 +308,10 @@
       "front_en": "What are the 6 steps of the Delegation process?",
       "back": "① 기대 결과 확정 → ② 임무·책임 분배 → ③ 임무 완수에 필요한 권한 위임 → ④ 책임지는 인원 모집 → ⑤ 객관적 언어로 기대 결과 명확 소통 → ⑥ 후속관리(Follow-up). 위임자도 여전히 최종 책임을 진다.",
       "back_en": "① Determine the expected results → ② Assign tasks and responsibilities → ③ Delegate the authority needed to complete the tasks → ④ Recruit the people who will be accountable → ⑤ Clearly communicate the expected results in objective language → ⑥ Follow up. The delegator still bears the ultimate responsibility.",
-      "tags": ["위임", "Delegation"]
+      "tags": [
+        "위임",
+        "Delegation"
+      ]
     },
     {
       "id": "p3-ch03-024",
@@ -241,7 +321,9 @@
       "front_en": "4 common barriers to Delegation?",
       "back": "① 위임자가 완벽주의·자기인정 낮음·비판/경쟁 두려움·부하 신뢰 부족·위험허용 낮음\n② 직무 경계 모호\n③ 통제 실패\n④ 상급자가 위임 모범을 보이지 않음.",
       "back_en": "① The delegator is a perfectionist, has low self-confidence, fears criticism/competition, lacks trust in subordinates, or has low risk tolerance.\n② Job boundaries are ambiguous.\n③ Controls fail.\n④ Higher-ups do not model delegation.",
-      "tags": ["위임장애"]
+      "tags": [
+        "위임장애"
+      ]
     },
     {
       "id": "p3-ch03-025",
@@ -251,7 +333,9 @@
       "front_en": "5 levels of delegation (lowest to highest)?",
       "back": "① 조사하고 상사에게 보고만\n② 조사 + 행동 건의\n③ 조사 + 행동방안 건의\n④ 조사 + 행동 후 어떤 행동을 했는지 보고\n⑤ 조사하고 행동 (보고 없음).",
       "back_en": "① Investigate and report to the supervisor only.\n② Investigate and recommend action.\n③ Investigate and recommend a course of action.\n④ Investigate, take action, and report what action was taken.\n⑤ Investigate and take action (no reporting required).",
-      "tags": ["위임정도"]
+      "tags": [
+        "위임정도"
+      ]
     },
     {
       "id": "p3-ch03-026",
@@ -261,7 +345,10 @@
       "front_en": "What is the definition of a Supply Chain?",
       "back": "① 원료, ② 부품, ③ 완제품, ④ 서비스, ⑤ 정보가 공급원에서 중간상을 거쳐 최종소비자까지 흐르는 과정. 이 흐름은 동일 조직의 가치사슬 직능(연구·설계·생산·영업·분배·고객서비스)을 거치거나 여러 조직에 걸쳐 발생할 수 있다. 어디서 발생하든 비용 최적화를 위해 통합·조정되어야 함.",
       "back_en": "The flow of (1) raw materials, (2) components, (3) finished goods, (4) services, or (5) information from their source through intermediaries to the final consumer. This flow can occur within an organization's value-chain functions (R&D, design, production, sales, distribution, customer service) or across multiple organizations. Wherever it occurs, it must be integrated and coordinated to optimize cost.",
-      "tags": ["공급망", "Supply Chain"]
+      "tags": [
+        "공급망",
+        "Supply Chain"
+      ]
     },
     {
       "id": "p3-ch03-027",
@@ -271,7 +358,10 @@
       "front_en": "What is the Bullwhip Effect, and what are its 4 causes?",
       "back": "공급망을 거슬러 올라갈수록 수요변동이 점점 증폭되는 현상. 소매상의 수요 불확실성 → 제조사 주문 변동 → 공급사 주문 더 큰 변동.\n원인: ① 각 단계 수요·파생수요 예측 곤란 ② 비용효율 원칙에 따른 일괄 구매·생산 ③ 가격 상승 예상 시 매점 ④ 부족 시 할당으로 인한 매점/공급 부족.",
       "back_en": "The phenomenon where demand variability is amplified as it moves up the supply chain. Retailer demand uncertainty → larger variability in manufacturer orders → even larger variability in supplier orders.\nCauses: ① Difficulty forecasting demand and derived demand at each stage. ② Batch purchasing/production driven by cost efficiency. ③ Stockpiling when price increases are anticipated. ④ Hoarding caused by allocation during shortages.",
-      "tags": ["Bullwhip", "채찍효과"]
+      "tags": [
+        "Bullwhip",
+        "채찍효과"
+      ]
     },
     {
       "id": "p3-ch03-028",
@@ -281,7 +371,10 @@
       "front_en": "4 ideal outcomes when sharing information (sales, inventory, pricing, promotions, forecasts) across the supply chain?",
       "back": "① 공급사·제조사·소매상의 재고 최소화\n② 결품 회피\n③ 긴급주문 감소\n④ 소매상 수요량에 맞춘 생산.\n어려움: 정보시스템 비호환, 보안 우려로 공유 거부, 자원 투입 부족, 상대방 의무 불이행 우려.",
       "back_en": "① Minimized inventories for suppliers, manufacturers, and retailers.\n② Avoided stock-outs.\n③ Fewer rush orders.\n④ Production matched to retailer demand.\nDifficulties: incompatible information systems, refusal to share due to security concerns, insufficient resource investment, and concerns that partners may not fulfill obligations.",
-      "tags": ["정보공유", "공급망"]
+      "tags": [
+        "정보공유",
+        "공급망"
+      ]
     },
     {
       "id": "p3-ch03-029",
@@ -291,7 +384,10 @@
       "front_en": "What are the 5 types of distribution Intermediaries?",
       "back": "① Merchant middlemen(무역중간상): 상품 직접 매입·소유권 획득. 도매상·소매상.\n② Agent(대리인): 위탁자 대신 협상, 소유권 없음.\n③ Broker(경기인): 매도-매수 연결. 안정적 관계 없음, 소유권 위험 없음. 예: 여행사.\n④ Consignee(대판인): 위탁자 상품을 팔고 수수료. 소유권은 판매 시까지 위탁자.\n⑤ Facilitating intermediary(서비스성중간상): 채널 외부, 재고통제·금융·위험관리·정보·홍보 서비스 제공.",
       "back_en": "① Merchant middlemen – directly buy goods and take title (wholesalers, retailers).\n② Agents – negotiate on the principal's behalf without taking title.\n③ Brokers – connect buyers and sellers; no stable relationship and no ownership risk (e.g., travel agencies).\n④ Consignees – sell the principal's goods on commission; title remains with the principal until sale.\n⑤ Facilitating intermediaries – outside the channel; provide services such as inventory control, financing, risk management, information, and promotion.",
-      "tags": ["중간상", "Distribution"]
+      "tags": [
+        "중간상",
+        "Distribution"
+      ]
     },
     {
       "id": "p3-ch03-030",
@@ -301,7 +397,11 @@
       "front_en": "What are the 4 types of distribution channel systems?",
       "back": "① Conventional(전통): 독립적 생산자·도매·소매가 각자 이익만 추구, 시스템 전체 최적화 안 됨.\n② Vertical(수직): 생산-도매-소매가 공동소유·계약·주도 1사로 통합. 충돌은 단계 간 발생.\n③ Horizontal(수평): 같은 수준의 둘 이상 실체가 횡적으로 연합(예: 슈퍼마켓에 ATM 도입). 충돌은 동일 단계에서.\n④ Multi-channel(다채널): 1개 기업이 2개 이상 채널 운영. 충돌은 채널 간 발생.",
       "back_en": "① Conventional – independent producers, wholesalers, and retailers each pursue their own profit; the system is not optimized as a whole.\n② Vertical – producer/wholesaler/retailer integrated through common ownership, contracts, or one dominant member. Conflicts arise between levels.\n③ Horizontal – two or more entities at the same level join (e.g., placing ATMs in supermarkets). Conflicts arise within the same level.\n④ Multi-channel – one firm operates two or more channels. Conflicts arise between channels.",
-      "tags": ["채널구조", "Vertical", "Horizontal"]
+      "tags": [
+        "채널구조",
+        "Vertical",
+        "Horizontal"
+      ]
     },
     {
       "id": "p3-ch03-031",
@@ -311,7 +411,11 @@
       "front_en": "Inventory Placement — when to use Forward vs. Backward placement?",
       "back": "Forward placement(향전 배치): 재고를 최종고객 가까이(분배센터·도매·소매)에 둠 → 운송비·거래시간 최소화. 저가·널리 보급된 일용소비재(비누·신문)에 적합. 밀집 분배경로 활용.\nBackward placement(향후 배치): 재고를 공장에 두거나 무재고(주문생산). 맞춤형 제품 / 수요 변동이 격렬해 예측 불가능한 경우 적합.",
       "back_en": "Forward placement: keep inventory close to the end customer (distribution center, wholesaler, retailer) → minimizes shipping cost and transaction time. Best for low-priced, ubiquitous consumer goods (soap, newspapers) using intensive distribution channels.\nBackward placement: keep inventory at the factory, or hold zero inventory (build-to-order). Best for customized products or when demand is so volatile that it cannot be forecast.",
-      "tags": ["재고배치", "Forward", "Backward"]
+      "tags": [
+        "재고배치",
+        "Forward",
+        "Backward"
+      ]
     },
     {
       "id": "p3-ch03-032",
@@ -321,7 +425,10 @@
       "front_en": "What are the 4 system structures in Queueing Theory?",
       "back": "① 단통도·단단계: 모든 사용자 단일 대기열, 한 지점에서 서비스(ATM)\n② 단통도·다단계: 단일 대기열, 여러 서비스 지점 순차 통과(드라이브스루: 주문→결제→픽업)\n③ 다통도·단단계: 다수 서비스 지점, 각자 자기 대기열(대형 슈퍼 계산대)\n④ 다통도·다단계: 다수 대기열·각각 여러 서비스 지점(병원의 각 진료과).\n부하 사용량↑ → 대기시간↑. 무작위 도착은 Poisson 분포를 따름.",
       "back_en": "① Single-channel, single-phase: all users form one queue served at one point (ATM).\n② Single-channel, multi-phase: one queue, multiple sequential service points (drive-thru: order → pay → pick up).\n③ Multi-channel, single-phase: multiple service points each with its own queue (supermarket checkouts).\n④ Multi-channel, multi-phase: multiple queues, each with several service points (hospital departments).\nUtilization ↑ → waiting time ↑. Random arrivals follow a Poisson distribution.",
-      "tags": ["Queueing", "대기열"]
+      "tags": [
+        "Queueing",
+        "대기열"
+      ]
     },
     {
       "id": "p3-ch03-033",
@@ -331,7 +438,11 @@
       "front_en": "What problems does Linear Programming (LP) solve, and what are its core elements?",
       "back": "선형 제약조건 하에서 선형 목적함수의 극값(최대/최소) 해. 자원 한정 시 수익·이익 최대화 또는 비용 최소화 해를 찾음.\n구성: 목적함수 + 제약조건 + 비음제약. 그래프법(가능영역의 꼭짓점)과 대수법(연립방정식)으로 해결.\n장점: 다양한 문제 적용 가능, 민감도 분석에 유용.\n단점: 모든 비용이 변동/고정 등 선형 가정의 한계.",
       "back_en": "LP finds the optimal (max/min) value of a linear objective function under linear constraints. Used to maximize revenue/profit or minimize cost when resources are limited.\nElements: objective function + constraints + non-negativity. Solved by graphical method (corners of the feasible region) or algebraic method (simultaneous equations).\nStrengths: applies to many problem types; useful for sensitivity analysis.\nWeakness: linearity assumptions (e.g., all costs purely variable or fixed).",
-      "tags": ["LP", "Linear Programming", "선형계획"]
+      "tags": [
+        "LP",
+        "Linear Programming",
+        "선형계획"
+      ]
     },
     {
       "id": "p3-ch03-034",
@@ -341,7 +452,10 @@
       "front_en": "What is a Shadow Price?",
       "back": "LP에서 **긴제약(binding constraint)**이 1단위 변화할 때 목적함수의 최적해가 변화하는 값. 비긴제약(non-binding)은 여유 생산능력이 있으므로 그림자 가격 = 0(추가 1단위가 최적해를 바꾸지 않음). 민감도 분석의 간단한 예.",
       "back_en": "In an LP problem, the change in the optimal value of the objective function from a one-unit change in a **binding constraint**. A non-binding constraint has a shadow price of zero — there is excess capacity, so adding one more unit does not improve the solution. A simple example of sensitivity analysis.",
-      "tags": ["Shadow Price", "민감도"]
+      "tags": [
+        "Shadow Price",
+        "민감도"
+      ]
     },
     {
       "id": "p3-ch03-035",
@@ -351,7 +465,11 @@
       "front_en": "What is the core assumption of the Theory of Constraints (TOC), and what are its 5 analysis steps?",
       "back": "기본 가정: 흐름 개선의 최적안은 모든 부분의 효율을 최대화하는 것이 아니라 **가장 느린 부분(제약·병목)에 집중**하는 것. 비제약 공정의 효율을 높이면 시스템에 재고만 쌓일 뿐.\n분석 5단계: ① 제약 식별 ② 제약 하 가장 수익성 있는 제품조합 결정 ③ 제약을 통과하는 흐름 최대화 ④ 제약의 부하 증대(예: 직원 추가 채용) ⑤ 유연성·속도 향상을 위해 생산 프로세스 재설계.",
       "back_en": "Core assumption: improving a process is not about maximizing every part's efficiency but **focusing on the slowest part (the constraint or bottleneck)**. Improving non-constraint stages only piles up WIP inventory.\nFive analysis steps: ① Identify the constraint. ② Determine the most profitable product mix given the constraint. ③ Maximize flow through the constraint. ④ Increase the constraint's capacity (e.g., hire more staff). ⑤ Redesign the production process to improve flexibility and speed.",
-      "tags": ["TOC", "제약이론", "병목"]
+      "tags": [
+        "TOC",
+        "제약이론",
+        "병목"
+      ]
     },
     {
       "id": "p3-ch03-036",
@@ -361,7 +479,11 @@
       "front_en": "How is Throughput Margin calculated, and what is the TOC decision rule?",
       "back": "**산출이익 = 판매수익 − 직접원료비** (다른 제조원가는 단기 고정으로 무시).\n제약(병목)에서의 단위시간당 산출이익이 가장 높은 제품을 우선 생산해야 이익이 최대화된다.\n주의: 단위 산출이익이 가장 높은 제품이 아니라, **제약 단위시간당 산출이익**이 가장 높은 제품을 선택.",
       "back_en": "**Throughput margin = Sales revenue − Direct material cost** (other manufacturing costs are fixed in the short run and ignored).\nProfit is maximized by producing the product with the highest throughput margin **per unit of constraint time**.\nKey point: it is NOT the product with the highest throughput per unit, but the highest throughput **per constraint hour**.",
-      "tags": ["Throughput", "TOC", "산출이익"]
+      "tags": [
+        "Throughput",
+        "TOC",
+        "산출이익"
+      ]
     },
     {
       "id": "p3-ch03-037",
@@ -371,7 +493,10 @@
       "front_en": "What distinguishes Business Process Reengineering (BPR)?",
       "back": "기존 시스템의 점진적 개선이 아닌 **핵심 흐름을 처음부터 새로 설계**. 단순화·비부가가치 활동 제거에 초점. 점진개선·정밀개선이 아닌 가장 중요한 흐름에 전용. 통상 부서 간(Cross-functional) 흐름 혁신, IT·재훈련에 대규모 투자 필요. 성공 시 고객서비스·신제품 출시 속도에서 현저한 개선.",
       "back_en": "BPR is **redesigning core processes from scratch**, not incrementally improving existing systems. It focuses on simplification and eliminating non-value-added activities — reserved for the most important processes, not continuous or fine-tuning improvements. It typically drives cross-functional process innovation requiring substantial investment in IT and retraining. Successful BPR brings significant improvements in customer service and time-to-market for new products.",
-      "tags": ["BPR", "흐름재공정"]
+      "tags": [
+        "BPR",
+        "흐름재공정"
+      ]
     },
     {
       "id": "p3-ch03-038",
@@ -381,7 +506,10 @@
       "front_en": "What is Value Engineering?",
       "back": "체계적으로 제품·서비스의 기능을 검토해 **기능과 원가의 균형**을 통해 가치를 개선. 가치 = 기능 / 원가. 기본 기능을 유지·완벽화하면서 불필요한 기능을 줄이거나 원가를 낮춰 가치를 최대화. BPR에서 매우 유용 — 제품 원가와 고객의 잠재적 수요(제품 기능)를 명확하게 균형 잡음.",
       "back_en": "A systematic review of a product/service's functions to improve value by **balancing function against cost**. Value = Function / Cost. Maximize value by retaining and perfecting essential functions while removing unnecessary functions or reducing cost. Particularly useful in BPR — it explicitly balances product cost against the customer's latent need (product function).",
-      "tags": ["Value Engineering", "가치공학"]
+      "tags": [
+        "Value Engineering",
+        "가치공학"
+      ]
     },
     {
       "id": "p3-ch03-039",
@@ -391,7 +519,12 @@
       "front_en": "How have BPR and TQM changed traditional controls?",
       "back": "현대 기술로 생산성↑·문서량↓을 달성하므로 통제는 **자동화·자기수정** 방식으로 전환되며, 인적 개입은 최소화. 감사인은 새 기술을 충분히 이해해야 함.\n통제 초점은 **감독(Monitoring)**으로 이동 — 경영진이 운영의 통제 상실 시점과 시정조치 필요시점을 판단할 수 있도록 함.\n지속적 감독 = 정기평가 또는 일상운영의 일부.",
       "back_en": "Modern technology raises productivity and cuts paperwork, so controls shift toward **automation and self-correction** with minimal human intervention. Auditors must understand the new technologies.\nThe focus of control shifts to **monitoring** — enabling management to determine when operations may have lost control and when corrective action is needed.\nContinuous monitoring takes the form of periodic evaluations or part of daily operations.",
-      "tags": ["BPR", "TQM", "감독", "자동화통제"]
+      "tags": [
+        "BPR",
+        "TQM",
+        "감독",
+        "자동화통제"
+      ]
     },
     {
       "id": "p3-ch03-040",
@@ -401,7 +534,366 @@
       "front_en": "Main causes of employee resistance during BPR/TQM adoption?",
       "back": "전면 참여가 동기부여로 이어지나, 일부 불안감 있는 직원은 저항할 수 있음. 원인: ① 기능 부족 ② 실패에 대한 두려움 ③ 작업 동료가 흩어지는 것을 원치 않음 ④ 기타 개인적 사유. 변화관리·재훈련·소통이 핵심.",
       "back_en": "Full participation tends to motivate, but insecure employees may resist. Causes: ① lack of skills, ② fear of failure, ③ unwillingness to be separated from current coworkers, ④ other personal reasons. Change management, retraining, and clear communication are essential.",
-      "tags": ["변화관리", "저항"]
+      "tags": [
+        "변화관리",
+        "저항"
+      ]
+    },
+    {
+      "id": "p3-bk-001",
+      "src": "44d48ebd4147454b94f02eaf5069724a",
+      "category": "전략경영 — 전략목표",
+      "category_en": "Strategy — Strategic Objectives",
+      "category_zh": "战略管理 — 战略目标",
+      "front": "전략목표는 기업이 전략 기간 내 전략적 행동을 통해 도달하려는 결과다. 전략목표의 역할에 관한 설명으로 옳지 않은 것은?\n\nA. 전략목표는 기업 전진의 추진력이다.\nB. 전략목표는 기업을 하나의 통일체로 응집시키는 결속력이다.\nC. 전략목표는 직원의 적극성과 창의성에 대한 동기부여다.\nD. 전략목표는 기업의 발전 방향이다.",
+      "front_en": "A strategic objective is the result a firm seeks through strategic actions within the strategy period. Which statement about the ROLE of strategic objectives is INCORRECT?\n\nA. Strategic objectives are the driving force propelling the firm forward.\nB. They are the cohesive force binding the firm into a unified whole.\nC. They motivate employees' initiative and creativity.\nD. They are the firm's direction of development.",
+      "front_zh": "战略目标是企业通过战略期内的战略行动而想达到的结果。关于战略目标的作用，以下哪项说法不正确？\n\nA.战略目标是企业前进的推动力\nB.战略目标是企业凝结为统一体的内聚力\nC.战略目标是企业职工积极性和创造性的激励\nD.战略目标是企业的发展方向",
+      "back": "정답: D\n\nA. 옳음 — 전략목표가 있으면 기업 전체·각 계층이 명확한 목표를 갖고 힘을 결집해 전진한다.\nB. 옳음 — 목표 체계가 서면 자원이 전략목표에 따라 통일·조정되어 하나의 통일체로 응집된다.\nC. 옳음 — 목표는 방향을 제시하고 직원을 고무·동원해 적극성과 창의성을 발휘하게 한다.\nD. 틀림(정답) — 전략목표는 도달하려는 '결과'(장기 목표)다. '발전 방향'은 미래의 지향으로 전략목표와는 다르다.",
+      "back_en": "Answer: D\n\nA. Correct — with objectives, the whole firm and each level have clear goals, concentrating effort to move forward.\nB. Correct — an objective system unifies and coordinates resources, cohering the firm into a whole.\nC. Correct — objectives set direction and mobilize employees' initiative and creativity.\nD. Incorrect (the answer) — a strategic objective is the RESULT to be achieved (a long-term goal). 'Direction of development' is a future orientation, which differs from a strategic objective.",
+      "back_zh": "答案：D\n\nA.不正确（属于作用）。企业有了战略目标，各方面、各层次有了奋斗目标，力量集中推动企业前进。\nB.不正确。建立目标体系能把各种力量、资源统一协调，凝结为统一整体。\nC.不正确。战略目标指明方向、明确要求，激励职工发挥积极性和创造性。\nD.正确（即错误说法）。战略目标是通过战略行动想达到的结果（长期奋斗目标）。发展方向是未来一段时间的走向，不同于战略目标。",
+      "tags": [
+        "전략목표",
+        "전략경영",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-002",
+      "src": "ce724233a3a34c82a46c8395b469b0cd",
+      "category": "조직행동 — 동기부여 이론",
+      "category_en": "OB — Motivation Theory",
+      "category_zh": "组织行为 — 激励理论",
+      "front": "허즈버그(Herzberg)의 2요인 이론(만족 요인과 불만족 요인) 중 불만족 요인(위생 요인)에 속하는 것은?\n\nA. 승진\nB. 임금(급여)\nC. 도전적인 업무\nD. 책임",
+      "front_en": "In Herzberg's two-factor theory (satisfiers and dissatisfiers), which belongs to the dissatisfiers (hygiene factors)?\n\nA. Promotion\nB. Salary (pay)\nC. Challenging work\nD. Responsibility",
+      "front_zh": "赫茨伯格建立的关于员工行为的双因素理论，即满意因素和非满意因素，下列属于不满意因素的是：\n\nA.晋升\nB.工资\nC.挑战性的工作\nD.责任",
+      "back": "정답: B\n\n2요인 이론(동기-위생 이론, 허즈버그)에서 만족 요인(동기 요인)에는 성취·인정·일 자체·책임·승진·성장 등이, 불만족 요인(위생 요인)에는 감독·회사 정책·상사와의 관계·작업 조건·임금·동료 관계·개인 생활·지위·보장 등이 포함된다. 따라서 임금은 위생 요인이다.",
+      "back_en": "Answer: B\n\nIn the motivation-hygiene theory, satisfiers (motivators) include achievement, recognition, the work itself, responsibility, advancement, and growth; dissatisfiers (hygiene factors) include supervision, company policy, relationship with supervisor, working conditions, salary, peer relations, personal life, status, and security. Thus salary is a hygiene factor.",
+      "back_zh": "答案：B\n\n双因素理论又称激励—保健理论，由赫茨伯格提出。满意因素包括成就、承认、工作本身、责任、晋升、成长等；非满意因素包括监督、公司政策、与监督者的关系、工作条件、工资、同事关系、个人生活、地位、保障等。故工资属于不满意（保健）因素。",
+      "tags": [
+        "허즈버그",
+        "2요인 이론",
+        "위생요인"
+      ]
+    },
+    {
+      "id": "p3-bk-003",
+      "src": "a632b1ac762345b7bb030f81e8f65f6a",
+      "category": "경영과학 — 분석기법",
+      "category_en": "Management Science — Analysis",
+      "category_zh": "管理科学 — 分析方法",
+      "front": "제품 판매가·원자재 가격 등 요인의 변화가 기업 이익에 미치는 영향의 폭을 측정하는 분석 방법은?\n\nA. 민감도 분석(sensitivity analysis)\nB. 시뮬레이션 모델\nC. 델파이법\nD. 예측(forecasting)",
+      "front_en": "Which analysis method measures how changes in factors such as selling price and raw-material cost affect a firm's profit?\n\nA. Sensitivity analysis\nB. Simulation model\nC. Delphi method\nD. Forecasting",
+      "front_zh": "测算产品售价、原材料价格等因素变化对企业利润造成的影响幅度，这种分析方法称为：\n\nA.敏感性分析\nB.模拟模型\nC.德尔菲法\nD.预测",
+      "back": "정답: A\n\n민감도 분석은 의사결정에서 고려하는 어떤 요인이 변할 때 예상 결과에 미치는 영향을 분석하는 방법이다.",
+      "back_en": "Answer: A\n\nSensitivity analysis examines the impact on the expected outcome when a factor considered in a decision changes.",
+      "back_zh": "答案：A\n\n敏感性分析是对决策中考虑的某一因素变化时给预计结果带来的影响进行分析。",
+      "tags": [
+        "민감도 분석",
+        "경영과학"
+      ]
+    },
+    {
+      "id": "p3-bk-004",
+      "src": "cd1d78ea9f3047a0bf1203fb3f41a5d8",
+      "category": "전략경영 — 다각화",
+      "category_en": "Strategy — Diversification",
+      "category_zh": "战略管理 — 多元化经营",
+      "front": "다음 중 다각화 경영의 전략적 이익에 속하지 않는 것은?\n\nA. 규모의 경제\nB. 관리의 편의성\nC. 경영 위험 분산\nD. 경쟁력 강화",
+      "front_en": "Which is NOT a strategic benefit of diversification?\n\nA. Economies of scale\nB. Ease of management\nC. Spreading business risk\nD. Enhanced competitiveness",
+      "front_zh": "以下不属于多元化经营的战略利益的是：\n\nA.规模经济\nB.方便管理\nC.分散经营风险\nD.增强竞争力",
+      "back": "정답: B\n\n다각화 경영은 조직 기구를 비대하게 만들어 관리의 난도를 높인다. 따라서 '관리의 편의'는 다각화의 이익이 아니다.",
+      "back_en": "Answer: B\n\nDiversification enlarges the organization and increases management difficulty, so 'ease of management' is not a benefit.",
+      "back_zh": "答案：B\n\n多元化经营使得组织机构变得庞大，加大了管理的难度。",
+      "tags": [
+        "다각화",
+        "전략 이익",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-005",
+      "src": "5a96d24fd07e4509ba24a3f62aa41455",
+      "category": "경영과학 — 시계열 분석",
+      "category_en": "Management Science — Time Series",
+      "category_zh": "管理科学 — 时间序列",
+      "front": "시계열 분석에서 계절 변동의 영향을 제거하려면 원자료(원시 데이터)를 어떻게 해야 하는가?\n\nA. 계절지수를 더한다\nB. 계절지수를 뺀다\nC. 계절지수를 곱한다\nD. 계절지수로 나눈다",
+      "front_en": "In time-series analysis, to eliminate the effect of the seasonal variable, the raw data should be:\n\nA. Added to the seasonal index\nB. Subtracted by the seasonal index\nC. Multiplied by the seasonal index\nD. Divided by the seasonal index",
+      "front_zh": "某内审师在利用时间序列分析法进行分析，为了消除季节变量的影响，需要将原始数据：\n\nA.加季节指数\nB.减季节指数\nC.乘季节指数\nD.除季节指数",
+      "back": "정답: D\n\n시계열에서 계절 요인을 제거하려면 원자료를 계절지수로 나눈다.",
+      "back_en": "Answer: D\n\nTo remove the seasonal factor from a time series, divide the raw data by the seasonal index.",
+      "back_zh": "答案：D\n\n如需要在时间序列中剔除季节因子，需要将原始数据除以季节指数。",
+      "tags": [
+        "시계열",
+        "계절지수",
+        "경영과학"
+      ]
+    },
+    {
+      "id": "p3-bk-006",
+      "src": "3dca934d369a452f942ae598998fd4b4",
+      "category": "조직 — 조직구조",
+      "category_en": "Organization — Structure",
+      "category_zh": "组织 — 组织结构",
+      "front": "모래시계형(hourglass) 조직은 세 계층으로 구성된다. 다음 중 모래시계형 조직의 계층에 속하지 않는 것은?\n\nA. 전략관리층\nB. 경영자(중간관리)층\nC. 작업 전문가층\nD. 기술 전문가층",
+      "front_en": "An hourglass organization has three levels. Which is NOT one of them?\n\nA. Strategic management level\nB. Manager (middle) level\nC. Operational specialist level\nD. Technical specialist level",
+      "front_zh": "沙漏型组织中共有三个阶层，下列哪项不属于沙漏型组织中的层级？\n\nA.战略管理层\nB.经理层\nC.作业专才层\nD.技术专才层",
+      "back": "정답: C\n\n모래시계형 조직의 세 계층은 ①전략관리층(사명 결정·성공 보장), ②매우 작은 중간경영층(하위의 교차기능 활동 조정, 전문가가 아닌 제너럴리스트), ③기술 전문가층(최하층, 일정 권한 위임·대부분 자기관리, 승진 가능성은 낮지만 수평 이동·도전적 업무·신기술 교육·성과급으로 동기부여)이다. '작업 전문가층'은 해당하지 않는다.",
+      "back_en": "Answer: C\n\nThe three levels are: (1) strategic management (sets mission, ensures success); (2) a very small middle-manager layer (coordinates cross-functional activities below; generalists, not specialists); (3) technical specialists (the bottom, largely self-managed with some delegation, limited promotion but motivated via lateral moves, challenging work, training, and performance pay). 'Operational specialist level' is not one of them.",
+      "back_zh": "答案：C\n\n沙漏型组织有三个层级：战略管理层（确定使命并确保成功）；很小的中间经理层（协调下级跨职能活动，是通才而非专才）；技术专才层（最底层，多为自我管理，缺乏晋升可能，但通过横向调动、挑战性工作、新技能培训和绩效工资激励）。",
+      "tags": [
+        "모래시계형 조직",
+        "조직구조",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-007",
+      "src": "1d87fc085d8846bfb6ef5a65dadcc442",
+      "category": "조직행동 — 집단 역학",
+      "category_en": "OB — Group Dynamics",
+      "category_zh": "组织行为 — 群体动力",
+      "front": "조직이 집단 촉진 효과를 발휘하고 사회적 태만(social loafing)을 억제하려 한다. 효과적인 방법은?\n\nA. 집단과 개인의 업무 성과를 함께 공표한다\nB. 모든 구성원이 모두가 열심히 일하고 있음을 인식하게 한다\nC. 집단 규모를 제한한다\nD. 위 모두 옳다",
+      "front_en": "To promote group facilitation and curb social loafing, which approach is effective?\n\nA. Publish both group and individual performance\nB. Make every member aware that everyone is working hard\nC. Limit group size\nD. All of the above",
+      "front_zh": "组织应积极发挥群体促进效应，抑制社会惰化效应，以下途径有效的是：\n\nA.同时公布群体和个人的工作成绩\nB.让群体每位成员都认识到所有人都在努力工作\nC.限制群体规模\nD.以上都对",
+      "back": "정답: D\n\n사회적 태만을 억제하는 효과적 방법: ①집단과 개인의 성과를 함께 공표, ②모두가 열심히 일함을 인식시키기, ③집단 규모 제한.",
+      "back_en": "Answer: D\n\nEffective ways to curb social loafing: (1) publish both group and individual performance; (2) make members aware everyone is working hard; (3) limit group size.",
+      "back_zh": "答案：D\n\n抑制社会惰化效应的有效途径有：（1）同时公布群体和个人的工作成绩；（2）让每位成员都认识到所有人都在努力工作；（3）限制群体规模。",
+      "tags": [
+        "사회적 태만",
+        "집단 역학",
+        "조직행동"
+      ]
+    },
+    {
+      "id": "p3-bk-008",
+      "src": "3dc0170a882642708bb337f686db24c1",
+      "category": "전략경영 — 경쟁자 분석",
+      "category_en": "Strategy — Competitor Analysis",
+      "category_zh": "战略管理 — 竞争对手分析",
+      "front": "경쟁자 분석에서 경쟁자의 '현행 전략'을 진술·분석해야 한다. 다음 중 현행 전략 분석 내용에 속하지 않는 것은?\n\nA. 시장 점유율\nB. 연구개발 능력\nC. 경쟁 전략\nD. 동종업체의 잠재 경쟁력을 어떻게 추정할 것인가",
+      "front_en": "In competitor analysis, the competitor's CURRENT strategy must be described. Which is NOT part of current-strategy analysis?\n\nA. Market share\nB. R&D capability\nC. Competitive strategy\nD. How to estimate a peer's potential competitiveness",
+      "front_zh": "在企业对其竞争对手的分析中，应陈述和分析竞争对手的现行战略。以下不属于对现行战略的分析内容的是：\n\nA.市场占有率\nB.研究开发能力\nC.竞争战略\nD.如何估计同行的潜在竞争能力",
+      "back": "정답: D\n\n'동종업체의 잠재 경쟁력 추정'은 (자기)가정 측면에서 경쟁자를 분석하는 것으로, 현행 전략 분석 내용이 아니다.",
+      "back_en": "Answer: D\n\nEstimating a peer's potential competitiveness analyzes the competitor from the standpoint of (self-)assumptions, not the current strategy.",
+      "back_zh": "答案：D\n\n如何估计同行的潜在竞争能力是从自我假设的角度分析竞争对手。",
+      "tags": [
+        "경쟁자 분석",
+        "현행 전략",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-009",
+      "src": "f4509cfe0ef8437787f85bcad1963610",
+      "category": "전략경영 — 결합 전략",
+      "category_en": "Strategy — Combination Strategy",
+      "category_zh": "战略管理 — 同步组合战略",
+      "front": "조직이 동시 결합(동기 조합) 전략을 채택할 때 고려해야 할 요인은?\n\nA. 조직이 보유한 자원\nB. 각종 전략 방식의 강점 조합\nC. 주·종 전략 관계의 명확화\nD. 위 모두 옳다",
+      "front_en": "When adopting a simultaneous-combination strategy, which factors must be considered?\n\nA. The resources the organization possesses\nB. The best combination of various strategies' strengths\nC. Clarifying the primary–secondary strategy relationship\nD. All of the above",
+      "front_zh": "组织采取同步组合战略时需要考虑的因素是：\n\nA.组织具备的资源\nB.各种战略方式的优势组合\nC.明确主从战略关系\nD.以上都对",
+      "back": "정답: D\n\n동시 결합 전략 채택 시 ①보유 자원, ②각종 전략 방식의 강점 조합, ③주·종 전략 관계의 명확화를 모두 고려해야 한다.",
+      "back_en": "Answer: D\n\nAll three must be considered: available resources, the best combination of strategy strengths, and a clear primary–secondary relationship.",
+      "back_zh": "答案：D\n\n组织在采用同步组合战略时，应考虑组织具备的资源、各种战略方式的优势组合、明确主从战略关系。",
+      "tags": [
+        "결합 전략",
+        "전략경영"
+      ]
+    },
+    {
+      "id": "p3-bk-010",
+      "src": "14578b425eaf4853bd085c786ad5eb37",
+      "category": "인적자원 — 보상체계",
+      "category_en": "HR — Compensation",
+      "category_zh": "人力资源 — 薪酬体系",
+      "front": "조직이 보상(급여) 체계를 개발할 때, 좋은 효과를 내지 못할 가능성이 높은 것은?\n\nA. 보상의 효과가 가능한 한 오래 지속되게 한다\nB. 직원에게 가능한 한 최고의 보상을 준다\nC. 보상이 성과와 일치하도록 보장한다\nD. 개인에게 유용한 보상 선택지를 제공한다",
+      "front_en": "When developing a compensation system, which approach is LEAST likely to produce good results?\n\nA. Make the reward's effect last as long as possible\nB. Give employees the highest possible pay\nC. Ensure rewards are consistent with performance\nD. Offer reward choices useful to the individual",
+      "front_zh": "组织在开发薪酬体系过程中，认为以下可能不会产生良好效果的是：\n\nA.尽可能让奖励带来的效果更持久\nB.尽可能给员工最高的薪酬\nC.确保奖励与业绩一致\nD.提供一些对个人有用的奖励选择",
+      "back": "정답: B\n\n보상은 많을수록 좋은 것이 아니다. 효과적 보상체계는 설계 사상의 폭넓은 소통, 내·외적 동기 전략의 합리적 설정, 개인에게 유용한 선택지 제공, 보상과 성과의 일치, 보상 시점과 성과 시점의 근접, 수시 보상 가능, 보상 사유의 명확한 전달, 효과의 지속성 등을 고려한다.",
+      "back_en": "Answer: B\n\nMore reward is not necessarily better. An effective system considers broad communication of its design, balancing intrinsic/extrinsic incentives, useful choices, alignment of reward with performance, timing close to performance, availability of timely rewards, clear reasons for rewards, and lasting effect.",
+      "back_zh": "答案：B\n\n给员工的奖励不一定越多越好。有效薪酬体系需考虑：广泛交流设计思路；合理设置内在与外在激励；提供对个人有用的奖励选择；保证奖励与业绩一致；奖励时间与业绩完成时间相近；可随时进行奖励；清楚传达获奖理由；让奖励效果更持久。",
+      "tags": [
+        "보상체계",
+        "인적자원",
+        "동기부여"
+      ]
+    },
+    {
+      "id": "p3-bk-011",
+      "src": "377cff8adf9b45e3a2f7dfe8c1718ff8",
+      "category": "협상 — 협상 원칙",
+      "category_en": "Negotiation — Principles",
+      "category_zh": "谈判 — 谈判原则",
+      "front": "갑사 영업담당 왕씨가 최대 고객(연간 A제품 판매량의 약 60% 구매)인 갑사 구매대표와 가격 협상을 한다. 고객은 10% 인하를, 왕씨는 8% 이내만 가능하다고 한다. 왕씨의 잘못된 행동은?\n\nA. 상대 회사와 구매대표를 충분히 파악해 지피지기한다\nB. 적극적 자세로 솔직하고 신뢰하는 분위기를 조성한다\nC. 구매대표 개인의 업무능력 부족을 협상 조건으로 삼는다\nD. 개방적 자세로 중립적 제3자의 도움을 구한다",
+      "front_en": "A sales manager negotiates price with the buyer of the firm's largest customer (≈60% of annual sales). The customer demands a 10% cut; the manager can give at most 8%. Which action by the manager is WRONG?\n\nA. Thoroughly understand the customer and its buyer (know both sides)\nB. Foster an open, trusting atmosphere with a positive attitude\nC. Use the buyer's poor personal competence as a bargaining point\nD. Openly seek help from a neutral third party",
+      "front_zh": "销售经理王某与最大客户甲公司（约占年销量60%）的采购代表谈判价格。客户坚持降价10%，王某只能降不超过8%。王某以下做法中错误的是：\n\nA.对甲公司及其采购代表做到充分了解，以期知己知彼\nB.以积极的姿态营造开诚布公、信任的氛围\nC.以采购代表的个人业务能力不佳作为谈判条件\nD.以开放的姿态寻求中立第三方的帮助",
+      "back": "정답: C\n\n협상에서는 '문제'를 중심으로 소통해야 하며, '개인'을 겨냥해서는 안 된다.",
+      "back_en": "Answer: C\n\nNegotiation should focus on the issue, not attack the person.",
+      "back_zh": "答案：C\n\n谈判中要围绕问题进行沟通，不能针对个人。",
+      "tags": [
+        "협상",
+        "협상 원칙",
+        "대인"
+      ]
+    },
+    {
+      "id": "p3-bk-012",
+      "src": "566f59ffb3d24aadaad8d0561f47ba3b",
+      "category": "전략경영 — 포터 5요인",
+      "category_en": "Strategy — Porter's Five Forces",
+      "category_zh": "战略管理 — 波特五力",
+      "front": "포터의 5요인 모델은 다섯 가지 기본 경쟁력을 정의한다. 이 다섯 경쟁력의 공동 작용이 결정하는 것은?\n\nA. 산업의 장기 수익 수준과 경쟁 강도\nB. 산업의 현존 경쟁\nC. 진입 장벽\nD. 매수·매도 양측의 협상력",
+      "front_en": "Porter's Five Forces define five basic competitive forces. Their combined effect determines:\n\nA. The industry's long-term profitability and intensity of competition\nB. The industry's existing competition\nC. Barriers to entry\nD. The bargaining power of buyers and sellers",
+      "front_zh": "波特五力模型中定义了五种基本竞争力，这五种竞争力的共同作用决定了：\n\nA.产业的长期盈利水平及竞争强度\nB.产业的现有竞争\nC.进入壁垒\nD.买卖双方的议价能力",
+      "back": "정답: A\n\n다섯 경쟁력의 공동 작용은 산업의 장기 수익 수준과 경쟁 강도를 결정한다. B·C·D는 다섯 경쟁력을 구성하는 개별 요소다.",
+      "back_en": "Answer: A\n\nThe combined effect of the five forces determines the industry's long-term profitability and competitive intensity. B, C, D are individual elements of the five forces.",
+      "back_zh": "答案：A\n\n五种竞争力的共同作用决定了产业的长期盈利水平及竞争强度，B、C、D都是五种竞争力的要素。",
+      "tags": [
+        "포터 5요인",
+        "산업분석",
+        "경쟁강도"
+      ]
+    },
+    {
+      "id": "p3-bk-013",
+      "src": "3ada673e379c428e80d5ae0069b9ad73",
+      "category": "전략경영 — 차별화 전략",
+      "category_en": "Strategy — Differentiation",
+      "category_zh": "战略管理 — 差别化战略",
+      "front": "기업이 차별화 전략으로 남다른 제품·서비스를 제공해 고객의 특수 수요를 충족한다. 차별화 전략에서 통상 고려해야 할 항목은? Ⅰ.제품 품질 Ⅱ.제품 원가 Ⅲ.제품 신뢰성 Ⅳ.판매 서비스 Ⅴ.제품 혁신 Ⅵ.브랜드\n\nA. Ⅰ·Ⅱ·Ⅲ·Ⅴ\nB. Ⅰ·Ⅱ·Ⅲ·Ⅳ·Ⅴ\nC. Ⅰ·Ⅲ·Ⅳ·Ⅴ·Ⅵ\nD. Ⅰ·Ⅱ·Ⅲ·Ⅳ·Ⅴ·Ⅵ",
+      "front_en": "With a differentiation strategy a firm offers distinctive products/services. Which items should normally be considered? Ⅰ.Quality Ⅱ.Cost Ⅲ.Reliability Ⅳ.Sales service Ⅴ.Innovation Ⅵ.Brand\n\nA. Ⅰ, Ⅱ, Ⅲ, Ⅴ\nB. Ⅰ, Ⅱ, Ⅲ, Ⅳ, Ⅴ\nC. Ⅰ, Ⅲ, Ⅳ, Ⅴ, Ⅵ\nD. Ⅰ, Ⅱ, Ⅲ, Ⅳ, Ⅴ, Ⅵ",
+      "front_zh": "差别化战略通常的考虑应该是：Ⅰ.产品质量 Ⅱ.产品成本 Ⅲ.产品可靠性 Ⅳ.销售服务 Ⅴ.产品创新 Ⅵ.品牌\n\nA.Ⅰ、Ⅱ、Ⅲ、Ⅴ\nB.Ⅰ、Ⅱ、Ⅲ、Ⅳ、Ⅴ\nC.Ⅰ、Ⅲ、Ⅳ、Ⅴ、Ⅵ\nD.Ⅰ、Ⅱ、Ⅲ、Ⅳ、Ⅴ、Ⅵ",
+      "back": "정답: C\n\n차별화 전략은 제품 품질·신뢰성·판매 서비스·제품 혁신·브랜드 등의 차별화를 고려할 수 있다(원가(Ⅱ)는 차별화의 고려 요소가 아니다).",
+      "back_en": "Answer: C\n\nDifferentiation can consider quality, reliability, sales service, innovation, and brand (cost (Ⅱ) is not a differentiation factor).",
+      "back_zh": "答案：C\n\n差异化战略可以从产品质量、产品可靠性、销售服务、产品创新、产品品牌等方面的差异化考虑。",
+      "tags": [
+        "차별화 전략",
+        "전략경영"
+      ]
+    },
+    {
+      "id": "p3-bk-014",
+      "src": "7657aa4b7355488fadf246b0c979873e",
+      "category": "조직 — 조직개발",
+      "category_en": "Organization — Org Development",
+      "category_zh": "组织 — 组织发展",
+      "front": "조직개발(OD)은 조직 변혁을 촉진하는 주요 수단이다. 조직개발의 주요 목표 중 하나는?\n\nA. 리더의 권력 강화\nB. 조직 목표와 직원 목표의 통일\nC. 더 우수한 직원의 유치\nD. 조직과 관리자에게 효율 향상 수단 제공",
+      "front_en": "Organizational development (OD) is a key means of promoting change. One of its main goals is:\n\nA. Strengthen the leader's power\nB. Unify organizational goals with employee goals\nC. Attract better employees\nD. Provide means for the organization and managers to improve efficiency",
+      "front_zh": "组织发展是促进组织变革的主要手段。组织发展的主要目标之一是：\n\nA.增强领导的权力\nB.统一组织目标与员工目标\nC.吸引更优秀的员工加入组织\nD.为组织及其管理者提高效率提供手段",
+      "back": "정답: B\n\nA. 오답 — OD의 목표는 리더 권력 강화가 아니며, 오히려 참여와 권력 분담에 주목한다.\nB. 정답 — OD의 주요 지도 원칙은 개인 목표와 조직 목표의 통일이다.\nC. 오답 — OD가 문화를 강화하고 만족도를 높여 매력을 키울 수 있으나, 우수 인재 유치가 주요 목표는 아니다.\nD. 오답 — 효율 향상은 더 건강한 조직의 결과일 수 있으나, 성공한 조직은 효율이 높은 조직이 아니라 더 큰 효과를 내는 조직으로 본다.",
+      "back_en": "Answer: B\n\nA. Incorrect — OD does not aim to strengthen leaders' power; it stresses participation and power-sharing.\nB. Correct — OD's main guiding principle is unifying individual and organizational goals.\nC. Incorrect — OD can strengthen culture and satisfaction, but attracting better talent is not its main goal.\nD. Incorrect — efficiency may result from a healthier organization, but success is seen as greater effectiveness, not merely higher efficiency.",
+      "back_zh": "答案：B\n\nA.不正确。组织发展不在于增强领导者权力，反而关注参与和权力分担。B.正确。主要指导原则是将个人目标与组织目标统一。C.不正确。组织发展能增强文化、提高满意度，但吸引更优秀员工不是主要目标。D.不正确。提高效率可能源于更健康的组织，但人们认为取得更大效果的组织才是成功的，而非更高效率。",
+      "tags": [
+        "조직개발",
+        "변화관리",
+        "조직"
+      ]
+    },
+    {
+      "id": "p3-bk-015",
+      "src": "763717afcc9744c082417082433395b9",
+      "category": "조직행동 — 팀 효과성",
+      "category_en": "OB — Team Effectiveness",
+      "category_zh": "组织行为 — 团队",
+      "front": "다음 중 고성과(효율적) 팀임을 나타내는 것은?\n\nA. 팀 리더를 자랑스러워함\nB. 직면한 문제에 대해 처음 제안된 해결책에 빠르게 만장일치\nC. 위험 감수에 신중함\nD. 팀 구성원의 성장 의무를 떠맡음",
+      "front_en": "Which indicates a high-performing (effective) team?\n\nA. Taking pride in the team leader\nB. Quick unanimity on the first proposed solution to a problem\nC. Being cautious about taking risks\nD. Taking on commitment to members' growth",
+      "front_zh": "以下哪项表明了是一个高效的团队？\n\nA.以团队的领导者为荣\nB.对于团队所面临问题的第一个被提议的解决方案的快速的一致意见\nC.在承担风险方面谨慎小心\nD.承担团队成员的成长义务",
+      "back": "정답: D\n\nA. 오답 — 고성과 팀은 모든 구성원의 가치를 인정한다.\nB. 오답 — 이는 집단 토론의 다양성 결여를 반영한다.\nC. 오답 — 개인이 팀보다 위험에 더 신중한 경향이 있다.\nD. 정답 — 이런 상호 지원이 고성과 팀의 특징이다.",
+      "back_en": "Answer: D\n\nA. Incorrect — effective teams value all members.\nB. Incorrect — this reflects a lack of diversity in group discussion.\nC. Incorrect — individuals tend to be more cautious about risk than teams.\nD. Correct — such mutual support characterizes high-performing teams.",
+      "back_zh": "答案：D\n\nA.不正确。高效团队认可所有成员的价值。B.不正确。这是集体讨论缺乏多样性的反映。C.不正确。与团队相比，个人更倾向于谨慎小心。D.正确。这种相互支持是高效团队的特征。",
+      "tags": [
+        "팀 효과성",
+        "조직행동"
+      ]
+    },
+    {
+      "id": "p3-bk-016",
+      "src": "4cac4cd801804d28af680bc37221f983",
+      "category": "품질관리 — 품질비용",
+      "category_en": "Quality — Cost of Quality",
+      "category_zh": "质量管理 — 质量成本",
+      "front": "다음 중 실패비용(failure cost)에 속하지 않는 것은?\n\nA. 재작업(반복 수리)\nB. 폐기품(불량품)\nC. 작업 중단 손실\nD. 품질 개선 조치 비용",
+      "front_en": "Which is NOT a failure cost?\n\nA. Rework\nB. Scrap (defective products)\nC. Downtime loss\nD. Quality-improvement measure costs",
+      "front_zh": "以下不属于失败成本的是：\n\nA.返修\nB.废品\nC.停工损失\nD.质量改进措施费",
+      "back": "정답: D\n\n품질 개선 조치 비용은 예방비용(prevention cost)에 속한다.",
+      "back_en": "Answer: D\n\nQuality-improvement measure costs are prevention costs.",
+      "back_zh": "答案：D\n\n质量改进措施费属于预防成本。",
+      "tags": [
+        "품질비용",
+        "실패비용",
+        "제외 문제"
+      ]
+    },
+    {
+      "id": "p3-bk-017",
+      "src": "3fd1c2f02c4643a48ea454d90aafd617",
+      "category": "조직 — 조직구조 요소",
+      "category_en": "Organization — Structure Elements",
+      "category_zh": "组织 — 组织结构要素",
+      "front": "'의사결정권을 어느 계층에 둘 것인가'라는 문제를 해결하는 조직구조 구성 요소는?\n\nA. 부문화(departmentalization)\nB. 통제 범위(span of control)\nC. 명령 사슬(chain of command)\nD. 집권화와 분권화",
+      "front_en": "Which element of organizational structure addresses 'at which level decision authority should rest'?\n\nA. Departmentalization\nB. Span of control\nC. Chain of command\nD. Centralization vs. decentralization",
+      "front_zh": "\"决策权应该放在哪一级\"，能够解决这一问题的组织结构构成要素是：\n\nA.部门化\nB.控制跨度\nC.指挥链\nD.集权与分权",
+      "back": "정답: D\n\n집권화·분권화는 의사결정권을 어느 계층에 둘지의 문제를 다룬다.",
+      "back_en": "Answer: D\n\nCentralization vs. decentralization addresses at which level decision authority is placed.",
+      "back_zh": "答案：D\n\n集权与分权解决的是决策权放在哪一级的问题。",
+      "tags": [
+        "집권화",
+        "분권화",
+        "조직구조"
+      ]
+    },
+    {
+      "id": "p3-bk-018",
+      "src": "3071065b6c5c4575a881ff7b186a6687",
+      "category": "경영과학 — 프로젝트 관리(PERT/CPM)",
+      "category_en": "Management Science — PERT/CPM",
+      "category_zh": "管理科学 — PERT/CPM",
+      "front": "한 은행이 지점 관리자 대상 OJT 프로그램을 설계한다. 참가자가 가능한 빨리 수료하길 원하며, 특정 활동이 다른 활동보다 먼저 완료되어야 한다(예: 여신부 근무 경험이 없으면 신용대출 결정 불가). 이 프로그램에 적절한 공정 일정 기법은?\n\nA. PERT/CPM(프로그램 평가검토기법/임계경로법)\nB. 선형계획법\nC. 대기행렬이론\nD. 민감도 분석",
+      "front_en": "A bank designs on-the-job training for branch managers, wanting participants to finish as fast as possible, with some activities required before others (e.g., no credit-loan decisions without credit-dept experience). The appropriate scheduling method is:\n\nA. PERT/CPM (program evaluation review technique / critical path method)\nB. Linear programming\nC. Queuing theory\nD. Sensitivity analysis",
+      "front_zh": "一家银行为分行管理人员设计在职培训，希望参与者尽快完成，且某些活动须在其他活动之前完成（例如没在信贷部工作过不能做信用贷款决定）。适当的流程安排方法是：\n\nA.项目计划评审技术/关键路径法（PERT/CPM）\nB.线性规划\nC.排队论\nD.敏感性分析",
+      "back": "정답: A\n\nA. 정답 — PERT/CPM은 상호 연관된 시간순 활동을 배치하고 임계경로(critical path)를 찾을 수 있다. 각 교육 활동이 고정된 순서로 연결되어 한 활동 종료 후 다음을 진행해야 하므로 가장 적합하다.\nB. 오답 — 선형계획법은 제약하 목표의 최대·최소화를 위한 수학 도구다.\nC. 오답 — 대기행렬이론은 무작위 도착·순차 서비스에서 대기·서비스 비용 합을 최소화한다.\nD. 오답 — 민감도 분석은 의사결정 모델 결과에 기반하는데, 본 문제에는 결정 모델이 없다.",
+      "back_en": "Answer: A\n\nA. Correct — PERT/CPM sequences interrelated, time-ordered activities and finds the critical path; ideal when each activity must follow a fixed order.\nB. Incorrect — linear programming maximizes/minimizes an objective under constraints.\nC. Incorrect — queuing theory minimizes the sum of waiting and service costs for random arrivals.\nD. Incorrect — sensitivity analysis builds on a decision model's results; here there is no decision model.",
+      "back_zh": "答案：A\n\nA正确，PERT/CPM可安排相互关联的时间序列活动并发现关键路径，本题要求按固定顺序相互联系，最适合。B不正确，线性规划用来在约束下使目标最大或最小化。C不正确，排队论用于使等候与服务成本之和最小化。D不正确，敏感性分析建立在决策模型结果之上，本题不存在决策模型。",
+      "tags": [
+        "PERT",
+        "CPM",
+        "프로젝트 관리"
+      ]
+    },
+    {
+      "id": "p3-bk-019",
+      "src": "e0adaf9c0619460fb8d3954cb8782cde",
+      "category": "경영과학 — 예측 기법",
+      "category_en": "Management Science — Forecasting",
+      "category_zh": "管理科学 — 预测方法",
+      "front": "과거(역사) 데이터를 얻을 수 없을 때 사용할 수 없는 예측 방법은?\n\nA. 선형회귀법\nB. 델파이법\nC. 시나리오 기술법\nD. 직관법",
+      "front_en": "Which forecasting method CANNOT be used when no historical data is available?\n\nA. Linear regression\nB. Delphi method\nC. Scenario description\nD. Intuition",
+      "front_zh": "当无法获得历史数据时，不可能使用的预测方法是：\n\nA.线性回归法\nB.德尔菲法\nC.场景描述法\nD.直觉法",
+      "back": "정답: A\n\n과거 데이터가 없을 때는 정성적 예측 방법은 쓸 수 있으나 정량적 방법은 쓸 수 없다. 선형회귀법은 정량적 예측 방법이다.",
+      "back_en": "Answer: A\n\nWithout historical data, qualitative methods can be used but quantitative ones cannot. Linear regression is a quantitative method.",
+      "back_zh": "答案：A\n\n在无法获得历史数据时，可使用定性的预测方法而不能使用定量的预测方法，线性回归法是定量预测方法。",
+      "tags": [
+        "예측",
+        "선형회귀",
+        "정성/정량"
+      ]
+    },
+    {
+      "id": "p3-bk-020",
+      "src": "c50fed815ef04b85a5910e351dd0b85f",
+      "category": "품질관리 — TQM",
+      "category_en": "Quality — TQM",
+      "category_zh": "质量管理 — 全面质量管理",
+      "front": "전사적 품질경영(TQM)이 전략적 무기가 될 수 있는 주된 이유는?\n\nA. TQM 시행으로 점진적으로 얻은 성과는 경쟁자가 쉽게 모방할 수 없다\nB. 신제품 출시로 고객의 관심을 경쟁자로부터 끌어온다\nC. 원가 절감·품질 향상으로 주주 수익 증가에 유리하다\nD. TQM이 경영에 종합적 계획 수립 과정을 제공한다",
+      "front_en": "The main reason TQM can serve as a strategic weapon is:\n\nA. Results gradually achieved through TQM cannot be easily imitated by competitors\nB. Launching new products draws customers' attention away from competitors\nC. Lower cost and higher quality help increase shareholder returns\nD. TQM provides an integrated planning process for the business",
+      "front_zh": "全面质量管理（TQM）能作为一种战略武器的主要原因是：\n\nA.由实施全面质量管理而逐步取得的成果不能被竞争对手轻易效仿\nB.推出新产品能把顾客的注意力从竞争对手处吸引过来\nC.降低成本，提高质量，有利于增加股东的收益\nD.全面质量管理为企业经营提供了一个综合计划工作过程",
+      "back": "정답: A\n\nA. 정답 — TQM은 체계적·지속적 개선 과정으로, 그 성과는 조직 경영의 종합적 산물이자 강한 개성을 띠어 고객을 유치·유지하며 경쟁자가 쉽게 모방할 수 없다.\nB. 오답 — 신제품은 곧 모방되어 지속적 경쟁우위를 주지 못한다.\nC. 오답 — TQM은 원가 절감이 아니라 품질과 지속적 개선에 집중한다.\nD. 오답 — TQM은 여러 전략 관리 도구 중 하나일 뿐, 종합 계획 과정을 제공하지는 않는다.",
+      "back_en": "Answer: A\n\nA. Correct — TQM is a systematic, continuous improvement process; its results are a comprehensive, firm-specific outcome that attracts and retains customers and cannot be easily imitated.\nB. Incorrect — new products are quickly imitated, giving no lasting advantage.\nC. Incorrect — TQM focuses on quality and continuous improvement, not cost reduction.\nD. Incorrect — TQM is just one of many strategic tools, not an integrated planning process.",
+      "back_zh": "答案：A\n\nA正确。全面质量管理是系统的持续改善过程，成果是组织经营的综合体现，具有较强企业个性，能吸引并留住顾客，不能被竞争对手轻易效仿。B不正确。新产品很快被仿效，不能提供持续竞争优势。C不正确。TQM专注于质量和持续改进，而非降低成本。D不正确。TQM仅是众多战略管理工具之一，不会提供综合计划工作过程。",
+      "tags": [
+        "TQM",
+        "품질관리",
+        "경쟁우위"
+      ]
     }
   ]
 }
