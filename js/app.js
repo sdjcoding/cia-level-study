@@ -100,18 +100,24 @@ const Lang = {
     this.set(next);
     return next;
   },
-  // Render a (ko, en) pair according to current preference.
+  // Render a (ko, en[, zh]) tuple according to current preference.
   // Returns safe HTML. If 'en' is missing, falls back gracefully.
-  render(ko, en) {
+  // 'zh' (optional) is the original-source text; when present it is always
+  // appended as a dimmed reference line regardless of the ko/en toggle.
+  render(ko, en, zh) {
     const esc = (s) =>
       String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({
         "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
       }[c]));
     const lang = this.current();
     const hasEn = en && String(en).trim().length > 0;
-    if (lang === "ko" || !hasEn) return `<span class="lang-ko">${esc(ko)}</span>`;
-    if (lang === "en") return `<span class="lang-en-only">${esc(en)}</span>`;
-    return `<div class="lang-ko">${esc(ko)}</div><div class="lang-en">${esc(en)}</div>`;
+    const hasZh = zh && String(zh).trim().length > 0;
+    let main;
+    if (lang === "ko" || !hasEn) main = `<span class="lang-ko">${esc(ko)}</span>`;
+    else if (lang === "en") main = `<span class="lang-en-only">${esc(en)}</span>`;
+    else main = `<div class="lang-ko">${esc(ko)}</div><div class="lang-en">${esc(en)}</div>`;
+    if (hasZh) main += `<div class="lang-zh">${esc(zh)}</div>`;
+    return main;
   },
 };
 

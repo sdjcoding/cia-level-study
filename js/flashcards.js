@@ -77,13 +77,13 @@
       <div class="flashcard-container">
         <div class="flashcard" id="flashcard">
           <div class="card-face card-front">
-            <div class="card-category">${CIA.Lang.render(c.category, c.category_en)}</div>
-            <div class="card-content">${CIA.Lang.render(c.front, c.front_en)}</div>
+            <div class="card-category">${CIA.Lang.render(c.category, c.category_en, c.category_zh)}</div>
+            <div class="card-content">${CIA.Lang.render(c.front, c.front_en, c.front_zh)}</div>
             <div class="flip-hint">탭하여 답 보기 / Tap to reveal</div>
           </div>
           <div class="card-face card-back">
             <div class="card-category">정답 / Answer</div>
-            <div class="card-content">${CIA.Lang.render(c.back, c.back_en)}</div>
+            <div class="card-content">${CIA.Lang.render(c.back, c.back_en, c.back_zh)}</div>
             <div class="card-tags">
               ${(c.tags || []).map((t) => `<span class="tag">${escapeHTML(t)}</span>`).join("")}
             </div>

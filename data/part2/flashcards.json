@@ -1,0 +1,35 @@
+{
+  "part": 2,
+  "title": "Part 2 - Practice of Internal Auditing",
+  "source": "yiwenjy.com (querySubjectList, sectionId=911be012d49348dd8a00e5f52bcbd473)",
+  "cards": [
+    {
+      "id": "p2-001",
+      "src": "dea11a851adf4fdfa1ef059a97da7186",
+      "category": "정보기술 감사 — 최종사용자컴퓨팅(EUC)",
+      "category_en": "IT Audit — End-User Computing (EUC)",
+      "category_zh": "信息技术审计 — 终端用户计算(EUC)",
+      "front": "응용(애플리케이션) 수준에서 최종사용자컴퓨팅(EUC) 통제를 감사할 때, 점검 절차에 포함되어야 하는 것은?\n\nA. EUC 관리·정책·절차 및 최종사용자 지원을 평가한다.\nB. EUC 애플리케이션을 식별하고, 위험 등급을 매기며, 통제를 문서화하고 테스트한다.\nC. 교육 현황, 사용자 만족도 및 데이터 소유권을 점검한다.\nD. 물리적 보안, 논리적 보안, 백업 및 복구 계획을 평가한다.",
+      "front_en": "When auditing end-user computing (EUC) controls at the application level, the review procedures should include:\n\nA. Evaluating EUC management, policies, procedures, and end-user support.\nB. Identifying EUC applications, risk-ranking them, and documenting and testing the controls.\nC. Reviewing training, user satisfaction, and data ownership.\nD. Evaluating physical security, logical security, and backup and recovery plans.",
+      "front_zh": "当在应用层面上对终端用户计算（EUC）控制进行审计时，检查程序应包括：\n\nA. 评价EUC管理，政策，程序及终端用户支持。\nB. 标识出EUC应用，对其进行风险分级，并对控制进行文件记录和测试。\nC. 检查培训情形、用户满意程度及数据所有权。\nD. 对物理安全性、逻辑安全性、备份及恢复计划进行评价。",
+      "back": "정답: B\n\nA. 오답 — 이는 응용 수준이 아니라 조직(전사) 수준의 감사 업무에 해당한다.\nB. 정답 — EUC 애플리케이션에 내재된 잠재적 위험을 고려할 때, EUC 애플리케이션을 식별하고 위험 등급을 매기며 테스트할 필요가 있다.\nC. 오답 — 이는 점검 과정에서 수행하는 일부 구체적 작업일 뿐, 응용 수준의 점검 절차 자체는 아니다.\nD. 오답 — 이 역시 점검 절차를 구성하는 일부 구체적 작업일 뿐이다.",
+      "back_en": "Answer: B\n\nA. Incorrect — these belong to organization-level rather than application-level audit work.\nB. Correct — given the potential risks inherent in EUC applications, it is necessary to identify, risk-rank, and test EUC applications.\nC. Incorrect — these are only specific tasks performed during the review, not the application-level review procedure itself.\nD. Incorrect — likewise, these are only specific tasks that make up the review procedure.",
+      "back_zh": "答案：B\n\nA. 不正确。这些应是组织层面而不是应用层面上的审计工作。\nB. 正确。鉴于EUC应用所固有的潜在风险，有必要对EUC应用进行标识、风险分级和测试。\nC. 不正确。这些仅是构成检查过程中的一些具体操作，而不是应用层面上的检查程序。\nD. 不正确。这些同样仅是构成检查程序的一些具体操作。",
+      "tags": ["EUC", "IT감사", "애플리케이션 통제"]
+    },
+    {
+      "id": "p2-002",
+      "src": "2b311c1698cc42dd90bbc934d205b252",
+      "category": "정보기술 감사 — 프로그래밍/시스템 소프트웨어",
+      "category_en": "IT Audit — Programming / System Software",
+      "category_zh": "信息技术审计 — 程序设计/系统软件",
+      "front": "원시 프로그램(소스 코드)에 대해 문법 검사를 수행하고 이를 목적 코드(object code)로 번역하는 프로그램은?\n\nA. 인터프리터(해석기)\nB. 컴파일러(번역기)\nC. 디버거\nD. 암호화 프로그램",
+      "front_en": "Which program performs syntax checking on a source program and translates it into object code?\n\nA. Interpreter\nB. Compiler\nC. Debugger\nD. Encryption program",
+      "front_zh": "能对源程序进行语法检查，并将其翻译成目标代码的程序是？\n\nA. 解释程序。\nB. 编译程序。\nC. 调试程序。\nD. 加密程序。",
+      "back": "정답: B\n\nA. 오답 — 인터프리터는 고급 언어 프로그램을 중간 코드로 변환하여 한 줄씩 해석·실행한다.\nB. 정답 — 컴파일러는 소스 프로그램의 문법을 검사하고 이를 목적 코드로 번역하는 프로그램이다.\nC. 오답 — 디버거는 프로그램의 실행을 추적하여 오류가 발생한 코드를 찾는 데 사용된다.\nD. 오답 — 암호화 프로그램은 민감한 데이터를 암호로 변환하여 정보 유출을 방지하는 데 사용된다.",
+      "back_en": "Answer: B\n\nA. Incorrect — an interpreter converts a high-level language program into intermediate code and executes it line by line.\nB. Correct — a compiler checks the syntax of the source program and translates it into object code.\nC. Incorrect — a debugger is used to trace program execution and locate the code where an error occurs.\nD. Incorrect — an encryption program cryptographically transforms sensitive data to prevent information leakage.",
+      "back_zh": "答案：B\n\nA. 不正确。解释程序将高级语言程序转换成中间代码，并逐行解释执行。\nB. 正确。编译程序对源程序进行语法检查，并将其翻译成目标代码的程序。\nC. 不正确。调试程序用于跟踪程序的执行，并找到发生错误的代码。\nD. 不正确。加密程序用于对敏感数据进行密码变换，防止信息泄露。",
+      "tags": ["컴파일러", "인터프리터", "시스템 소프트웨어"]
+    }
+  ]
+}
